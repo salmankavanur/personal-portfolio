@@ -1,0 +1,60 @@
+/*
+    COMMON STYLES IN CHEF TEMPLATE
+*/
+
+.chef-bg{
+    background-color: var(--purple-4);
+}
+
+/*
+    CHEF TEMPLATE MAIN STYLES
+*/
+.chef{
+
+    /*
+        CHEF TEMPLATE HEADER STYLE
+    */
+
+    &-header{
+        &__nav{
+            ul{
+                li{
+                    a{
+                        color: var(--white);
+                        font-family: var(--font_tropline);
+                        color: var(--white-19);
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+        &__navicon{
+            #lang-default{
+                color: var(--white);
+            }
+            .menu-icon-2{
+                &::before{
+                    background-color: var(--white);
+                }
+                &::after{
+                    background-color: var(--white);
+                }
+            }
+        }
+        &__search{
+            button{
+                i{
+                    color: var(--white);
+                }
+            }
+        }
+    }
+
+    /*
+        CHEF TEMPLATE INTRO STYLE
+    */
+
+    &-intro{
+        
+    }
+}
