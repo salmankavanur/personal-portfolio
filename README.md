@@ -37,7 +37,7 @@ It's a Laravel project for personal portfolio. Feel free to contact with me on m
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/salmankavanur/personal-portfolio.git
     cd your-repository
     ```
 
