@@ -30,7 +30,9 @@ It's a Laravel project for personal portfolio. Feel free to contact with me on m
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Learning Laravel](#learning)
+- [Laravel Sponsors](#sponsors)
+- [Premium Partners](#partners)
 
 ## Installation
 
@@ -38,7 +40,7 @@ It's a Laravel project for personal portfolio. Feel free to contact with me on m
 
     ```bash
     git clone https://github.com/salmankavanur/personal-portfolio.git
-    cd your-repository
+    cd personal-portfolio
     ```
 
 2. **Install dependencies:**
