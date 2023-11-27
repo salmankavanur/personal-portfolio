@@ -116,5 +116,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## Take a Look here
 
-![demo](http://url/to/img.png)
 ![Demo](https://aicedu.tk/screenshot.png)
