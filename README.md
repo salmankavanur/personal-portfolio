@@ -30,9 +30,6 @@ It's a Laravel project for personal portfolio. Feel free to contact with me on m
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Learning Laravel](#learning)
-- [Laravel Sponsors](#sponsors)
-- [Premium Partners](#partners)
 
 ## Installation
 
