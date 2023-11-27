@@ -114,6 +114,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## Take a Look here!
+## Take a Look here
 
-![Demo](https://salman.aicedu.tk/screenshot.png)
+![demo](http://url/to/img.png)
+![Demo](https://aicedu.tk/screenshot.png)
