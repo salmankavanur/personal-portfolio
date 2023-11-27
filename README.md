@@ -75,10 +75,6 @@ It's a Laravel project for personal portfolio. Feel free to contact with me on m
 
     Your application will be available at `http://localhost:8000`.
 
-## Usage
-
-Explain how to use your application. Provide examples and any necessary information.
-
 ## Contributing
 
 If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
