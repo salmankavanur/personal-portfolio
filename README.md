@@ -21,6 +21,68 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+# Laraval Personal Portfolio
+
+It's a Laravel project for personal portfolio. Feel free to contact with me on mpsalman2011@gmail.com or +918129489071 (Whatsapp)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    composer install
+    ```
+
+3. **Copy the environment file:**
+
+    ```bash
+    cp .env.example .env
+    ```
+
+    Update the `.env` file with your database and other configuration settings.
+
+4. **Generate application key:**
+
+    ```bash
+    php artisan key:generate
+    ```
+
+5. **Run migrations and seed the database:**
+
+    ```bash
+    php artisan migrate --seed
+    ```
+
+6. **Start the development server:**
+
+    ```bash
+    php artisan serve
+    ```
+
+    Your application will be available at `http://localhost:8000`.
+
+## Usage
+
+Explain how to use your application. Provide examples and any necessary information.
+
+## Contributing
+
+If you'd like to contribute, please fork the repository and create a new branch. Pull requests are welcome!
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
