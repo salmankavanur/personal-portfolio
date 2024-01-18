@@ -24,6 +24,7 @@
 
 </head>
 
+
 <body class="font-heading-estedad">
 
   <!-- Preloader -->
@@ -158,16 +159,16 @@
     <div id="smooth-content">
       <div class="body-wrapper">
 
-        <main class="sidebar-left">
+      <main class="sidebar-left">
 
-  <div class="pd-header">
-    <a href="{{ url('/') }}">
-      <img src="{{ asset('assets/imgs/logo/site-logo-light.png') }}" alt="Site Logo">
-    </a>
-    <button class="header__navicon-2">
-      <img id="header_navicon_2" class="icon" src="{{ asset('assets/imgs/logo/menu-icon-white.png') }}" alt="Icon">
-    </button>
-  </div>
+<div class="pd-header">
+  <a href="{{ url('/') }}">
+    <img src="{{ asset('assets/imgs/logo/site-logo-light.png') }}" alt="Site Logo">
+  </a>
+  <button class="header__navicon-2">
+    <img id="header_navicon_2" class="icon" src="{{ asset('assets/imgs/logo/menu-icon-white.png') }}" alt="Icon">
+  </button>
+</div>
 
 
           <!-- Hero section start -->
@@ -201,7 +202,7 @@
                   <div class="pdesigner-hero__right">
                     <div class="pdesigner-hero__text">
                       <div class="cf-image has_fade_anim " data-on-scroll="0" data-delay="1.2">
-                       <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Shape Image" class="mb-30">
+                      <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Shape Image" class="mb-30">
                       </div>
                       <div class="cf-text has_fade_anim" data-delay="1.2">
                         <p>A Freelance Web & Graphics Designer and Developer <span>based in Kerala, India</span>. I strives to build
@@ -234,8 +235,8 @@
                 data-fade-offset="100">
                 <img src="../assets/imgs/shape/8.png" alt="Shape Image">
               </div>
-                
-<div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
+
+              <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
                 data-duration="3">
   <img src="{{ asset('assets/imgs/hero/2.png') }}" alt="Hero image">
 </div>
@@ -304,7 +305,7 @@
               </div>
             </div>
             <div class="pdesigner-about__img cf_image">
-             <img src="{{ asset('assets/imgs/about/2.png') }}" alt="Author Image
+              <img src="../assets/imgs/about/2.png" alt="Author Image">
             </div>
           </section>
           <!-- About section end -->
@@ -368,13 +369,18 @@
                                 <li>Language <span>:</span> <strong>German, ENglish</strong></li>
                               </ul>
                             </div>
-                           
-                              <div class="developer-about__img">
+                            <div class="developer-about__img">
   <div class="cf_image has_fade_anim">
     <img src="{{ asset('assets/imgs/about/1.png') }}" alt="About Me" class="about-me">
   </div>
   <div class="cf_image has_fade_anim">
-    <img src="{{ asset('assets/imgs/shape/3.png') }}" alt="
+    <img src="{{ asset('assets/imgs/shape/3.png') }}" alt="Shape Image" class="about-shape-1">
+  </div>
+  <div class="cf_image has_fade_anim">
+    <img src="{{ asset('assets/imgs/shape/4.png') }}" alt="Shape Image" class="about-shape-2">
+  </div>
+</div>
+
 
                             </div>
                           </div>
@@ -495,7 +501,7 @@
                           </div>
                         </div>
 
-              <div class="developer-resume-tab-box" id="resume-tab-5">
+                        <div class="developer-resume-tab-box" id="resume-tab-5">
                           <div class="developer-award__grid">
                             <div class="award__item">
                               <h2 class="award__date">01 <span>2018</span></h2>
@@ -525,7 +531,6 @@
                               <h3 class="award__title">05x Developer Award</h3>
                               <h4 class="award__status">Ruuners Up</h4>
                             </div>
-                                  
                           </div>
                         </div>
                       </div>
@@ -1160,6 +1165,9 @@
 <script src="{{ asset('assets/js/error-handling.js') }}"></script>
 <script src="{{ asset('assets/js/offcanvas.js') }}"></script>
 <script src="{{ asset('assets/js/wc-cursor.js') }}"></script>
+
+
+
 
 </body>
 
