@@ -508,29 +508,33 @@
                           <div class="developer-award__grid">
                             <div class="award__item">
                               <h2 class="award__date">01 <span>2018</span></h2>
-                              <img src="../assets/imgs/award/1.png" alt="Award Image" class="show-dark">
-                              <img src="../assets/imgs/award/w-black.png" alt="Award Image" class="show-light">
+                              <img src="{{ asset('assets/imgs/award/1.png') }}" alt="Award Image" class="show-dark">
+                              <img src="{{ asset('assets/imgs/award/w-black.png') }}" alt="Award Image" class="show-light">
+
                               <h3 class="award__title">01x Developer Award</h3>
                               <h4 class="award__status">Nominee</h4>
                             </div>
                             <div class="award__item">
                               <h2 class="award__date">02 <span>2019</span></h2>
-                              <img src="../assets/imgs/award/2.png" alt="Award Image" class="show-dark">
-                              <img src="../assets/imgs/award/Webby_Awards.png" alt="Award Image" class="show-light">
+                              <img src="{{ asset('assets/imgs/award/2.png') }}" alt="Award Image" class="show-dark">
+                              <img src="{{ asset('assets/imgs/award/Webby_Awards.png') }}" alt="Award Image" class="show-light">
+
                               <h3 class="award__title">02x Developer Award</h3>
                               <h4 class="award__status">winner</h4>
                             </div>
                             <div class="award__item">
                               <h2 class="award__date">03 <span>2021</span></h2>
-                              <img src="../assets/imgs/award/3.png" alt="Award Image" class="show-dark">
-                              <img src="../assets/imgs/award/Webby_Awards.png" alt="Award Image" class="show-light">
+                              <img src="{{ asset('assets/imgs/award/3.png') }}" alt="Award Image" class="show-dark">
+                              <img src="{{ asset('assets/imgs/award/Webby_Awards.png') }}" alt="Award Image" class="show-light">
+
                               <h3 class="award__title">03x Developer Award</h3>
                               <h4 class="award__status">winner</h4>
                             </div>
                             <div class="award__item">
                               <h2 class="award__date">04 <span>2022</span></h2>
-                              <img src="../assets/imgs/award/4.png" alt="Award Image" class="show-dark">
-                              <img src="../assets/imgs/award/4-dark.png" alt="Award Image" class="show-light">
+                              <img src="{{ asset('assets/imgs/award/4.png') }}" alt="Award Image" class="show-dark">
+                              <img src="{{ asset('assets/imgs/award/4-dark.png') }}" alt="Award Image" class="show-light">
+
                               <h3 class="award__title">05x Developer Award</h3>
                               <h4 class="award__status">Ruuners Up</h4>
                             </div>
