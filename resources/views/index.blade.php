@@ -1136,31 +1136,30 @@
 
 
 
-  <!-- All JS files -->
-<script src="{{ asset('js/jquery-3.6.0.min.js') }}"></script>
-<script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
-<script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
-<script src="{{ asset('js/swiper-bundle.min.js') }}"></script>
-<script src="{{ asset('js/counter.js') }}"></script>
-<script src="{{ asset('js/typed.js') }}"></script>
-<script src="{{ asset('js/mixitup.min.js') }}"></script>
-<script src="{{ asset('js/progressbar.js') }}"></script>
-<script src="{{ asset('js/gsap.min.js') }}"></script>
-<script src="{{ asset('js/ScrollSmoother.min.js') }}"></script>
-<script src="{{ asset('js/ScrollToPlugin.min.js') }}"></script>
-<script src="{{ asset('js/ScrollTrigger.min.js') }}"></script>
-<script src="{{ asset('js/SplitText.min.js') }}"></script>
-<script src="{{ asset('js/TweenMax.min.js') }}"></script>
-<script src="{{ asset('js/jquery.meanmenu.min.js') }}"></script>
-<script src="{{ asset('js/tilt.jquery.min.js') }}"></script>
-<script src="{{ asset('js/beforeafter.jquery-1.0.0.min.js') }}"></script>
-<script src="{{ asset('js/basictable.min.js') }}"></script>
-<script src="{{ asset('js/backToTop.js') }}"></script>
-<script src="{{ asset('js/main.js') }}"></script>
-<script src="{{ asset('js/error-handling.js') }}"></script>
-<script src="{{ asset('js/offcanvas.js') }}"></script>
-<script src="{{ asset('js/wc-cursor.js') }}"></script>
-
+<!-- All JS files -->
+<script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}"></script>
+<script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
+<script src="{{ asset('assets/js/swiper-bundle.min.js') }}"></script>
+<script src="{{ asset('assets/js/counter.js') }}"></script>
+<script src="{{ asset('assets/js/typed.js') }}"></script>
+<script src="{{ asset('assets/js/mixitup.min.js') }}"></script>
+<script src="{{ asset('assets/js/progressbar.js') }}"></script>
+<script src="{{ asset('assets/js/gsap.min.js') }}"></script>
+<script src="{{ asset('assets/js/ScrollSmoother.min.js') }}"></script>
+<script src="{{ asset('assets/js/ScrollToPlugin.min.js') }}"></script>
+<script src="{{ asset('assets/js/ScrollTrigger.min.js') }}"></script>
+<script src="{{ asset('assets/js/SplitText.min.js') }}"></script>
+<script src="{{ asset('assets/js/TweenMax.min.js') }}"></script>
+<script src="{{ asset('assets/js/jquery.meanmenu.min.js') }}"></script>
+<script src="{{ asset('assets/js/tilt.jquery.min.js') }}"></script>
+<script src="{{ asset('assets/js/beforeafter.jquery-1.0.0.min.js') }}"></script>
+<script src="{{ asset('assets/js/basictable.min.js') }}"></script>
+<script src="{{ asset('assets/js/backToTop.js') }}"></script>
+<script src="{{ asset('assets/js/main.js') }}"></script>
+<script src="{{ asset('assets/js/error-handling.js') }}"></script>
+<script src="{{ asset('assets/js/offcanvas.js') }}"></script>
+<script src="{{ asset('assets/js/wc-cursor.js') }}"></script>
 
 </body>
 
