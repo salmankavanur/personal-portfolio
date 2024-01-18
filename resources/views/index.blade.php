@@ -368,16 +368,13 @@
                                 <li>Language <span>:</span> <strong>German, ENglish</strong></li>
                               </ul>
                             </div>
-                            <div class="developer-about__img">
-                              <div class="cf_image has_fade_anim">
-                                <img src="../assets/imgs/about/1.png" alt="About Me" class="about-me">
-                              </div>
-                              <div class="cf_image has_fade_anim">
-                                <img src="../assets/imgs/shape/3.png" alt="Shape Image" class="about-shape-1">
-                              </div>
-                              <div class="cf_image has_fade_anim">
-                                <img src="../assets/imgs/shape/4.png" alt="Shape Image" class="about-shape-2">
-                              </div>
+                           
+                              <div class="developer-about__img">
+  <div class="cf_image has_fade_anim">
+    <img src="{{ asset('assets/imgs/about/1.png') }}" alt="About Me" class="about-me">
+  </div>
+  <div class="cf_image has_fade_anim">
+    <img src="{{ asset('assets/imgs/shape/3.png') }}" alt="
 
                             </div>
                           </div>
@@ -498,7 +495,7 @@
                           </div>
                         </div>
 
-                        <div class="developer-resume-tab-box" id="resume-tab-5">
+              <div class="developer-resume-tab-box" id="resume-tab-5">
                           <div class="developer-award__grid">
                             <div class="award__item">
                               <h2 class="award__date">01 <span>2018</span></h2>
@@ -528,6 +525,7 @@
                               <h3 class="award__title">05x Developer Award</h3>
                               <h4 class="award__status">Ruuners Up</h4>
                             </div>
+                                  
                           </div>
                         </div>
                       </div>
