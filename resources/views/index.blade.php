@@ -231,15 +231,17 @@
                   </div>
                 </div>
               </div>
-              <div class="cf_image has_fade_anim hero-shape" data-on-scroll="0" data-delay="2.5" data-fade-from="right"
+                
+              <<div class="cf_image has_fade_anim hero-shape" data-on-scroll="0" data-delay="2.5" data-fade-from="right"
                 data-fade-offset="100">
-                <img src="../assets/imgs/shape/8.png" alt="Shape Image">
-              </div>
+  <img src="{{ asset('assets/imgs/shape/8.png') }}" alt="Shape Image">
+</div>
 
-              <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
+<div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
                 data-duration="3">
   <img src="{{ asset('assets/imgs/hero/2.png') }}" alt="Hero image">
 </div>
+
 </div>
 </section>
 <!-- Hero section end -->
