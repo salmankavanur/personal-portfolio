@@ -231,8 +231,7 @@
                   </div>
                 </div>
               </div>
-                
-              <<div class="cf_image has_fade_anim hero-shape" data-on-scroll="0" data-delay="2.5" data-fade-from="right"
+              <div class="cf_image has_fade_anim hero-shape" data-on-scroll="0" data-delay="2.5" data-fade-from="right"
                 data-fade-offset="100">
   <img src="{{ asset('assets/imgs/shape/8.png') }}" alt="Shape Image">
 </div>
@@ -306,9 +305,11 @@
                 </div>
               </div>
             </div>
+            
             <div class="pdesigner-about__img cf_image">
-              <img src="../assets/imgs/about/2.png" alt="Author Image">
-            </div>
+  <img src="{{ asset('assets/imgs/about/2.png') }}" alt="Author Image">
+</div>
+
           </section>
           <!-- About section end -->
 
@@ -579,7 +580,9 @@
                     <div class="pdesigner-portfolio__flex has_pdportfolio_animation">
                       <div class="pdesigner-portfolio__item mix creative">
                         <a href="{{ route('portfolio-details') }}">
-                          <img src="../assets/imgs/portfolio/3.jpg" alt="Portfolio Thumbnail">
+
+                        <img src="{{ asset('assets/imgs/portfolio/3.jpg') }}" alt="Portfolio Thumbnail">
+
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -592,7 +595,8 @@
                       </div>
                       <div class="pdesigner-portfolio__item large mix development">
                         <a href="{{ route('portfolio-details') }}">
-                          <img src="../assets/imgs/portfolio/4.jpg" alt="Portfolio Thumbnail">
+                          <img src="{{ asset('assets/imgs/portfolio/4.jpg') }}" alt="Portfolio Thumbnail">
+
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -605,7 +609,8 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix branding">
                         <a href="{{ route('portfolio-details') }}">
-                          <img src="../assets/imgs/portfolio/5.jpg" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/5.jpg') }}" alt="Portfolio Thumbnail">
+
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -618,7 +623,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix web-design">
                         <a href="{{ route('portfolio-details') }}">
-                          <img src="../assets/imgs/portfolio/6.jpg" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/6.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -631,7 +636,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix creative">
                         <a href="">
-                          <img src="../assets/imgs/portfolio/7.jpg" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/7.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -644,7 +649,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item large mix branding">
                         <a href="">
-                          <img src="../assets/imgs/portfolio/8.jpg" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/8.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -657,7 +662,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix web-design">
                         <a href="">
-                          <img src="../assets/imgs/portfolio/9.jpg" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/9.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -796,32 +801,38 @@
                       <div class="swiper-wrapper">
                         <div class="swiper-slide">
                           <div class="brand__logo">
-                            <img src="../assets/imgs/brand/1.png" alt="Brand Logo">
+                          <img src="{{ asset('assets/imgs/brand/1.png') }}" alt="Brand Logo">
+
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="brand__logo">
-                            <img src="../assets/imgs/brand/2.png" alt="Brand Logo">
+                          <img src="{{ asset('assets/imgs/brand/2.png') }}" alt="Brand Logo">
+
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="brand__logo">
-                            <img src="../assets/imgs/brand/3.png" alt="Brand Logo">
+                          <img src="{{ asset('assets/imgs/brand/3.png') }}" alt="Brand Logo">
+
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="brand__logo">
-                            <img src="../assets/imgs/brand/4.png" alt="Brand Logo">
+                          <img src="{{ asset('assets/imgs/brand/4.png') }}" alt="Brand Logo">
+
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="brand__logo">
-                            <img src="../assets/imgs/brand/5.png" alt="Brand Logo">
+                          <img src="{{ asset('assets/imgs/brand/5.png') }}" alt="Brand Logo">
+
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="brand__logo">
-                            <img src="../assets/imgs/brand/4.png" alt="Brand Logo">
+                          <img src="{{ asset('assets/imgs/brand/4.png') }}" alt="Brand Logo">
+
                           </div>
                         </div>
                       </div>
@@ -860,7 +871,9 @@
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
                             <div class="cf_image has_fade_anim" data-fade-from="in" data-ease="bounce">
-                              <img src="../assets/imgs/testimonial/client/1.png" alt="Client Image">
+                            
+                            <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
+
                             </div>
 
                             <div class="cf_text has_fade_anim">
@@ -875,7 +888,8 @@
                         </div>
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
-                            <img src="../assets/imgs/testimonial/client/1.png" alt="Client Image">
+                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
+
                             <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
@@ -886,7 +900,8 @@
                         </div>
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
-                            <img src="../assets/imgs/testimonial/client/1.png" alt="Client Image">
+                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
+
                             <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
@@ -897,7 +912,8 @@
                         </div>
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
-                            <img src="../assets/imgs/testimonial/client/1.png" alt="Client Image">
+                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
+
                             <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
@@ -908,7 +924,7 @@
                         </div>
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
-                            <img src="../assets/imgs/testimonial/client/1.png" alt="Client Image">
+                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
                             <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
@@ -952,7 +968,8 @@
                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                   <article class="has_fade_anim" data-fade-from="left">
                     <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="{{ route('blog-details') }}"><img src="../assets/imgs/blog/4.jpg" alt="Blog Thumbnail"></a>
+                      <a href="{{ route('blog-details') }}"><img src="{{ asset('assets/imgs/blog/4.jpg') }}" alt="Blog Thumbnail">
+</a>
                       <div class="pdesigner-blog__content">
                         <div>
                           <ul class="pdesigner-blog__meta">
@@ -973,7 +990,8 @@
                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                   <article class="has_fade_anim" data-fade-from="left" data-delay="0.8">
                     <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="{{ route('blog-details') }}"><img src="../assets/imgs/blog/8.jpg" alt="Blog Thumbnail"></a>
+                      <a href="{{ route('blog-details') }}"><img src="{{ asset('assets/imgs/blog/8.jpg') }}" alt="Blog Thumbnail">
+</a>
                       <div class="pdesigner-blog__content">
                         <div>
                           <ul class="pdesigner-blog__meta">
@@ -994,7 +1012,8 @@
                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                   <article class="has_fade_anim" data-fade-from="left" data-delay="1.1">
                     <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="{{ route('blog-details') }}"><img src="../assets/imgs/blog/9.jpg" alt="Blog Thumbnail"></a>
+                      <a href="{{ route('blog-details') }}"><img src="{{ asset('assets/imgs/blog/9.jpg') }}" alt="Blog Thumbnail">
+</a>
                       <div class="pdesigner-blog__content">
                         <div>
                           <ul class="pdesigner-blog__meta">
