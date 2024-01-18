@@ -201,7 +201,7 @@
                   <div class="pdesigner-hero__right">
                     <div class="pdesigner-hero__text">
                       <div class="cf-image has_fade_anim " data-on-scroll="0" data-delay="1.2">
-                        <img src="../assets/imgs/shape/9.png" alt="Shape Image" class="mb-30">
+                       <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Shape Image" class="mb-30">
                       </div>
                       <div class="cf-text has_fade_anim" data-delay="1.2">
                         <p>A Freelance Web & Graphics Designer and Developer <span>based in Kerala, India</span>. I strives to build
@@ -234,13 +234,15 @@
                 data-fade-offset="100">
                 <img src="../assets/imgs/shape/8.png" alt="Shape Image">
               </div>
-              <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
+                
+<div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
                 data-duration="3">
-                <img src="../assets/imgs/hero/2.png" alt="Hero image">
-              </div>
-            </div>
-          </section>
-          <!-- Hero section end -->
+  <img src="{{ asset('assets/imgs/hero/2.png') }}" alt="Hero image">
+</div>
+</div>
+</section>
+<!-- Hero section end -->
+
 
 
           <!-- About section start -->
@@ -302,7 +304,7 @@
               </div>
             </div>
             <div class="pdesigner-about__img cf_image">
-              <img src="../assets/imgs/about/2.png" alt="Author Image">
+             <img src="{{ asset('assets/imgs/about/2.png') }}" alt="Author Image
             </div>
           </section>
           <!-- About section end -->
