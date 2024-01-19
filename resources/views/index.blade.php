@@ -12,6 +12,8 @@
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
 
+  <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
+    
   <!-- All CSS files -->
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
