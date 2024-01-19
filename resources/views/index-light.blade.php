@@ -8,20 +8,20 @@
   <meta name="description" content="INFO HTML5 Template">
 
   <title>Home - Product Designer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
 
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="../assets/imgs/logo/favicon.png">
 
-
   <!-- All CSS files -->
-  <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../assets/css/all.min.css">
-  <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css">
-  <link rel="stylesheet" href="../assets/css/progressbar.css">
-  <link rel="stylesheet" href="../assets/css/meanmenu.min.css">
-  <link rel="stylesheet" href="../assets/css/magnific-popup.css">
-  <link rel="stylesheet" href="../assets/css/master.css">
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/progressbar.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}">
+  <link rel="stylesheet" href="{{ asset('style.css') }}">
 
 </head>
 
