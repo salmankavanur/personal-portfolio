@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}">
   <link rel="stylesheet" href="{{ asset('style.css') }}">
 
-
 </head>
 
 
