@@ -305,7 +305,7 @@
                     </div>
 
                     <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-                      <a href="#" class="btn-hover-mask">dOWNLOAD cv <i class="fa-solid fa-arrow-right"></i></a>
+                      <a href="#" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
 
                   </div>
