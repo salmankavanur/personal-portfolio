@@ -400,40 +400,39 @@
                           <div class="developer-experience__area">
                             <div class="experience__grid">
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2014 -
+                                  2015
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Web & Graphics Designer</h3>
+                                <h4 class="company">Freelance</h4>
+                                <p>my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days,
+                                    I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2015 -
+                                  2020
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Senior Web Designer</h3>
+                                <h4 class="company">Alif Media Solutions</h4>
+                                <p>During these years, I worked as a senior Web Designer at leading Web & Media company in kerala, India.
+                                    This was a great milestone in my career journey.</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2020 -
+                                  2021
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Graphic Designer & Digital Marketer</h3>
+                                <h4 class="company">Mabco Developers</h4>
+                                <p>as a Graphics Designer and Digital Marketer, I performed my level best at the Leading builders in Kerala, India</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2021 -
+                                  Present
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Media Coordinator | Senior Web & Graphic Designer</h3>
+                                <h4 class="company">AIC - Educational & Cultural Centre</h4>
+                                <p>currently I'm working as the Media coordinator at the most well-known educational & cultural centre based in Kerala, India.
+                                    Here I have to deal with Graphics Design, Web Design, Photography, Videography, Live Telecasting and all other technical supports.</p>
                               </div>
                             </div>
                           </div>
