@@ -38,12 +38,12 @@
       <div class="animation-preloader">
         <div class="spinner"></div>
         <div class="txt-loading">
-          <span data-text="I" class="characters">S</span>
-          <span data-text="N" class="characters">A</span>
-          <span data-text="F" class="characters">L</span>
-          <span data-text="O" class="characters">M</span>
-          <span data-text="O" class="characters">A</span>
-          <span data-text="O" class="characters">N</span>
+          <span data-text="S" class="characters">S</span>
+          <span data-text="A" class="characters">A</span>
+          <span data-text="L" class="characters">L</span>
+          <span data-text="M" class="characters">M</span>
+          <span data-text="A" class="characters">A</span>
+          <span data-text="N" class="characters">N</span>
         </div>
       </div>
       <div class="loader-section section-left"></div>
@@ -376,7 +376,7 @@
                                 <li>Experience <span>:</span> <strong>7+ years</strong></li>
                                 <li>Freelance <span>:</span> <strong>Available</strong></li>
                                 <li>Skype <span>:</span> <strong>salmanmp</strong></li>
-                                <li>Language <span>:</span> <strong>Malayalam, English</strong></li>
+                                <li>Language <span>:</span> <strong>Malayalam, English, Arabic</strong></li>
                               </ul>
                             </div>
                             <div class="developer-about__img">
