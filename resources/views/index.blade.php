@@ -305,7 +305,7 @@
                     </div>
 
                     <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-                      <a href="#" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
+                      <a href="{{ asset('assets/downloads/salman-cv.pdf') }}" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
 
                   </div>
