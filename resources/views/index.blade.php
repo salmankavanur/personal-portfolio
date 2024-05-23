@@ -484,28 +484,28 @@
                         <div class="developer-resume-tab-box" id="resume-tab-4">
                           <div class="developer-skill__grid">
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="95">Figma</h3>
+                              <h3 class="progress__label" data-width="95">Graphic Design</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="80">Adobe XD</h3>
+                              <h3 class="progress__label" data-width="95">Web Design</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="85">Sketch</h3>
+                              <h3 class="progress__label" data-width="85">Digital Marketing</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">Prototype</h3>
+                              <h3 class="progress__label" data-width="90">Wordpress</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">WrodPress</h3>
+                              <h3 class="progress__label" data-width="90">Social Media Management</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">React JS</h3>
+                              <h3 class="progress__label" data-width="90">Photography</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">Laravel</h3>
+                              <h3 class="progress__label" data-width="90">Videography</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">WIrframe</h3>
+                              <h3 class="progress__label" data-width="90">Aerial Photography</h3>
                             </div>
                           </div>
                         </div>
