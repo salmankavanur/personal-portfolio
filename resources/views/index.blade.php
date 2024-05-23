@@ -483,28 +483,36 @@
 
                         <div class="developer-resume-tab-box" id="resume-tab-4">
                           <div class="developer-skill__grid">
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="95">Graphic Design</h3>
                             </div>
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="95">Web Design</h3>
                             </div>
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="85">Digital Marketing</h3>
                             </div>
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="90">WordPress | Elementor | WPBakery</h3>
                             </div>
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="90">Social Media Management</h3>
                             </div>
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="90">Photography</h3>
                             </div>
+                              
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="90">Videography</h3>
                             </div>
-                            <div class="progress__item">
+                              
+                            <div class="progress__item"> </div>
 
                              <div class="progress__item">
                               <h3 class="progress__label" data-width="90">Editing and Color Grading</h3>
