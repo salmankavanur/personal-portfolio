@@ -442,40 +442,36 @@
                           <div class="developer-experience__area">
                             <div class="experience__grid">
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2010 -
+                                  2013
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">SSLC - Higher Secondary (Science)</h3>
+                                <h4 class="company">GHSS Kavanur</h4>
+                                <p>Completed my Highschool & Higher Secondary studies at Governement Higher Secondary School Kavanur based in Malappuram, Kerala, India </p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2016 -
                                   2019
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">B.A English</h3>
+                                <h4 class="company">Indira Gandhi National Open University</h4>
+                                <p>Honed My Bachlors Degree: Bachelor of Arts in English Language & Literature (Indira Gandhi National Open University, 2016-2019)</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2018 -
+                                  2020
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Degree in Islamic Studies</h3>
+                                <h4 class="company">Jamia Nooriyya Arabiyya, Kerala</h4>
+                                <p> Enhanced My Understanding of Islamic Law & Ethics and Graduated from the prestige Islamic University Jamia Nooriyya Arabiyya, Kerala, India. </p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2021 -
+                                  2024
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">M.A English</h3>
+                                <h4 class="company">Indira Gandhi National Open University</h4>
+                                <p>Honed My Masters Degree: Master of Arts in English Language & Literature (Indira Gandhi National Open University, 2021-2024)</p>
                               </div>
                             </div>
                           </div>
