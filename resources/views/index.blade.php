@@ -225,7 +225,7 @@
                         </ul>
                       </div>
                       <div class="work-process">
-                        <a href="https://www.youtube.com/watch?v=LckQ4VVjHDs" class="image-link video-popup">
+                        <a href="https://www.youtube.com/watch?v=KZrCw3ZXByo&t=2s" class="image-link video-popup">
                           <i class="fa-solid fa-play"></i>
                         </a>
                         <span>work <br> Process</span>
