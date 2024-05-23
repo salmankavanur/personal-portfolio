@@ -358,12 +358,12 @@
                         <div class="developer-resume-tab-box" id="resume-tab-1" style="display:block;">
                           <div class="developer-about__area">
                             <div class="developer-about__content">
-                              <h2 class="developer-about__title has_text_reveal_anim">Product Designer</h2>
+                              <h2 class="developer-about__title has_text_reveal_anim">Web & Graphics Designer</h2>
                               <div class="cf-text has_text_move_anim">
-                                <p>Hi, my name is <span>Salman MP</span> and I began using WordPress when first began.
-                                  spent most of
-                                  my waking hours for the last ten years designing, programming and operating WordPress
-                                  sites go beyond with exclusive designer.</p>
+                                <p>Experienced and passionate Web and Graphic Designer with over 7 years of expertise in both fields.
+                                    My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media graphics.
+                                    Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva,
+                                    I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.</p>
                               </div>
                               <ul class="about__bio has_text_move_anim">
                                 <li>Name <span>:</span> <strong>Salman MP</strong></li>
