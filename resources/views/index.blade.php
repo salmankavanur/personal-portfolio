@@ -896,7 +896,7 @@
                     <div class="pb-20">
                       <h2 class="sec-sub-title has_word_anim">Testimonials</h2>
                     </div>
-                    <h3 class="sec-title has_text_reveal_anim">Clents Feedback</h3>
+                    <h3 class="sec-title has_text_reveal_anim">Building Success Together</h3>
                   </div>
                 </div>
               </div>
