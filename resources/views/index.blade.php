@@ -493,7 +493,7 @@
                               <h3 class="progress__label" data-width="85">Digital Marketing</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="90">Wordpress</h3>
+                              <h3 class="progress__label" data-width="90">WordPress | Elementor | WPBakery</h3>
                             </div>
                             <div class="progress__item">
                               <h3 class="progress__label" data-width="90">Social Media Management</h3>
@@ -505,8 +505,25 @@
                               <h3 class="progress__label" data-width="90">Videography</h3>
                             </div>
                             <div class="progress__item">
+
+                                  <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Editing and Color Grading</h3>
+                            </div>
+                                
                               <h3 class="progress__label" data-width="90">Aerial Photography</h3>
                             </div>
+                            <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Server Management</h3>
+                            </div>
+
+                              <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Live Streaming and Broadcasting</h3>
+                            </div>
+
+                             <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Adobe Creative Suite</h3>
+                            </div>
+                              
                           </div>
                         </div>
 
