@@ -314,7 +314,7 @@
             </div>
             
             <div class="pdesigner-about__img cf_image">
-  <img src="{{ asset('assets/imgs/about/2.png') }}" alt="Author Image">
+  <img src="{{ asset('assets/imgs/about/personal-photo v4.png') }}" alt="Author Image">
 </div>
 
           </section>
