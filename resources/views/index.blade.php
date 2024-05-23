@@ -245,7 +245,7 @@
 
 <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
                 data-duration="3">
-  <img src="{{ asset('assets/imgs/hero/personal-photo.png') }}" alt="Salman - Hero image">
+  <img src="{{ asset('assets/imgs/hero/personal-photo-v2.png') }}" alt="Salman - Hero image">
 </div>
 
 </div>
