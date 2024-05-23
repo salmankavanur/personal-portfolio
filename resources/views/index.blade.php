@@ -1147,11 +1147,13 @@
                     <li><a href="#" class="btn-hover-mask">
                         <span><i class="fa-brands fa-twitter"></i></span> Twitter
                       </a></li>
-                    <li><a href="#" class="btn-hover-mask"><span><i class="fa-brands fa-instagram"></i></span>
+                    <li><a href="https://www.instagram.com/salman_kavanur/" class="btn-hover-mask"><span><i class="fa-brands fa-instagram"></i></span>
                         Instagram</a></li>
-                    <li><a href="#" class="btn-hover-mask"><span><i class="fa-brands fa-dribbble"></i></span>
-                        Dribbble</a></li>
-                    <li><a href="#" class="btn-hover-mask"><span><i class="fa-brands fa-linkedin"></i></span>
+                    <li><a href="https://www.behance.net/salmanmp" class="btn-hover-mask"><span><i class="fa-brands fa-behance"></i></span>
+                        Behance</a></li>
+                    <li><a href="https://github.com/salmankavanur/" class="btn-hover-mask"><span><i class="fa-brands fa-github"></i></span>
+                        Behance</a></li>
+                    <li><a href="https://www.linkedin.com/in/salmanmp/" class="btn-hover-mask"><span><i class="fa-brands fa-linkedin"></i></span>
                         Linkedin</a></li>
                   </ul>
                 </div>
