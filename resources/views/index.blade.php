@@ -5,9 +5,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="INFO HTML5 Template">
+  <meta name="description" content="Experienced and passionate Web and Graphic Designer with over 7 years of expertise in both fields.
+      My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media graphics.
+      Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva,
+      I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.">
 
-  <title> Salman MP - Web and Graphic Designer </title>
+  <title> Salman MP - Experienced and passionate Web and Graphic Designer </title>
 
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
