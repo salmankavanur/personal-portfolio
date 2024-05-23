@@ -170,7 +170,7 @@
 
 <div class="pd-header">
   <a href="{{ url('/') }}">
-    <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" alt="Site Logo">
+    <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" alt="Site Logo Mobile Header">
   </a>
   <button class="header__navicon-2">
     <img id="header_navicon_2" class="icon" src="{{ asset('assets/imgs/logo/menu-icon-white.png') }}" alt="Icon">
