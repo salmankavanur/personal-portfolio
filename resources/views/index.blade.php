@@ -126,7 +126,7 @@
 
       <div class="header__logo-2">
         <a href="{{ route('home') }}">
-          <img src="{{ asset('assets/imgs/logo/site-logo-light.png') }}" class="show-dark" alt="Site Logo">
+          <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" class="show-dark" alt="Site Logo">
           <img src="{{ asset('assets/imgs/logo/site-logo-dark.png') }}" class="show-light" alt="Site Logo">
         </a>
       </div>
