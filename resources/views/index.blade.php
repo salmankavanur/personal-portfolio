@@ -35,10 +35,12 @@
       <div class="animation-preloader">
         <div class="spinner"></div>
         <div class="txt-loading">
-          <span data-text="I" class="characters">I</span>
-          <span data-text="N" class="characters">N</span>
-          <span data-text="F" class="characters">F</span>
-          <span data-text="O" class="characters">O</span>
+          <span data-text="I" class="characters">S</span>
+          <span data-text="N" class="characters">A</span>
+          <span data-text="F" class="characters">L</span>
+          <span data-text="O" class="characters">M</span>
+          <span data-text="O" class="characters">A</span>
+          <span data-text="O" class="characters">N</span>
         </div>
       </div>
       <div class="loader-section section-left"></div>
@@ -133,7 +135,7 @@
         <ul class="sidebar-menu hover-space">
           <li><a href="#top">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#work">WOrk</a></li>
+          <li><a href="#work">WorkK</a></li>
           <li><a href="#service">Service</a></li>
           <li><a href="#testimonial">Testimonial</a></li>
           <li><a href="#blog">Blog</a></li>
@@ -216,11 +218,10 @@
                       <div class="pdesigner-hero__social-wrapper">
                         <h3 class="follow-me">Follow Me</h3>
                         <ul class="pdesigner-hero__social">
-                          <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                          <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                          <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                          <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                          <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                          <li><a href="https://www.linkedin.com/in/salmanmp/"><i class="fa-brands fa-linkedin"></i></a></li>
+                          <li><a href="https://www.instagram.com/salman_kavanur/"><i class="fa-brands fa-instagram"></i></a></li>
+                          <li><a href="https://www.behance.net/salmanmp"><i class="fa-brands fa-behance"></i></a></li>
+                          <li><a href="https://github.com/salmankavanur/"><i class="fa-brands fa-github"></i></a></li>
                         </ul>
                       </div>
                       <div class="work-process">
