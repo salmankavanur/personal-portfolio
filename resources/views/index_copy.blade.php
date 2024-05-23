@@ -5,15 +5,15 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Experienced and passionate Web and Graphic Designer with over 7 years of expertise in both fields.
-      My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media graphics.
+  <meta name="description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in both fields.
+      My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media designs.
       Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva,
       I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.">
 
   <title> Salman MP - Experienced and passionate Web and Graphic Designer </title>
 
   <!-- Fav Icon -->
-  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
+  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
 
   <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
     
@@ -129,8 +129,8 @@
 
       <div class="header__logo-2">
         <a href="{{ route('home') }}">
-          <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" class="show-dark" alt="Site Logo">
-          <img src="{{ asset('assets/imgs/logo/site-logo-dark.png') }}" class="show-light" alt="Site Logo">
+          <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" class="show-dark" alt="Salman Logo">
+          <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" class="show-light" alt="Salman Logo">
         </a>
       </div>
 
@@ -170,7 +170,7 @@
 
 <div class="pd-header">
   <a href="{{ url('/') }}">
-    <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" alt="Site Logo">
+    <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" alt="Site Logo Mobile Header">
   </a>
   <button class="header__navicon-2">
     <img id="header_navicon_2" class="icon" src="{{ asset('assets/imgs/logo/menu-icon-white.png') }}" alt="Icon">
@@ -189,14 +189,14 @@
                         <span id="typed_list">
                           <span>Salman</span>
                           <span>Web Designer</span>
-                          <span>Graphics Designer</span>
+                          <span>Graphic Designer</span>
                         </span>
                         <span id="typed"></span>
                       </h1>
                     </div>
                     <div class="pb-30">
                       <h2 class="pdesigner-hero__title has_text_move_anim" data-delay=".7">A Web &
-                        <span>Graphics</span>
+                        <span>Graphic</span>
                         Designer
                       </h2>
                     </div>
@@ -213,7 +213,7 @@
                       <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Shape Image" class="mb-30">
                       </div>
                       <div class="cf-text has_fade_anim" data-delay="1.2">
-                        <p>A Freelance Web & Graphics Designer and Developer <span>based in Kerala, India</span>. I strives to build
+                        <p>A Freelance Web & Graphic Designer and Developer <span>based in Kerala, India</span>. I strives to build
                           immersive and beautiful web applications through carefully crafted user-centric design.</p>
                       </div>
                     </div>
@@ -245,7 +245,7 @@
 
 <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
                 data-duration="3">
-  <img src="{{ asset('assets/imgs/hero/2.png') }}" alt="Hero image">
+  <img src="{{ asset('assets/imgs/hero/2.png') }}" alt="Salman - Hero image">
 </div>
 
 </div>
@@ -266,7 +266,7 @@
                 <div class="col-xxl-12">
                   <div class="pdesigner-about__top-content">
                     <div class="pb-30">
-                      <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphics Designer Based in
+                      <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in
                         Kerala, India
                       </h2>
                     </div>
@@ -314,7 +314,7 @@
             </div>
             
             <div class="pdesigner-about__img cf_image">
-  <img src="{{ asset('assets/imgs/about/2.png') }}" alt="Author Image">
+  <img src="{{ asset('assets/imgs/about/personal-photo v4.png') }}" alt="Author Image">
 </div>
 
           </section>
@@ -361,10 +361,10 @@
                         <div class="developer-resume-tab-box" id="resume-tab-1" style="display:block;">
                           <div class="developer-about__area">
                             <div class="developer-about__content">
-                              <h2 class="developer-about__title has_text_reveal_anim">Web & Graphics Designer</h2>
+                              <h2 class="developer-about__title has_text_reveal_anim">Web & Graphic Designer</h2>
                               <div class="cf-text has_text_move_anim">
                                 <p>Experienced and passionate Web and Graphic Designer with over 7 years of expertise in both fields.
-                                    My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media graphics.
+                                    My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media designs.
                                     Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva,
                                     I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.</p>
                               </div>
@@ -403,7 +403,7 @@
                                 <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2014 -
                                   2015
                                 </h2>
-                                <h3 class="exp-title">Web & Graphics Designer</h3>
+                                <h3 class="exp-title">Web & Graphic Designer</h3>
                                 <h4 class="company">Freelance</h4>
                                 <p>my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days,
                                     I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.</p>
@@ -423,7 +423,7 @@
                                 </h2>
                                 <h3 class="exp-title">Graphic Designer & Digital Marketer</h3>
                                 <h4 class="company">Mabco Developers</h4>
-                                <p>as a Graphics Designer and Digital Marketer, I performed my level best at the Leading builders in Kerala, India</p>
+                                <p>as a Graphic Designer and Digital Marketer, I performed my level best at the Leading builders in Kerala, India</p>
                               </div>
                               <div class="experience__item">
                                 <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2021 -
@@ -432,7 +432,7 @@
                                 <h3 class="exp-title">Media Coordinator | Senior Web & Graphic Designer</h3>
                                 <h4 class="company">AIC - Educational & Cultural Centre</h4>
                                 <p>currently I'm working as the Media coordinator at the most well-known educational & cultural centre based in Kerala, India.
-                                    Here I have to deal with Graphics Design, Web Design, Photography, Videography, Live Telecasting and all other technical supports.</p>
+                                    Here I have to deal with Graphic Design, Web Design, Photography, Videography, Live Telecasting and all other technical supports.</p>
                               </div>
                             </div>
                           </div>
