@@ -182,8 +182,9 @@
                     <div class="pb-20">
                       <h1 class="typed_title has_fade_anim">Hi 🖐 I’m
                         <span id="typed_list">
-                          <span>Michel</span>
-                          <span>Designer</span>
+                          <span>Salman</span>
+                          <span>Web Designer</span>
+                          <span>Graphics Designer</span>
                         </span>
                         <span id="typed"></span>
                       </h1>
@@ -261,8 +262,8 @@
                 <div class="col-xxl-12">
                   <div class="pdesigner-about__top-content">
                     <div class="pb-30">
-                      <h2 class="hero-title has_text_reveal_anim">Michel Halk <br> UI/UX Product Designer Based in
-                        German
+                      <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphics Designer Based in
+                        Kerala, India
                       </h2>
                     </div>
 
@@ -270,7 +271,7 @@
                       <div class="pdesigner-counter__item has_fade_anim" data-fade-from="right">
                         <div class="counter__item">
                           <div class="number">
-                            <h3 class="count wc-counter">25K</h3>
+                            <h3 class="count wc-counter">5K+</h3>
                           </div>
                           <div class="text">
                             <p>project <br>completed</p>
@@ -280,7 +281,7 @@
                       <div class="pdesigner-counter__item has_fade_anim" data-delay=".7" data-fade-from="right">
                         <div class="counter__item">
                           <div class="number">
-                            <h3 class="count wc-counter">10+</h3>
+                            <h3 class="count wc-counter">7+</h3>
                           </div>
                           <div class="text">
                             <p>Years of <br> experience</p>
@@ -290,10 +291,10 @@
                       <div class="pdesigner-counter__item has_fade_anim" data-delay="0.9" data-fade-from="right">
                         <div class="counter__item">
                           <div class="number">
-                            <h3 class="count wc-counter">8+</h3>
+                            <h3 class="count wc-counter">12+</h3>
                           </div>
                           <div class="text">
-                            <p>Awards <br> achievement</p>
+                            <p>Skills <br> Achieved</p>
                           </div>
                         </div>
                       </div>
@@ -358,20 +359,20 @@
                             <div class="developer-about__content">
                               <h2 class="developer-about__title has_text_reveal_anim">Product Designer</h2>
                               <div class="cf-text has_text_move_anim">
-                                <p>Hi, my name is <span>Michel Halk</span> and I began using WordPress when first began.
+                                <p>Hi, my name is <span>Salman MP</span> and I began using WordPress when first began.
                                   spent most of
                                   my waking hours for the last ten years designing, programming and operating WordPress
                                   sites go beyond with exclusive designer.</p>
                               </div>
                               <ul class="about__bio has_text_move_anim">
-                                <li>Name <span>:</span> <strong>Michel Hakl</strong></li>
-                                <li>Nationality <span>:</span> <strong>Germany</strong></li>
-                                <li>Phone <span>:</span> <strong>+(2) 870 174 302</strong></li>
-                                <li>Email <span>:</span> <strong>info@example.com</strong></li>
-                                <li>Experience <span>:</span> <strong>10+ years</strong></li>
+                                <li>Name <span>:</span> <strong>Salman MP</strong></li>
+                                <li>Nationality <span>:</span> <strong>Indian</strong></li>
+                                <li>Phone <span>:</span> <strong>+918129489071</strong></li>
+                                <li>Email <span>:</span> <strong>hello@salmanmp.me</strong></li>
+                                <li>Experience <span>:</span> <strong>7+ years</strong></li>
                                 <li>Freelance <span>:</span> <strong>Available</strong></li>
-                                <li>Skype <span>:</span> <strong>michel.halk28</strong></li>
-                                <li>Language <span>:</span> <strong>German, ENglish</strong></li>
+                                <li>Skype <span>:</span> <strong>salmanmp</strong></li>
+                                <li>Language <span>:</span> <strong>Malayalam, English</strong></li>
                               </ul>
                             </div>
                             <div class="developer-about__img">
