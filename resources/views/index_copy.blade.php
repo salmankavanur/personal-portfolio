@@ -38,12 +38,12 @@
       <div class="animation-preloader">
         <div class="spinner"></div>
         <div class="txt-loading">
-          <span data-text="I" class="characters">S</span>
-          <span data-text="N" class="characters">A</span>
-          <span data-text="F" class="characters">L</span>
-          <span data-text="O" class="characters">M</span>
-          <span data-text="O" class="characters">A</span>
-          <span data-text="O" class="characters">N</span>
+          <span data-text="S" class="characters">S</span>
+          <span data-text="A" class="characters">A</span>
+          <span data-text="L" class="characters">L</span>
+          <span data-text="M" class="characters">M</span>
+          <span data-text="A" class="characters">A</span>
+          <span data-text="N" class="characters">N</span>
         </div>
       </div>
       <div class="loader-section section-left"></div>
@@ -170,7 +170,7 @@
 
 <div class="pd-header">
   <a href="{{ url('/') }}">
-    <img src="{{ asset('assets/imgs/logo/site-logo-light.png') }}" alt="Site Logo">
+    <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" alt="Site Logo">
   </a>
   <button class="header__navicon-2">
     <img id="header_navicon_2" class="icon" src="{{ asset('assets/imgs/logo/menu-icon-white.png') }}" alt="Icon">
@@ -305,7 +305,7 @@
                     </div>
 
                     <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-                      <a href="#" class="btn-hover-mask">dOWNLOAD cv <i class="fa-solid fa-arrow-right"></i></a>
+                      <a href="{{ asset('assets/downloads/salman-cv.pdf') }}" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
 
                   </div>
@@ -376,7 +376,7 @@
                                 <li>Experience <span>:</span> <strong>7+ years</strong></li>
                                 <li>Freelance <span>:</span> <strong>Available</strong></li>
                                 <li>Skype <span>:</span> <strong>salmanmp</strong></li>
-                                <li>Language <span>:</span> <strong>Malayalam, English</strong></li>
+                                <li>Language <span>:</span> <strong>Malayalam, English, Arabic</strong></li>
                               </ul>
                             </div>
                             <div class="developer-about__img">
@@ -400,40 +400,39 @@
                           <div class="developer-experience__area">
                             <div class="experience__grid">
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2014 -
+                                  2015
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Web & Graphics Designer</h3>
+                                <h4 class="company">Freelance</h4>
+                                <p>my journey began over a decade ago. During my higher secondary studies, I embarked on the web world by creating a WAP site. In those early days,
+                                    I managed to gather a community with hundreds of users, marking the beginning of my exploration into the vast realm of the internet.</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2015 -
+                                  2020
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Senior Web Designer</h3>
+                                <h4 class="company">Alif Media Solutions</h4>
+                                <p>During these years, I worked as a senior Web Designer at leading Web & Media company in kerala, India.
+                                    This was a great milestone in my career journey.</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2020 -
+                                  2021
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Graphic Designer & Digital Marketer</h3>
+                                <h4 class="company">Mabco Developers</h4>
+                                <p>as a Graphics Designer and Digital Marketer, I performed my level best at the Leading builders in Kerala, India</p>
                               </div>
                               <div class="experience__item">
-                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2017 -
-                                  2019
+                                <h2 class="exp-time"><span><i class="fa-regular fa-calendar-days"></i></span> 2021 -
+                                  Present
                                 </h2>
-                                <h3 class="exp-title">Senior UI Designer</h3>
-                                <h4 class="company">Historian</h4>
-                                <p>Owing to advancements in product other designer technologies, chatbots have increased
-                                  into greater popularity in the past few years.</p>
+                                <h3 class="exp-title">Media Coordinator | Senior Web & Graphic Designer</h3>
+                                <h4 class="company">AIC - Educational & Cultural Centre</h4>
+                                <p>currently I'm working as the Media coordinator at the most well-known educational & cultural centre based in Kerala, India.
+                                    Here I have to deal with Graphics Design, Web Design, Photography, Videography, Live Telecasting and all other technical supports.</p>
                               </div>
                             </div>
                           </div>
@@ -485,29 +484,48 @@
                         <div class="developer-resume-tab-box" id="resume-tab-4">
                           <div class="developer-skill__grid">
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="95">Figma</h3>
+                              <h3 class="progress__label" data-width="95">Graphic Design</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="80">Adobe XD</h3>
+                              <h3 class="progress__label" data-width="95">Web Design</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="85">Sketch</h3>
+                              <h3 class="progress__label" data-width="85">Digital Marketing</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">Prototype</h3>
+                              <h3 class="progress__label" data-width="90">WordPress | Elementor | WPBakery</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">WrodPress</h3>
+                              <h3 class="progress__label" data-width="90">Social Media Management</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">React JS</h3>
+                              <h3 class="progress__label" data-width="90">Photography</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">Laravel</h3>
+                              <h3 class="progress__label" data-width="90">Videography</h3>
                             </div>
                             <div class="progress__item">
-                              <h3 class="progress__label" data-width="75">WIrframe</h3>
+
+                             <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Editing and Color Grading</h3>
                             </div>
+                                
+                                <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Aerial Photography</h3>
+                            </div>
+                              
+                            <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Server Management</h3>
+                            </div>
+
+                              <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Live Streaming and Broadcasting</h3>
+                            </div>
+
+                             <div class="progress__item">
+                              <h3 class="progress__label" data-width="90">Adobe Creative Suite</h3>
+                            </div>
+                              
                           </div>
                         </div>
 
