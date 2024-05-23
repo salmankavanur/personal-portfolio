@@ -1069,7 +1069,7 @@
                         </div>
                         <div>
                           <h4 class="pdesigner-contact__name">Phone</h4>
-                          <a href="tel:02251398203">+(02+ 251 398 203)</a>
+                          <a href="tel:02251398203">+91 8129489071</a>
                         </div>
                       </div>
                       <div class="pdesigner-contact__type">
@@ -1078,7 +1078,7 @@
                         </div>
                         <div>
                           <h4 class="pdesigner-contact__name">Email</h4>
-                          <a href="mailto:info@example.com">info@example.com</a>
+                          <a href="mailto:info@example.com">hello@salmanmp.me</a>
                         </div>
                       </div>
                       <div class="pdesigner-contact__type">
@@ -1087,7 +1087,7 @@
                         </div>
                         <div>
                           <h4 class="pdesigner-contact__name">Address</h4>
-                          <p>Graaf Florisstraat 22A, 3021 CH <br>Burline, Germany</p>
+                          <p>Malappuram, Kerala, India - 673639</p>
                         </div>
                       </div>
                     </div>
