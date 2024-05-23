@@ -13,7 +13,7 @@
   <title> Salman MP - Experienced and passionate Web and Graphic Designer </title>
 
   <!-- Fav Icon -->
-  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
+  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
 
   <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
     
@@ -130,7 +130,7 @@
       <div class="header__logo-2">
         <a href="{{ route('home') }}">
           <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" class="show-dark" alt="Site Logo">
-          <img src="{{ asset('assets/imgs/logo/site-logo-dark.png') }}" class="show-light" alt="Site Logo">
+          <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" class="show-light" alt="Site Logo">
         </a>
       </div>
 
@@ -170,7 +170,7 @@
 
 <div class="pd-header">
   <a href="{{ url('/') }}">
-    <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" alt="Site Logo">
+    <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" alt="Site Logo">
   </a>
   <button class="header__navicon-2">
     <img id="header_navicon_2" class="icon" src="{{ asset('assets/imgs/logo/menu-icon-white.png') }}" alt="Icon">
