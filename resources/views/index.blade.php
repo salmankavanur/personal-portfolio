@@ -924,18 +924,17 @@
                           <div class="developer-testimonial__slide">
                             <div class="cf_image has_fade_anim" data-fade-from="in" data-ease="bounce">
                             
-                            <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
+                            <img src="{{ asset('assets/imgs/testimonial/client/basith.png') }}" alt="Client Image">
 
                             </div>
 
                             <div class="cf_text has_fade_anim">
-                              <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
+                              <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
                                 was able to grasp the concept that was intended and helped me decide on clean and
-                                beautiful
-                                presentation guy. </p>
+                                beautiful presentation. </p>
                             </div>
-                            <h3 class="client-name has_char_anim">Mukkher Halk</h3>
-                            <h4 class="client-role has_char_anim">CEO, Admand</h4>
+                            <h3 class="client-name has_char_anim">Moosa Abdul Basith</h3>
+                            <h4 class="client-role has_char_anim">CEO, Mabco Developers</h4>
                           </div>
                         </div>
                         <div class="swiper-slide">
