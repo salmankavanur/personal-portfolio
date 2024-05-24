@@ -884,11 +884,15 @@
                         <div class="swiper-slide">
                           <div class="brand__logo">
                           <img src="{{ asset('assets/imgs/brand/tech-logo-6.png') }}" alt="Brand Logo">
+                               </div>
+                        </div>
 
                            <div class="swiper-slide">
                           <div class="brand__logo">
                           <img src="{{ asset('assets/imgs/brand/tech-logo-7.png') }}" alt="Brand Logo">
-
+ </div>
+                        </div>
+                          
                           </div>
                         </div>
                       </div>
