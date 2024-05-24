@@ -138,7 +138,7 @@
         <ul class="sidebar-menu hover-space">
           <li><a href="#top">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#work">WorkK</a></li>
+          <li><a href="#work">Portfolio</a></li>
           <li><a href="#service">Service</a></li>
           <li><a href="#testimonial">Testimonial</a></li>
           <li><a href="#blog">Blog</a></li>
@@ -228,7 +228,7 @@
                         </ul>
                       </div>
                       <div class="work-process">
-                        <a href="https://www.youtube.com/watch?v=KZrCw3ZXByo&t=2s" class="image-link video-popup">
+                        <a href="https://www.youtube.com/watch?v=KZrCw3ZXByo" class="image-link video-popup">
                           <i class="fa-solid fa-play"></i>
                         </a>
                         <span>work <br> Process</span>
