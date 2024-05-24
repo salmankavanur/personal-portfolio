@@ -749,13 +749,15 @@
                       <a href="{{ route('service-details') }}">
                         <div class="pdesigner-service__item">
                           <h2 class="pdesigner-service__number">01</h2>
-                          <h3 class="pdesigner-service__title">Interaction <br> Design</h3>
-                          <p>Owing to tremendous advancements in machine learning and other technology chatbots have the
-                            year.</p>
+                          <h3 class="pdesigner-service__title">Web <br> Design</h3>
+                          <p>Expert in creating responsive and user-centric designs with proficiency in various web design tools and technologies.</p>
                           <ul class="list-plus">
-                            <li>UI/UX Design</li>
-                            <li>Research</li>
-                            <li>Mobile & Web App</li>
+                            <li>HTML5 / CSS3h</li>
+                            <li>WordPress | Elementor | WPBakery</li>
+                            <li>PHP | Laravel</li>
+                            <li>Bootstrap / SASS</li>
+                            <li>Figma / Adobe Suite</li>
+                            <li>Responsive and User-Centric Design</li>
                           </ul>
                         </div>
                       </a>
@@ -764,13 +766,16 @@
                       <a href="{{ route('service-details') }}">
                         <div class="pdesigner-service__item">
                           <h2 class="pdesigner-service__number">02</h2>
-                          <h3 class="pdesigner-service__title">Digital <br> Marketing</h3>
-                          <p>Owing to tremendous advancements in machine learning and other technology chatbots have the
-                            year.</p>
+                          <h3 class="pdesigner-service__title">Media <br> Passion</h3>
+                          <p>In the captivating world of media, I'm not just a designer – I'm a visual treater.
+                              From drone photo/videography to seamless editing and color grading, I bring visuals to life.</p>
                           <ul class="list-plus">
-                            <li>UI/UX Design</li>
-                            <li>Research</li>
-                            <li>Mobile & Web App</li>
+                            <li>Adobe Premiere Pro</li>
+                            <li>After Effects</li>
+                            <li>Drone Photo/Videography</li>
+                              <li>Photography + Videography</li>
+                              <li>Editing and Color Grading</li>
+                              <li>Live Streaming and Broadcasting</li>
                           </ul>
                         </div>
                       </a>
@@ -779,13 +784,14 @@
                       <a href="{{ route('service-details') }}">
                         <div class="pdesigner-service__item">
                           <h2 class="pdesigner-service__number">03</h2>
-                          <h3 class="pdesigner-service__title">Brand <br> identity</h3>
-                          <p>Owing to tremendous advancements in machine learning and other technology chatbots have the
-                            year.</p>
+                          <h3 class="pdesigner-service__title">Graphic <br> Design</h3>
+                          <p>Specializing in creating visually compelling designs for various media, ensuring brand consistency and engagement.</p>
                           <ul class="list-plus">
-                            <li>UI/UX Design</li>
-                            <li>Research</li>
-                            <li>Mobile & Web App</li>
+                            <li>Social Media Design</li>
+                            <li>Flyer Design</li>
+                            <li>Brochure</li>
+                            <li>Print Design</li>
+                            <li>Adobe Creative Suite - Photoshop/Illustrator/InDesign</li>
                           </ul>
                         </div>
                       </a>
@@ -794,17 +800,31 @@
                       <a href="{{ route('service-details') }}">
                         <div class="pdesigner-service__item">
                           <h2 class="pdesigner-service__number">04</h2>
-                          <h3 class="pdesigner-service__title">Web <br> Development</h3>
-                          <p>Owing to tremendous advancements in machine learning and other technology chatbots have the
-                            year.</p>
+                          <h3 class="pdesigner-service__title">Hosting & <br> Server Management</h3>
+                          <p>Well-experienced in hosting and server management to ensure smooth and reliable web operations.</p>
                           <ul class="list-plus">
-                            <li>UI/UX Design</li>
-                            <li>Research</li>
-                            <li>Mobile & Web App</li>
+                            <li>Hosting</li>
+                            <li>Server Management</li>
+                            <li>Dedicated Servers</li>
                           </ul>
                         </div>
                       </a>
                     </div>
+  <div class="expertise-element has_fade_anim">
+                      <a href="{{ route('service-details') }}">
+                        <div class="pdesigner-service__item">
+                          <h2 class="pdesigner-service__number">04</h2>
+                          <h3 class="pdesigner-service__title">Library & <br> Digitalization</h3>
+                          <p>Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.</p>
+                          <ul class="list-plus">
+                            <li>Library Digitalization</li>
+                            <li>Koha</li>
+                            <li>Digital Resource Management</li>
+                          </ul>
+                        </div>
+                      </a>
+                    </div>
+
                   </div>
                 </div>
               </div>
