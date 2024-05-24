@@ -941,12 +941,12 @@
                           <div class="developer-testimonial__slide">
                           <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
 
-                            <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
-                              was
-                              able to grasp the concept that was intended and helped me decide on clean and beautiful
-                              presentation guy. </p>
-                            <h3 class="client-name">Mukkher Halk</h3>
-                            <h4 class="client-role">CEO, Admand</h4>
+                            <p>Salman is a multi-talented personality and a wonderful individual. His extraordinary skills and talent have significantly contributed to our brand's growth,
+                                enabling us to reach a wider audience and secure major projects.
+                                Salman excels in web designing, graphic designing, aerial shooting, and more,
+                                proving himself to be an invaluable asset to our team.</p>
+                            <h3 class="client-name">Sayyid Noufal Shihab</h3>
+                            <h4 class="client-role">Managing Director, Alif Media Solutions</h4>
                           </div>
                         </div>
                         <div class="swiper-slide">
