@@ -756,8 +756,7 @@
                             <li>WordPress | Elementor | WPBakery</li>
                             <li>PHP | Laravel</li>
                             <li>Bootstrap / SASS</li>
-                            <li>Figma / Adobe Suite</li>
-                            <li>Responsive and User-Centric Design</li>
+                            
                           </ul>
                         </div>
                       </a>
