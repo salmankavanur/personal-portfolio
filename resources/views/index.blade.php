@@ -931,7 +931,7 @@
                             <div class="cf_text has_fade_anim">
                               <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
                                 was able to grasp the concept that was intended and helped me decide on clean and
-                                beautiful presentation\</p>
+                                beautiful presentation.</p>
                             </div>
                             <h3 class="client-name has_char_anim">Moosa Abdul Basith</h3>
                             <h4 class="client-role has_char_anim">CEO, Mabco Developers</h4>
