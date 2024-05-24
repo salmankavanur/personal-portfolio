@@ -843,7 +843,7 @@
               <div class="row">
                 <div class="col-xxl-12">
                   <div class="pdesigner-brand__title-pb">
-                    <h2 class="brand__title has_word_anim">Worked more than 50 global largest brands</h2>
+                    <h2 class="brand__title has_word_anim">Creative Tech Stack</h2>
                   </div>
                 </div>
                 <div class="col-xxl-12">
