@@ -12,7 +12,7 @@
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
   <meta property="og:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
-  <meta property="og:image" content="{{ asset('assets/imgs/hero/personal-photo-bg.png') }}">
+  <meta property="og:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
   <meta property="og:url" content="{{ url()->current() }}">
   <meta property="og:type" content="website">
 
@@ -20,7 +20,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
   <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
-  <meta name="twitter:image" content="{{ asset('assets/imgs/hero/personal-photo-bg.png') }}">
+  <meta name="twitter:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
 
   <!-- Structured Data -->
   <script type="application/ld+json">
@@ -37,7 +37,7 @@
       "https://twitter.com/salmankavanur",
       "https://www.linkedin.com/in/salmanmp"
     ],
-    "image": "{{ asset('assets/imgs/hero/personal-photo-bg.png') }}",
+    "image": "{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}",
     "address": {
       "@type": "Malappuram",
       "addressLocality": "Kerala",
