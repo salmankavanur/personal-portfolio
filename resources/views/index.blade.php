@@ -996,7 +996,7 @@
                           <div class="developer-testimonial__slide">
                           <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
 
-                            <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
+                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
                               presentation guy. </p>
@@ -1008,7 +1008,7 @@
                           <div class="developer-testimonial__slide">
                           <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
 
-                            <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
+                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
                               presentation guy. </p>
