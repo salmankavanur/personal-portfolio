@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in both fields. My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media designs. Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva, I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.">
 
-  <title>Portfolio -  Experienced and Passionate Web & Graphic Designer</title>
+  <title>Portfolio Details-  Experienced and Passionate Web & Graphic Designer</title>
 
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="Portfolio of Salman MP - Experienced and Passionate Web & Graphic Designer">
