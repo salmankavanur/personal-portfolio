@@ -5,15 +5,28 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="INFO HTML5 Template">
+  <meta name="description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in both fields. My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media designs. Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva, I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.">
 
-  <title>Portfolio Dark</title>
+  <title>Portfolio -  Experienced and Passionate Web & Graphic Designer</title>
 
-  <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Portfolio of Salman MP - Experienced and Passionate Web & Graphic Designer">
+  <meta property="og:description" content="Experienced and passionate Web and Graphic Designer based in Malappuram,Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+  <meta property="og:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
+  <meta property="og:url" content="{{ url()->current() }}">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Portfolio of Salman MP - Experienced and Passionate Web & Graphic Designer">
+  <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Malappuram, Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+  <meta name="twitter:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
 
   <!-- Fav Icon -->
- <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
+  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
 
+  <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
+    
   <!-- All CSS files -->
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
@@ -254,7 +267,7 @@
                 <div class="col-xxl-12">
                   <div class="sec-title-wrapper text-center pb-50">
                     <h1 class="sec-sub-title pb-20 has_char_anim">Portfolio</h1>
-                    <h2 class="sec-title has_text_reveal_anim">Selected Work</h2>
+                    <h2 class="sec-title has_text_reveal_anim">Exposing Me</h2>
                   </div>
                 </div>
               </div>
