@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,6 +21,9 @@
   <meta name="twitter:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
   <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
   <meta name="twitter:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
   <!-- Structured Data -->
   <script type="application/ld+json">
