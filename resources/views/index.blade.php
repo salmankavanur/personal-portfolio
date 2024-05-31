@@ -22,8 +22,7 @@
   <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
   <meta name="twitter:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+  
 
   <!-- Structured Data -->
   <script type="application/ld+json">
@@ -52,8 +51,9 @@
 
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
-
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    
 <style>
   html, body { padding: 0; margin: 0; width: 100%; height: 100%; }
   * {box-sizing: border-box;}
