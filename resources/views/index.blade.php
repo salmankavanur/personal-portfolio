@@ -69,10 +69,10 @@
             <p>- Salman MP -</p>
             <!-- Add your social media icons here -->
             <ul>
-                <li><a href="https://www.instagram.com/your_instagram_profile"><img src="instagram-icon.png" alt="Instagram"></a></li>
+                <li><a href="https://www.instagram.com/salman_kavanur/"><img src="instagram-icon.png" alt="Instagram"></a></li>
                 <li><a href="https://www.linkedin.com/in/salmanmp/"><img src="linkedin-icon.png" alt="LinkedIn"></a></li>
-                <li><a href="https://github.com/your_github_profile"><img src="github-icon.png" alt="GitHub"></a></li>
-                <li><a href="https://www.behance.net/your_behance_profile"><img src="behance-icon.png" alt="Behance"></a></li>
+                <li><a href="https://github.com/salmankavanur/"><img src="github-icon.png" alt="GitHub"></a></li>
+                <li><a href="https://www.behance.net/salmanmp"><img src="behance-icon.png" alt="Behance"></a></li>
             </ul>
         </div>
     </article>
