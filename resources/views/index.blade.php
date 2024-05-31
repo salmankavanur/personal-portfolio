@@ -74,7 +74,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202.24 202.24">
           <!-- Your SVG path here -->
       </svg>
-      <h1>We'll be back soon!</h1>
+      <h1>I'll be back soon!</h1>
       <div>
           <p>Sorry for the inconvenience. I'm currently performing some maintenance on my personal website. You can always follow me on <a href="https://www.linkedin.com/in/salmanmp/">LinkedIn</a> for updates, or check back shortly!</p>
           <p>- Salman MP -</p>
