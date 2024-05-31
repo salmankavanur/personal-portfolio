@@ -43,6 +43,16 @@
   }
   </script>
 
+ <!-- All CSS files -->
+  <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/progressbar.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.min.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}">
+  <link rel="stylesheet" href="{{ asset('style.css') }}">
+
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
 
