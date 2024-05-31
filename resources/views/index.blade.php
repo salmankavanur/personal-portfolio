@@ -74,12 +74,14 @@
         <div>
             <p>Sorry for the inconvenience. I'm currently performing some maintenance on my personal website. You can always follow me on <a href="https://www.linkedin.com/in/salmanmp/">LinkedIn</a> for updates, or check back shortly!</p>
             <p>- Salman MP -</p>
-            <!-- Add your social media icons here -->
-            <ul>
-                <li><a href="https://www.instagram.com/salman_kavanur/"><img src="instagram-icon.png" alt="Instagram"></a></li>
-                <li><a href="https://www.linkedin.com/in/salmanmp/"><img src="linkedin-icon.png" alt="LinkedIn"></a></li>
-                <li><a href="https://github.com/salmankavanur/"><img src="github-icon.png" alt="GitHub"></a></li>
-                <li><a href="https://www.behance.net/salmanmp"><img src="behance-icon.png" alt="Behance"></a></li>
-            </ul>
+             <!-- Social media icons -->
+            <div class="social-icons">
+                <ul>
+                    <li><a href="https://www.instagram.com/salman_kavanur/"><img src="instagram-icon.png" alt="Instagram"></a></li>
+                    <li><a href="https://www.linkedin.com/in/salmanmp/"><img src="linkedin-icon.png" alt="LinkedIn"></a></li>
+                    <li><a href="https://github.com/salmankavanur/"><img src="github-icon.png" alt="GitHub"></a></li>
+                    <li><a href="https://www.behance.net/salmanmp"><img src="behance-icon.png" alt="Behance"></a></li>
+                </ul>
+            </div>
         </div>
     </article>
