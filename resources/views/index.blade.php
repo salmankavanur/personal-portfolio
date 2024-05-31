@@ -248,8 +248,8 @@
                       <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Shape Image" class="mb-30">
                       </div>
                       <div class="cf-text has_fade_anim" data-delay="1.2">
-                        <p>A Freelance Web & Graphic Designer and Developer <span>based in Kerala, India</span>. I strives to build
-                          immersive and beautiful web applications through carefully crafted user-centric design.</p>
+                        <p>A Freelance Web & Graphic Designer <span>based in Kerala, India</span>. I strives to build
+                          immersive and beautiful websites through carefully crafted user-centric design.</p>
                       </div>
                     </div>
                     <div class="pdesigner-hero__experience has_fade_anim" data-on-scroll="0" data-delay="2">
