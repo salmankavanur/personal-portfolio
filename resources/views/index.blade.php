@@ -1,5 +1,51 @@
-<!doctype html>
-<title>Salman MP - Experienced and passionate Web and Graphic Designer</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in both fields. My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media designs. Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva, I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.">
+
+  <title>Salman MP - Experienced and Passionate Web and Graphic Designer</title>
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
+  <meta property="og:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+  <meta property="og:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
+  <meta property="og:url" content="{{ url()->current() }}">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
+  <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+  <meta name="twitter:image" content="{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Salman MP",
+    "jobTitle": "Web and Graphic Designer",
+    "description": "Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.",
+    "url": "https://salmanmp.me",
+    "sameAs": [
+      "https://www.instagram.com/salman_kavanur",
+      "https://www.facebook.com/salmankavanoor",
+      "https://twitter.com/salmankavanur",
+      "https://www.linkedin.com/in/salmanmp"
+    ],
+    "image": "{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}",
+    "address": {
+      "@type": "Malappuram",
+      "addressLocality": "Kerala",
+      "addressRegion": "IN",
+      "addressCountry": "India"
+    }
+  }
+  </script>
+
+  <!-- Fav Icon -->
+  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
+
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 <style>
   html, body { padding: 0; margin: 0; width: 100%; height: 100%; }
