@@ -62,7 +62,7 @@
   h1 { font-size: 50px; font-weight: 100; text-align: center;}
   body { font-family: Open Sans; font-weight: 100; font-size: 20px; color: #fff; text-align: center; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center;}
   article { display: block; width: 700px; padding: 50px; margin: 0 auto; }
-  a { color: #fff; font-weight: bold;}
+  a { color: #fff; font-weight: bold; text-decoration: none;}
   a:hover { text-decoration: none; }
   svg { width: 75px; margin-top: 1em; }
   .social-icons a { color: #fff; margin: 0 10px; font-size: 24px; }
