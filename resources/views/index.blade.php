@@ -81,9 +81,9 @@
            <!-- Social media icons -->
            <div class="social-icons">
               <a href="https://www.instagram.com/salman_kavanur" target="_blank"><i class="fab fa-instagram"></i></a>
-              <a href="https://www.facebook.com/salmankavanoor" target="_blank"><i class="fab fa-facebook"></i></a>
-              <a href="https://twitter.com/salmankavanur" target="_blank"><i class="fab fa-twitter"></i></a>
               <a href="https://www.linkedin.com/in/salmanmp" target="_blank"><i class="fab fa-linkedin"></i></a>
+              <a href="https://github.com/salmankavanur" target="_blank"><i class="fab fa-github"></i></a>
+              <a href="https://www.behance.net/salmanmp" target="_blank"><i class="fab fa-behance"></i></a>
            </div>
       </div>
   </article>
