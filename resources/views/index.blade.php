@@ -33,9 +33,11 @@
     "url": "https://salmanmp.me",
     "sameAs": [
       "https://www.instagram.com/salman_kavanur",
+      "https://www.linkedin.com/in/salmanmp"
+      "https://github.com/salmankavanur"
+      "https://www.behance.net/salmanmp"
       "https://www.facebook.com/salmankavanoor",
       "https://twitter.com/salmankavanur",
-      "https://www.linkedin.com/in/salmanmp"
     ],
     "image": "{{ asset('assets/imgs/hero/personal-photo-bg-low.webp') }}",
     "address": {
