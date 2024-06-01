@@ -41,3 +41,11 @@ Route::get('index-light', function () {
 Route::get('service-details', function () {
     return view('service-details');
 })->name('service-details');
+
+Route::get('index-original', function () {
+    return view('index-original');
+})->name('index-original');
+
+Route::get('maintanance-mode', function () {
+    return view('maintanance-mode');
+})->name('maintanance-mode');
