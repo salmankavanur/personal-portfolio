@@ -639,105 +639,106 @@
                 <div class="col-xxl-12">
                   <div class="pdesigner-portfolio__btn-list has_pdlist_btn_animation">
                     <button data-filter="all"><span>07</span> View All</button>
-                    <button data-filter=".creative"><span>02</span> Creative</button>
-                    <button data-filter=".development"><span>05</span> Development</button>
-                    <button data-filter=".branding"><span>03</span> Branding</button>
+                    <button data-filter=".graphic"><span>02</span> Graphic Design</button>
                     <button data-filter=".web-design"><span>03</span> Web Design</button>
+                    <button data-filter=".print"><span>05</span> Print Design</button>
+                    <button data-filter=".flyer"><span>03</span> Flyer Design</button>
+                    
                   </div>
 
                   <div class="mixitup-active">
                     <div class="pdesigner-portfolio__flex has_pdportfolio_animation">
-                      <div class="pdesigner-portfolio__item mix creative">
+                      <div class="pdesigner-portfolio__item mix print">
                         <a href="#">
 
-                        <img src="{{ asset('assets/imgs/portfolio/3.jpg') }}" alt="Portfolio Thumbnail">
-
-                        </a>
-                        <div class="pdesigner-portfolio__content">
-                          <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
-                            </li>
-                            <li><a href="#" class="pdesigner-portfolio__title">User Experience</a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="pdesigner-portfolio__item large mix development">
-                        <a href="#">
-                          <img src="{{ asset('assets/imgs/portfolio/4.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/print_design.jpg') }}" alt="Portfolio Thumbnail">
 
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
+                            <li><a href="https://www.behance.net/gallery/175280677/Brochure-Design-Landscape-Print" class="pdesigner-portfolio__category">Print Design</a>
                             </li>
-                            <li><a href="#" class="pdesigner-portfolio__title">User Experience</a>
+                            <li><a href="https://www.behance.net/gallery/175280677/Brochure-Design-Landscape-Print" class="pdesigner-portfolio__title">Brochure Design</a>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="pdesigner-portfolio__item mix branding">
+                      <div class="pdesigner-portfolio__item large mix web-design">
                         <a href="#">
-                        <img src="{{ asset('assets/imgs/portfolio/5.jpg') }}" alt="Portfolio Thumbnail">
+                          <img src="{{ asset('assets/imgs/portfolio/web-design.jpg') }}" alt="Portfolio Thumbnail">
 
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
+                            <li><a href="https://www.behance.net/gallery/197521677/Web-Design-Elementor-Wordpress" class="pdesigner-portfolio__category">Web Design</a>
                             </li>
-                            <li><a href="{{ route('portfolio-details') }}" class="pdesigner-portfolio__title">User Experience</a>
+                            <li><a href="https://www.behance.net/gallery/197521677/Web-Design-Elementor-Wordpress" class="pdesigner-portfolio__title">Responsive Website Design</a>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="pdesigner-portfolio__item mix web-design">
+                      <div class="pdesigner-portfolio__item mix print">
                         <a href="#">
-                        <img src="{{ asset('assets/imgs/portfolio/6.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/5-arabic-book.jpg') }}" alt="Portfolio Thumbnail">
+
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
+                            <li><a href="https://www.behance.net/gallery/200146981/Arabic-Book-Cover-Design" class="pdesigner-portfolio__category">Print Design</a>
                             </li>
-                            <li><a href="#" class="pdesigner-portfolio__title">User Experience</a>
+                            <li><a href="https://www.behance.net/gallery/200146981/Arabic-Book-Cover-Design" class="pdesigner-portfolio__title">Arabic Book Design</a>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="pdesigner-portfolio__item mix creative">
+                      <div class="pdesigner-portfolio__item mix print">
+                        <a href="#">
+                        <img src="{{ asset('assets/imgs/portfolio/6-brochure-design.jpg') }}" alt="Portfolio Thumbnail">
+                        </a>
+                        <div class="pdesigner-portfolio__content">
+                          <ul>
+                            <li><a href="https://www.behance.net/gallery/197516607/Brochure-Design-Print-Design-" class="pdesigner-portfolio__category">Print Design</a>
+                            </li>
+                            <li><a href="https://www.behance.net/gallery/197516607/Brochure-Design-Print-Design-" class="pdesigner-portfolio__title">3 Fold Brochure Design</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="pdesigner-portfolio__item mix flyer">
                         <a href="">
-                        <img src="{{ asset('assets/imgs/portfolio/7.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/7-election-campaign.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
+                            <li><a href="https://www.behance.net/gallery/172282465/Election-Campaign-(-Social-Media-PosterFlyerCard)" class="pdesigner-portfolio__category">Social Media & Print Design</a>
                             </li>
-                            <li><a href="#" class="pdesigner-portfolio__title">User Experience</a>
+                            <li><a href="https://www.behance.net/gallery/172282465/Election-Campaign-(-Social-Media-PosterFlyerCard)" class="pdesigner-portfolio__title">Election Campaign Design</a>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="pdesigner-portfolio__item large mix branding">
+                      <div class="pdesigner-portfolio__item large mix web-design">
                         <a href="">
-                        <img src="{{ asset('assets/imgs/portfolio/8.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/8-web-design.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
+                            <li><a href="https://www.behance.net/gallery/197546171/Educational-Website-Elementor-Wordpress-CMS" class="pdesigner-portfolio__category">Web Design</a>
                             </li>
-                            <li><a href="#" class="pdesigner-portfolio__title">User Experience</a>
+                            <li><a href="https://www.behance.net/gallery/197546171/Educational-Website-Elementor-Wordpress-CMS" class="pdesigner-portfolio__title">Responsive Website Design</a>
                             </li>
                           </ul>
                         </div>
                       </div>
-                      <div class="pdesigner-portfolio__item mix web-design">
+                      <div class="pdesigner-portfolio__item mix graphic">
                         <a href="">
-                        <img src="{{ asset('assets/imgs/portfolio/9.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/9-educational-flyer.jpg') }}" alt="Portfolio Thumbnail">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
-                            <li><a href="#" class="pdesigner-portfolio__category">UI Design</a>
+                            <li><a href="https://www.behance.net/gallery/197383441/Montessori-Admission-Flyer-Design-Social-Media-Post" class="pdesigner-portfolio__category">Social Media/FLyer Design</a>
                             </li>
-                            <li><a href="#" class="pdesigner-portfolio__title">User Experience</a>
+                            <li><a href="https://www.behance.net/gallery/197383441/Montessori-Admission-Flyer-Design-Social-Media-Post" class="pdesigner-portfolio__title">Educational Flyer Design</a>
                             </li>
                           </ul>
                         </div>
@@ -1023,7 +1024,7 @@
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
                           <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
-                            <p>Joya was fantastic with being responsive, professional, knowledgeable, and skilled. He
+                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
                               was
                               able to grasp the concept that was intended and helped me decide on clean and beautiful
                               presentation guy. </p>
