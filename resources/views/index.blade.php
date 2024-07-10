@@ -1066,7 +1066,7 @@
                             <li><a href="#">Branding</a></li>
                             <li><a href="#">22 Feb 2022</a></li>
                           </ul>
-                          <a href="#">
+                          <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/">
                             <h4 class="pdesigner-blog__title">10 VITAL COMPONENTS OF AN IDEAL COMPANY PROFILE DESIGN</h4>
                           </a>
                           <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/" class="pdesigner-blog__link">Read More <span><i
@@ -1088,7 +1088,7 @@
                             <li><a href="#">SEO</a></li>
                             <li><a href="#">15 Feb 2022</a></li>
                           </ul>
-                          <a href="#">
+                          <a href="https://alifsolutions.in/8-google-seo-tips/">
                             <h4 class="pdesigner-blog__title">8 Google SEO Tips for Page One Results</h4>
                           </a>
                           <a href="https://alifsolutions.in/8-google-seo-tips/" class="pdesigner-blog__link">Read More <span><i
@@ -1110,7 +1110,7 @@
                             <li><a href="#">Digital Marketing</a></li>
                             <li><a href="#">02 October 2020</a></li>
                           </ul>
-                          <a href="#">
+                          <a href="https://alifsolutions.in/what-is-digital-marketing/">
                             <h4 class="pdesigner-blog__title">What exactly is digital marketing?</h4>
                           </a>
                           <a href="https://alifsolutions.in/what-is-digital-marketing/" class="pdesigner-blog__link">Read More <span><i
