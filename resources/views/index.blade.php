@@ -968,17 +968,28 @@
                           <div class="developer-testimonial__slide">
                             <div class="cf_image has_fade_anim" data-fade-from="in" data-ease="bounce">
                             
-                            <img src="{{ asset('assets/imgs/testimonial/client/moosa_basith.png') }}" alt="Client Image">
+                            <img src="{{ asset('assets/imgs/testimonial/client/rkd_nazim.png') }}" alt="Client Image">
 
                             </div>
 
                             <div class="cf_text has_fade_anim">
-                              <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
+                              <p>Salman is a multi-talented professional with an excellent personality. His expertise has significantly contributed to the growth of our business,
+                                 particularly in web design, Google Workspace management, and social media profile enhancement.
+                                 Thanks to his efforts and timely updates, we have achieved a leading position in the sector.</p>
+                            </div>
+                            <h3 class="client-name has_char_anim">Mohamed Nazeemudheen</h3>
+                            <h4 class="client-role has_char_anim">Project Manager, RKD Works LLC, UAE</h4>
+                          </div>
+                        </div>
+                        <div class="swiper-slide">
+                          <div class="developer-testimonial__slide">
+                          <img src="{{ asset('assets/imgs/testimonial/client/moosa_basith.png') }}" alt="Client Image">
+
+                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
                                 was able to grasp the concept that was intended and helped me decide on clean and
                                 beautiful presentation.</p>
-                            </div>
-                            <h3 class="client-name has_char_anim">Moosa Abdul Basith</h3>
-                            <h4 class="client-role has_char_anim">CEO, Mabco Developers</h4>
+                            <h3 class="client-name">Moosa Abdul Basith</h3>
+                            <h4 class="client-role">CEO, Mabco Developers</h4>
                           </div>
                         </div>
                         <div class="swiper-slide">
@@ -991,18 +1002,6 @@
                                 proving himself to be an invaluable asset to our team.</p>
                             <h3 class="client-name">Sayyid Noufal Shihab</h3>
                             <h4 class="client-role">Managing Director, Alif Media Solutions</h4>
-                          </div>
-                        </div>
-                        <div class="swiper-slide">
-                          <div class="developer-testimonial__slide">
-                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
-
-                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
-                              was
-                              able to grasp the concept that was intended and helped me decide on clean and beautiful
-                              presentation guy. </p>
-                            <h3 class="client-name">Mukkher Halk</h3>
-                            <h4 class="client-role">CEO, Admand</h4>
                           </div>
                         </div>
                         <div class="swiper-slide">
