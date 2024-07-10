@@ -1021,17 +1021,7 @@
                             <h3 class="client-role has_char_anim">2023-24</h3>
                           </div>
                         </div>
-                        <div class="swiper-slide">
-                          <div class="developer-testimonial__slide">
-                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
-                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
-                              was
-                              able to grasp the concept that was intended and helped me decide on clean and beautiful
-                              presentation guy. </p>
-                            <h3 class="client-name">Mukkher Halk</h3>
-                            <h4 class="client-role">CEO, Admand</h4>
-                          </div>
-                        </div>
+                        
                       </div>
                     </div>
 
@@ -1068,18 +1058,18 @@
                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                   <article class="has_fade_anim" data-fade-from="left">
                     <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="{{ route('blog-details') }}"><img src="{{ asset('assets/imgs/blog/4.jpg') }}" alt="Blog Thumbnail">
+                      <a href="#"><img src="{{ asset('assets/imgs/blog/4-company-profile.jpg') }}" alt="Blog Thumbnail">
 </a>
                       <div class="pdesigner-blog__content">
                         <div>
                           <ul class="pdesigner-blog__meta">
-                            <li><a href="#">Ui design</a></li>
-                            <li><a href="#">03 May 2019</a></li>
+                            <li><a href="#">Branding</a></li>
+                            <li><a href="#">22 Feb 2022</a></li>
                           </ul>
-                          <a href="{{ route('blog-details') }}">
-                            <h4 class="pdesigner-blog__title">A Sneak-Peek Inside The Southeast Asian Web Community</h4>
+                          <a href="#">
+                            <h4 class="pdesigner-blog__title">10 VITAL COMPONENTS OF AN IDEAL COMPANY PROFILE DESIGN</h4>
                           </a>
-                          <a href="{{ route('blog-details') }}" class="pdesigner-blog__link">Read More <span><i
+                          <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/" class="pdesigner-blog__link">Read More <span><i
                                 class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                       </div>
@@ -1090,18 +1080,18 @@
                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                   <article class="has_fade_anim" data-fade-from="left" data-delay="0.8">
                     <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="{{ route('blog-details') }}"><img src="{{ asset('assets/imgs/blog/8.jpg') }}" alt="Blog Thumbnail">
+                      <a href="#"><img src="{{ asset('assets/imgs/blog/8-SEO-Tips.jpg') }}" alt="Blog Thumbnail">
 </a>
                       <div class="pdesigner-blog__content">
                         <div>
                           <ul class="pdesigner-blog__meta">
-                            <li><a href="#">Ui design</a></li>
-                            <li><a href="#">03 May 2019</a></li>
+                            <li><a href="#">SEO</a></li>
+                            <li><a href="#">15 Feb 2022</a></li>
                           </ul>
-                          <a href="{{ route('blog-details') }}">
-                            <h4 class="pdesigner-blog__title">A Sneak-Peek Inside The Southeast Asian Web Community</h4>
+                          <a href="#">
+                            <h4 class="pdesigner-blog__title">8 Google SEO Tips for Page One Results</h4>
                           </a>
-                          <a href="{{ route('blog-details') }}" class="pdesigner-blog__link">Read More <span><i
+                          <a href="https://alifsolutions.in/8-google-seo-tips/" class="pdesigner-blog__link">Read More <span><i
                                 class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                       </div>
@@ -1112,18 +1102,18 @@
                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                   <article class="has_fade_anim" data-fade-from="left" data-delay="1.1">
                     <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="{{ route('blog-details') }}"><img src="{{ asset('assets/imgs/blog/9.jpg') }}" alt="Blog Thumbnail">
+                      <a href="#"><img src="{{ asset('assets/imgs/blog/9-digital-marketing.jpg') }}" alt="Blog Thumbnail">
 </a>
                       <div class="pdesigner-blog__content">
                         <div>
                           <ul class="pdesigner-blog__meta">
-                            <li><a href="#">Ui design</a></li>
-                            <li><a href="#">03 May 2019</a></li>
+                            <li><a href="#">Digital Marketing</a></li>
+                            <li><a href="#">02 October 2020</a></li>
                           </ul>
-                          <a href="{{ route('blog-details') }}">
-                            <h4 class="pdesigner-blog__title">A Sneak-Peek Inside The Southeast Asian Web Community</h4>
+                          <a href="#">
+                            <h4 class="pdesigner-blog__title">What exactly is digital marketing?</h4>
                           </a>
-                          <a href="{{ route('blog-details') }}" class="pdesigner-blog__link">Read More <span><i
+                          <a href="https://alifsolutions.in/what-is-digital-marketing/" class="pdesigner-blog__link">Read More <span><i
                                 class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                       </div>
