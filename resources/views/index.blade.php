@@ -1018,7 +1018,7 @@
                                He provided very professional and premium ID cards on time. Thank you for your valuable support. </p>
                             <h3 class="client-name">Sayyid Rasheeq Shihab, Panakkad</h3>
                             <h4 class="client-role">President, Noorul Ulama Students' Association</h4>
-                            <h3 class="client-role has_char_anim">2023-24</h3>
+                            <h3 class="client-role has_char_anim">Jamia Nooriyya Arabiyya | 2023-24</h3>
                           </div>
                         </div>
                         
