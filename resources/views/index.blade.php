@@ -750,7 +750,7 @@
               <div class="row">
                 <div class="col-xxl-12">
                   <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-ease="bounce">
-                    <a href="#" class="btn-hover-mask">Load more works <i
+                    <a href="https://www.behance.net/salmanmp" class="btn-hover-mask">Load more works <i
                         class="fa-solid fa-arrow-right"></i></a>
                   </div>
                 </div>
@@ -978,18 +978,21 @@
                                  Thanks to his efforts and timely updates, we have achieved a leading position in the sector.</p>
                             </div>
                             <h3 class="client-name has_char_anim">Mohamed Nazeemudheen</h3>
-                            <h4 class="client-role has_char_anim">Project Manager, RKD Works LLC, UAE</h4>
+                            <h4 class="client-role has_char_anim">Project Manager, RKD Works LLC</h4>
+                            <h3 class="client-role has_char_anim">Dubai, UAE</h3>
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
                           <img src="{{ asset('assets/imgs/testimonial/client/moosa_basith.png') }}" alt="Client Image">
 
-                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
-                                was able to grasp the concept that was intended and helped me decide on clean and
-                                beautiful presentation.</p>
+                            <p>Salman was fantastic—responsive, professional, knowledgeable, and skilled.
+                               He quickly grasped our intended concept and helped us achieve a clean and beautiful presentation.
+                                His talent and skills were evident throughout his work with our company,
+                               significantly contributing to our business growth. He did an excellent job as a digital marketer and designer.</p>
                             <h3 class="client-name">Moosa Abdul Basith</h3>
                             <h4 class="client-role">CEO, Mabco Developers</h4>
+                            <h3 class="client-role has_char_anim">Perinthalmanna, Kerala, India</h3>
                           </div>
                         </div>
                         <div class="swiper-slide">
@@ -1002,18 +1005,19 @@
                                 proving himself to be an invaluable asset to our team.</p>
                             <h3 class="client-name">Sayyid Noufal Shihab</h3>
                             <h4 class="client-role">Managing Director, Alif Media Solutions</h4>
+                            <h3 class="client-role has_char_anim">Perinthalmanna, Kerala, India</h3>
+
                           </div>
                         </div>
                         <div class="swiper-slide">
                           <div class="developer-testimonial__slide">
-                          <img src="{{ asset('assets/imgs/testimonial/client/1.png') }}" alt="Client Image">
+                          <img src="{{ asset('assets/imgs/testimonial/client/sayyid_rasheeq.png') }}" alt="Client Image">
 
-                            <p>Salman was fantastic with being responsive, professional, knowledgeable, and skilled. He
-                              was
-                              able to grasp the concept that was intended and helped me decide on clean and beautiful
-                              presentation guy. </p>
-                            <h3 class="client-name">Mukkher Halk</h3>
-                            <h4 class="client-role">CEO, Admand</h4>
+                            <p>We worked with Salman for our student's ID card printing and data merge needs.
+                               He provided very professional and premium ID cards on time. Thank you for your valuable support. </p>
+                            <h3 class="client-name">Sayyid Rasheeq Shihab, Panakkad</h3>
+                            <h4 class="client-role">President, Noorul Ulama Students' Association</h4>
+                            <h3 class="client-role has_char_anim">2023-24</h3>
                           </div>
                         </div>
                         <div class="swiper-slide">
