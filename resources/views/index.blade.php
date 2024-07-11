@@ -2,53 +2,55 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in both fields. My strong portfolio features a variety of design projects, including brochures, flyers, posters, and social media designs. Proficient in Adobe Suite (Photoshop, Illustrator, Premiere, After Effects, and InDesign) and Canva, I excel at creating visually stunning and effective marketing materials, as well as modern, user-friendly websites.">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salman MP is an experienced Web and Graphic Designer, SEO Specialist, and Digital Marketing Expert based in Kerala, India. Offering web design, web development, app development, and digital marketing services in Malappuram, including Manjeri.">
+  
+    <title>Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram</title>
 
-  <title>Salman MP - Experienced and Passionate Web and Graphic Designer</title>
-
-  <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
-  <meta property="og:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
-  <meta property="og:image" content="{{ asset('assets/imgs/hero/salman_mp.jpg') }}">
-  <meta property="og:url" content="{{ url()->current() }}">
-  <meta property="og:type" content="website">
-
-  <!-- Twitter Card Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
-  <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
-  <meta name="twitter:image" content="{{ asset('assets/imgs/hero/salman_mp.jpg') }}">
-
-  <!-- Structured Data -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Salman MP",
-    "jobTitle": "Web and Graphic Designer",
-    "description": "Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.",
-    "url": "https://salmanmp.me",
-    "sameAs": [
-      "https://www.instagram.com/salman_kavanur",
-      "https://www.facebook.com/salmankavanoor",
-      "https://twitter.com/salmankavanur",
-      "https://www.linkedin.com/in/salmanmp"
-    ],
-    "image": "{{ asset('assets/imgs/hero/salman_mp.jpg') }}",
-    "address": {
-      "@type": "Malappuram",
-      "addressLocality": "Kerala",
-      "addressRegion": "IN",
-      "addressCountry": "India"
+  
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
+    <meta property="og:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+    <meta property="og:image" content="https://salmanmp.me/assets/imgs/hero/salman_mp.jpg">
+    <meta property="og:url" content="https://salmanmp.me">
+    <meta property="og:type" content="website">
+  
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
+    <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+    <meta name="twitter:image" content="https://salmanmp.me/assets/imgs/hero/salman_mp.jpg">
+  
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Salman MP",
+      "jobTitle": "Web and Graphic Designer",
+      "description": "Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.",
+      "url": "https://salmanmp.me",
+      "sameAs": [
+        "https://www.instagram.com/salman_kavanur",
+        "https://www.facebook.com/salmankavanoor",
+        "https://twitter.com/salmankavanur",
+        "https://www.linkedin.com/in/salmanmp"
+      ],
+      "image": "https://salmanmp.me/assets/imgs/hero/salman_mp.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Malappuram",
+        "addressRegion": "Kerala",
+        "addressCountry": "India"
+      }
     }
-  }
-  </script>
-
-  <!-- Fav Icon -->
-  <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/site-logo-light.svg') }}">
+    </script>
+  
+    <!-- Fav Icon -->
+    <link rel="icon" type="image/x-icon" href="https://salmanmp.me/assets/imgs/logo/site-logo-light.svg">  
 
   <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
     
@@ -226,6 +228,8 @@
                           <span>Web Designer</span>
                           <span>Graphic Designer</span>
                           <span>Web Developer</span>
+                          <span>SEO Specialist</span>
+                          <span>Digital Marketing Expert</span>
                         </span>
                         <span id="typed"></span>
                       </h1>
