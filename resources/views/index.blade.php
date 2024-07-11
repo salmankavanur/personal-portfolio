@@ -215,150 +215,138 @@
 </div>
 
 
-          <!-- Hero section start -->
-          <section class="pdesigner-hero__area" id="top">
-            <div class="container g-0 line">
-              <div class="row">
-                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                  <div class="pdesigner-hero__left">
-                    <div class="pb-20">
-                      <h1 class="typed_title has_fade_anim">Hi 🖐 I’m
-                        <span id="typed_list">
-                          <span>Salman</span>
-                          <span>Web Designer</span>
-                          <span>Graphic Designer</span>
-                          <span>Web Developer</span>
-                          <span>SEO Specialist</span>
-                          <span>Digital Marketing Expert</span>
-                        </span>
-                        <span id="typed"></span>
-                      </h1>
-                    </div>
-                    <div class="pb-30">
-                      <h2 class="pdesigner-hero__title has_text_move_anim" data-delay=".7">A Web &
-                        <span>Graphic</span>
-                        Designer
-                      </h2>
-                    </div>
-                    <div class="cf_btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-                    <a href="{{ route('portfolio') }}" class="btn-hover-mask" data-text="View My Works">View My Works</a>
-                    </div>
-
-                  </div>
-                </div>
-                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                  <div class="pdesigner-hero__right">
-                    <div class="pdesigner-hero__text">
-                      <div class="cf-image has_fade_anim " data-on-scroll="0" data-delay="1.2">
-                      <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Shape Image" class="mb-30">
-                      </div>
-                      <div class="cf-text has_fade_anim" data-delay="1.2">
-                        <p>A Freelance Web & Graphic Designer <span>based in Kerala, India</span>. I strives to build
-                          immersive and beautiful websites through carefully crafted user-centric design.</p>
-                      </div>
-                    </div>
-                    <div class="pdesigner-hero__experience has_fade_anim" data-on-scroll="0" data-delay="2">
-                      <div class="pdesigner-hero__social-wrapper">
-                        <h3 class="follow-me">Follow Me</h3>
-                        <ul class="pdesigner-hero__social">
-                          <li><a href="https://www.linkedin.com/in/salmanmp/"><i class="fa-brands fa-linkedin"></i></a></li>
-                          <li><a href="https://www.instagram.com/salman_kavanur/"><i class="fa-brands fa-instagram"></i></a></li>
-                          <li><a href="https://www.behance.net/salmanmp"><i class="fa-brands fa-behance"></i></a></li>
-                          <li><a href="https://github.com/salmankavanur/"><i class="fa-brands fa-github"></i></a></li>
-                        </ul>
-                      </div>
-                      <div class="work-process">
-                        <a href="https://www.youtube.com/watch?v=KZrCw3ZXByo" class="image-link video-popup">
-                          <i class="fa-solid fa-play"></i>
-                        </a>
-                        <span>work <br> Process</span>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-              </div>
-              <div class="cf_image has_fade_anim hero-shape" data-on-scroll="0" data-delay="2.5" data-fade-from="right"
-                data-fade-offset="100">
-  <img src="{{ asset('assets/imgs/shape/8.png') }}" alt="Shape Image">
-</div>
-
-<div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80"
-                data-duration="3">
-  <img src="{{ asset('assets/imgs/hero/2_3.png') }}" alt="Salman - Hero image">
-</div>
-
-</div>
+ <!-- Hero section start -->
+ <section class="pdesigner-hero__area" id="top">
+  <div class="container g-0 line">
+    <div class="row">
+      <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+        <div class="pdesigner-hero__left">
+          <div class="pb-20">
+            <h1 class="typed_title has_fade_anim">Hi 🖐 I’m
+              <span id="typed_list">
+                <span>Salman</span>
+                <span>Web Designer</span>
+                <span>Graphic Designer</span>
+                <span>Web Developer</span>
+                <span>SEO Specialist</span>
+                <span>Digital Marketing Expert</span>
+              </span>
+              <span id="typed"></span>
+            </h1>
+          </div>
+          <div class="pb-30">
+            <h2 class="pdesigner-hero__title has_text_move_anim" data-delay=".7">A Web &
+              <span>Graphic</span>
+              Designer
+            </h2>
+          </div>
+          <div class="cf_btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
+            <a href="{{ route('portfolio') }}" class="btn-hover-mask" data-text="View My Works">View My Works</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
+        <div class="pdesigner-hero__right">
+          <div class="pdesigner-hero__text">
+            <div class="cf-image has_fade_anim " data-on-scroll="0" data-delay="1.2">
+              <img src="{{ asset('assets/imgs/shape/9.png') }}" alt="Decorative Shape Image" class="mb-30">
+            </div>
+            <div class="cf-text has_fade_anim" data-delay="1.2">
+              <p>A Freelance Web & Graphic Designer <span>based in Kerala, India</span>. I strive to build
+                immersive and beautiful websites through carefully crafted user-centric design.</p>
+            </div>
+          </div>
+          <div class="pdesigner-hero__experience has_fade_anim" data-on-scroll="0" data-delay="2">
+            <div class="pdesigner-hero__social-wrapper">
+              <h3 class="follow-me">Follow Me</h3>
+              <ul class="pdesigner-hero__social">
+                <li><a href="https://www.linkedin.com/in/salmanmp/"><i class="fa-brands fa-linkedin"></i><span class="sr-only">LinkedIn</span></a></li>
+                <li><a href="https://www.instagram.com/salman_kavanur/"><i class="fa-brands fa-instagram"></i><span class="sr-only">Instagram</span></a></li>
+                <li><a href="https://www.behance.net/salmanmp"><i class="fa-brands fa-behance"></i><span class="sr-only">Behance</span></a></li>
+                <li><a href="https://github.com/salmankavanur/"><i class="fa-brands fa-github"></i><span class="sr-only">GitHub</span></a></li>
+              </ul>
+            </div>
+            <div class="work-process">
+              <a href="https://www.youtube.com/watch?v=KZrCw3ZXByo" class="image-link video-popup">
+                <i class="fa-solid fa-play"></i><span class="sr-only">Watch work process</span>
+              </a>
+              <span>work <br> Process</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cf_image has_fade_anim hero-shape" data-on-scroll="0" data-delay="2.5" data-fade-from="right" data-fade-offset="100">
+      <img src="{{ asset('assets/imgs/shape/8.png') }}" alt="Decorative Shape Image">
+    </div>
+    <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80" data-duration="3">
+      <img src="{{ asset('assets/imgs/hero/2_3.png') }}" alt="Salman - Hero image">
+    </div>
+  </div>
 </section>
 <!-- Hero section end -->
 
-
-
-          <!-- About section start -->
-          <section class="pdesigner-about__top">
-            <div class="container g-0 line">
-              <div class="line-col-3">
-                <div></div>
-                <div></div>
-                <div></div>
-              </div>
-              <div class="row g-0">
-                <div class="col-xxl-12">
-                  <div class="pdesigner-about__top-content">
-                    <div class="pb-30">
-                      <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in
-                        Kerala, India
-                      </h2>
-                    </div>
-
-                    <div class="pdesigner-counter__grid">
-                      <div class="pdesigner-counter__item has_fade_anim" data-fade-from="right">
-                        <div class="counter__item">
-                          <div class="number">
-                            <h3 class="count wc-counter">5K+</h3>
-                          </div>
-                          <div class="text">
-                            <p>project <br>completed</p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="pdesigner-counter__item has_fade_anim" data-delay=".7" data-fade-from="right">
-                        <div class="counter__item">
-                          <div class="number">
-                            <h3 class="count wc-counter">7+</h3>
-                          </div>
-                          <div class="text">
-                            <p>Years of <br> experience</p>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="pdesigner-counter__item has_fade_anim" data-delay="0.9" data-fade-from="right">
-                        <div class="counter__item">
-                          <div class="number">
-                            <h3 class="count wc-counter">12+</h3>
-                          </div>
-                          <div class="text">
-                            <p>Skills <br> Achieved</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-                      <a href="{{ asset('assets/downloads/salman-cv.pdf') }}" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
-                    </div>
-
-                  </div>
+<!-- About section start -->
+<section class="pdesigner-about__top">
+  <div class="container g-0 line">
+    <div class="line-col-3">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <div class="row g-0">
+      <div class="col-xxl-12">
+        <div class="pdesigner-about__top-content">
+          <div class="pb-30">
+            <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in
+              Kerala, India
+            </h2>
+          </div>
+          <div class="pdesigner-counter__grid">
+            <div class="pdesigner-counter__item has_fade_anim" data-fade-from="right">
+              <div class="counter__item">
+                <div class="number">
+                  <h3 class="count wc-counter">5K+</h3>
+                </div>
+                <div class="text">
+                  <p>project <br>completed</p>
                 </div>
               </div>
             </div>
-            
-            <div class="pdesigner-about__img cf_image">
-  <img src="{{ asset('assets/imgs/about/personal-photo-about.png') }}" alt="Author Image">
-</div>
+            <div class="pdesigner-counter__item has_fade_anim" data-delay=".7" data-fade-from="right">
+              <div class="counter__item">
+                <div class="number">
+                  <h3 class="count wc-counter">7+</h3>
+                </div>
+                <div class="text">
+                  <p>Years of <br> experience</p>
+                </div>
+              </div>
+            </div>
+            <div class="pdesigner-counter__item has_fade_anim" data-delay="0.9" data-fade-from="right">
+              <div class="counter__item">
+                <div class="number">
+                  <h3 class="count wc-counter">12+</h3>
+                </div>
+                <div class="text">
+                  <p>Skills <br> Achieved</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
+            <a href="{{ asset('assets/downloads/salman-cv.pdf') }}" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="pdesigner-about__img cf_image">
+    <img src="{{ asset('assets/imgs/about/personal-photo-about.png') }}" alt="Author Image">
+  </div>
+</section>
+<!-- About section end -->
 
-          </section>
-          <!-- About section end -->
 
 
           <!-- Resume section start -->
