@@ -532,13 +532,13 @@
                               <h3 class="progress__label" data-width="90">Photography</h3>
                             </div>
                               
-                            <div class="progress__item">
+                            <div class="progress__item"> <div class="progress__item">
                               <h3 class="progress__label" data-width="90">Videography</h3>
                             </div>
                               
                             <div class="progress__item"> 
 
-                             <div class="progress__item">
+                             
                               <h3 class="progress__label" data-width="90">Editing and Color Grading</h3>
                             </div>
                                 
@@ -605,7 +605,7 @@
             </div>
           </section>
           <!-- About section end -->
-
+       
 
           <!-- Portfolio section end -->
           <section class="pdesigner-portfolio__area" id="work">
