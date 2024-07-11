@@ -241,7 +241,7 @@
             </h2>
           </div>
           <div class="cf_btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-            <a href="#" class="btn-hover-mask" data-text="View My Works">View My Works</a>
+            <a href="https://www.behance.net/salmanmp" class="btn-hover-mask" data-text="View My Works">View My Works</a>
           </div>
         </div>
       </div>
