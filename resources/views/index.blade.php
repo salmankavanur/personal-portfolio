@@ -2,36 +2,33 @@
 <html lang="en">
 
 <head>
-  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Salman MP is an experienced Web and Graphic Designer, SEO Specialist, and Digital Marketing Expert based in Kerala, India. Offering web design, web development, app development, and digital marketing services in Malappuram, including Manjeri.">
-  
+    <meta name="description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
     <title>Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram</title>
 
-  
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
-    <meta property="og:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+    <meta property="og:title" content="Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram">
+    <meta property="og:description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
     <meta property="og:image" content="https://salmanmp.me/assets/imgs/hero/salman_mp.jpg">
     <meta property="og:url" content="https://salmanmp.me">
     <meta property="og:type" content="website">
-  
+
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Salman MP - Experienced and Passionate Web and Graphic Designer">
-    <meta name="twitter:description" content="Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.">
+    <meta name="twitter:title" content="Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram">
+    <meta name="twitter:description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
     <meta name="twitter:image" content="https://salmanmp.me/assets/imgs/hero/salman_mp.jpg">
-  
+
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "Salman MP",
-      "jobTitle": "Web and Graphic Designer",
-      "description": "Experienced and passionate Web and Graphic Designer based in Kerala, India with over 7 years of expertise in web and graphic design, videography, video editing, photography, and more.",
+      "jobTitle": "Web & Graphic Designer, SEO Specialist",
+      "description": "Experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Offering expert services in web design, development, and digital marketing in Malappuram and Manjeri.",
       "url": "https://salmanmp.me",
       "sameAs": [
         "https://www.instagram.com/salman_kavanur",
@@ -48,9 +45,9 @@
       }
     }
     </script>
-  
+
     <!-- Fav Icon -->
-    <link rel="icon" type="image/x-icon" href="https://salmanmp.me/assets/imgs/logo/site-logo-light.svg">  
+    <link rel="icon" type="image/x-icon" href="https://salmanmp.me/assets/imgs/logo/site-logo-light.svg">
 
   <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
     
