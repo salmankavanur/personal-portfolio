@@ -1,3 +1,4 @@
+Copy code
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,24 +26,121 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Salman MP",
-      "jobTitle": "Web & Graphic Designer, SEO Specialist",
-      "description": "Experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Offering expert services in web design, development, and digital marketing in Malappuram and Manjeri.",
-      "url": "https://salmanmp.me",
-      "sameAs": [
-        "https://www.instagram.com/salman_kavanur",
-        "https://www.facebook.com/salmankavanoor",
-        "https://twitter.com/salmankavanur",
-        "https://www.linkedin.com/in/salmanmp"
-      ],
-      "image": "https://salmanmp.me/assets/imgs/hero/salman_mp.jpg",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Malappuram",
-        "addressRegion": "Kerala",
-        "addressCountry": "India"
-      }
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://salmanmp.me/#website",
+          "url": "https://salmanmp.me/",
+          "name": "Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram",
+          "description": "Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.",
+          "publisher": {
+            "@id": "https://salmanmp.me/#organization"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://salmanmp.me/?s={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          },
+          "inLanguage": "en"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://salmanmp.me/#webpage",
+          "url": "https://salmanmp.me/",
+          "name": "Home Page",
+          "isPartOf": {
+            "@id": "https://salmanmp.me/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://salmanmp.me/#primaryimage"
+          },
+          "image": {
+            "@id": "https://salmanmp.me/#primaryimage"
+          },
+          "thumbnailUrl": "https://salmanmp.me/assets/imgs/hero/salman_mp.jpg",
+          "datePublished": "2024-07-14T09:24:21+00:00",
+          "dateModified": "2024-07-14T09:24:21+00:00",
+          "description": "Home Page of Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram",
+          "breadcrumb": {
+            "@id": "https://salmanmp.me/#breadcrumb"
+          },
+          "inLanguage": "en",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://salmanmp.me/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en",
+          "@id": "https://salmanmp.me/#primaryimage",
+          "url": "https://salmanmp.me/assets/imgs/hero/salman_mp.jpg",
+          "contentUrl": "https://salmanmp.me/assets/imgs/hero/salman_mp.jpg",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://salmanmp.me/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://salmanmp.me/"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://salmanmp.me/#person",
+          "name": "Salman MP",
+          "jobTitle": "Web & Graphic Designer, SEO Specialist",
+          "description": "Experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Offering expert services in web design, development, and digital marketing in Malappuram and Manjeri.",
+          "url": "https://salmanmp.me",
+          "sameAs": [
+            "https://www.instagram.com/salman_kavanur",
+            "https://www.facebook.com/salmankavanoor",
+            "https://twitter.com/salmankavanur",
+            "https://www.linkedin.com/in/salmanmp"
+          ],
+          "image": {
+            "@id": "https://salmanmp.me/#primaryimage"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malappuram",
+            "addressRegion": "Kerala",
+            "addressCountry": "India"
+          },
+          "knowsLanguage": "en"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://salmanmp.me/#organization",
+          "name": "Salman MP",
+          "url": "https://salmanmp.me/",
+          "logo": {
+            "@id": "https://salmanmp.me/#logo"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en",
+          "@id": "https://salmanmp.me/#logo",
+          "url": "https://salmanmp.me/assets/imgs/logo/site-logo-light.svg",
+          "contentUrl": "https://salmanmp.me/assets/imgs/logo/site-logo-light.svg",
+          "width": 600,
+          "height": 60
+        }
+      ]
     }
     </script>
 
