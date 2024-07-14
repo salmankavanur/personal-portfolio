@@ -7,7 +7,7 @@ Copy code
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
-    <title>Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram</title>
+    <title>Salman MP - Web Designer & Developer, SEO Specialist in Malappuram</title>
 
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram">
