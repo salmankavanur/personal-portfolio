@@ -440,7 +440,7 @@
             </div>
             
             <div class="pdesigner-about__img cf_image">
-  <img src="{{ asset('assets/imgs/about/personal-photo-about.png') }}" alt="Salman MP - Freelance Web Designer in Malappuram">
+  <img src="{{ asset('assets/imgs/about/personal-photo-about.webp') }}" alt="Salman MP - Freelance Web Designer in Malappuram">
 </div>
 
           </section>
@@ -508,7 +508,7 @@
                             </div>
                             <div class="developer-about__img">
   <div class="cf_image has_fade_anim">
-    <img src="{{ asset('assets/imgs/about/1_1.png') }}" alt="About Salman MP - SEO Specialist in Malappuram" class="about-me">
+    <img src="{{ asset('assets/imgs/about/1_1.webp') }}" alt="About Salman MP - SEO Specialist in Malappuram" class="about-me">
   </div>
   <div class="cf_image has_fade_anim">
     <img src="{{ asset('assets/imgs/shape/3.png') }}" alt="Shape Image" class="about-shape-1">
