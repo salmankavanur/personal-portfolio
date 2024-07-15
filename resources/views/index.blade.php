@@ -8,6 +8,8 @@
     <meta name="description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
     <title>Salman MP - Web Designer & Developer, SEO Specialist in Malappuram</title>
 
+    <link rel="canonical" href="{{ url()->current() }}" />
+
     <!-- Microsoft Clarity Tag -->
     <script type="text/javascript">
       (function(c,l,a,r,i,t,y){
@@ -170,21 +172,23 @@
     }
     </script>
 
+    
+
     <!-- Fav Icon -->
     <link rel="icon" type="image/x-icon" href="https://salmanmp.me/assets/imgs/hero/favicon.png">
 
   <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
     
   <!-- All CSS files -->
-  <link rel="stylesheet" href="{{ asset('assets/css/additional-styles.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/progressbar.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.min.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
-  <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}">
-  <link rel="stylesheet" href="{{ asset('style.css') }}">
+  <link rel="stylesheet" href="{{ asset('assets/css/additional-styles.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/progressbar.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.min.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}" defer>
+  <link rel="stylesheet" href="{{ asset('style.css') }}" defer>
 
 </head>
 
