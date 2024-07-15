@@ -374,7 +374,7 @@
       <img src="{{ asset('assets/imgs/shape/8.png') }}" alt="Decorative Shape Image">
     </div>
     <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80" data-duration="3">
-      <img src="{{ asset('assets/imgs/hero/2_3.png') }}" alt="Salman - Hero image">
+      <img src="{{ asset('assets/imgs/hero/2_3.png') }}" alt="Salman MP - Best Digital Marketer in Malappuram">
     </div>
   </div>
 </section>
@@ -508,7 +508,7 @@
                             </div>
                             <div class="developer-about__img">
   <div class="cf_image has_fade_anim">
-    <img src="{{ asset('assets/imgs/about/1_1.png') }}" alt="About Me" class="about-me">
+    <img src="{{ asset('assets/imgs/about/1_1.png') }}" alt="About Salman MP - SEO Specialist in Malappuram" class="about-me">
   </div>
   <div class="cf_image has_fade_anim">
     <img src="{{ asset('assets/imgs/shape/3.png') }}" alt="Shape Image" class="about-shape-1">
@@ -756,7 +756,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item large mix web-design">
                         <a href="#">
-                          <img src="{{ asset('assets/imgs/portfolio/web-design.jpg') }}" alt="Portfolio Thumbnail">
+                          <img src="{{ asset('assets/imgs/portfolio/web-design.jpg') }}" alt="Web Designer & Developer in Malappuram">
 
                         </a>
                         <div class="pdesigner-portfolio__content">
@@ -770,7 +770,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix print">
                         <a href="#">
-                        <img src="{{ asset('assets/imgs/portfolio/5-arabic-book.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/5-arabic-book.jpg') }}" alt="Arabic Book Design">
 
                         </a>
                         <div class="pdesigner-portfolio__content">
@@ -784,7 +784,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix print">
                         <a href="#">
-                        <img src="{{ asset('assets/imgs/portfolio/6-brochure-design.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/6-brochure-design.jpg') }}" alt="Brochure Design in Kerala">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -797,7 +797,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix flyer">
                         <a href="">
-                        <img src="{{ asset('assets/imgs/portfolio/7-election-campaign.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/7-election-campaign.jpg') }}" alt="Campaign Designer in Malappuram">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -810,7 +810,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item large mix web-design">
                         <a href="">
-                        <img src="{{ asset('assets/imgs/portfolio/8-web-design.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/8-web-design.jpg') }}" alt="Web Designer in Malappuram">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
@@ -823,7 +823,7 @@
                       </div>
                       <div class="pdesigner-portfolio__item mix graphic">
                         <a href="">
-                        <img src="{{ asset('assets/imgs/portfolio/9-educational-flyer.jpg') }}" alt="Portfolio Thumbnail">
+                        <img src="{{ asset('assets/imgs/portfolio/9-educational-flyer.jpg') }}" alt="Flyer Designer in Malappuram">
                         </a>
                         <div class="pdesigner-portfolio__content">
                           <ul>
