@@ -440,7 +440,7 @@
             </div>
             
             <div class="pdesigner-about__img cf_image">
-  <img src="{{ asset('assets/imgs/about/personal-photo v4.png') }}" alt="Author Image">
+  <img src="{{ asset('assets/imgs/about/personal-photo-about.png') }}" alt="Salman MP - Freelance Web Designer in Malappuram">
 </div>
 
           </section>
