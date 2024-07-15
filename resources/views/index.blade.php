@@ -1,6 +1,5 @@
-Copy code
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
@@ -381,66 +380,71 @@ Copy code
 </section>
 <!-- Hero section end -->
 
-<!-- About section start -->
-<section class="pdesigner-about__top">
-  <div class="container g-0 line">
-    <div class="line-col-3">
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-    <div class="row g-0">
-      <div class="col-xxl-12">
-        <div class="pdesigner-about__top-content">
-          <div class="pb-30">
-            <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in
-              Kerala, India
-            </h2>
-          </div>
-          <div class="pdesigner-counter__grid">
-            <div class="pdesigner-counter__item has_fade_anim" data-fade-from="right">
-              <div class="counter__item">
-                <div class="number">
-                  <h3 class="count wc-counter">500+</h3>
-                </div>
-                <div class="text">
-                  <p>project <br>completed</p>
+          <!-- About section start -->
+          <section class="pdesigner-about__top">
+            <div class="container g-0 line">
+              <div class="line-col-3">
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <div class="row g-0">
+                <div class="col-xxl-12">
+                  <div class="pdesigner-about__top-content">
+                    <div class="pb-30">
+                      <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in
+                        Kerala, India
+                      </h2>
+                    </div>
+
+                    <div class="pdesigner-counter__grid">
+                      <div class="pdesigner-counter__item has_fade_anim" data-fade-from="right">
+                        <div class="counter__item">
+                          <div class="number">
+                            <h3 class="count wc-counter">5K+</h3>
+                          </div>
+                          <div class="text">
+                            <p>project <br>completed</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="pdesigner-counter__item has_fade_anim" data-delay=".7" data-fade-from="right">
+                        <div class="counter__item">
+                          <div class="number">
+                            <h3 class="count wc-counter">7+</h3>
+                          </div>
+                          <div class="text">
+                            <p>Years of <br> experience</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="pdesigner-counter__item has_fade_anim" data-delay="0.9" data-fade-from="right">
+                        <div class="counter__item">
+                          <div class="number">
+                            <h3 class="count wc-counter">12+</h3>
+                          </div>
+                          <div class="text">
+                            <p>Skills <br> Achieved</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
+                      <a href="{{ asset('assets/downloads/salman-cv.pdf') }}" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="pdesigner-counter__item has_fade_anim" data-delay=".7" data-fade-from="right">
-              <div class="counter__item">
-                <div class="number">
-                  <h3 class="count wc-counter">7+</h3>
-                </div>
-                <div class="text">
-                  <p>Years of <br> experience</p>
-                </div>
-              </div>
-            </div>
-            <div class="pdesigner-counter__item has_fade_anim" data-delay="0.9" data-fade-from="right">
-              <div class="counter__item">
-                <div class="number">
-                  <h3 class="count wc-counter">12+</h3>
-                </div>
-                <div class="text">
-                  <p>Skills <br> Achieved</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-            <a href="{{ asset('assets/downloads/salman-cv.pdf') }}" class="btn-hover-mask">Download CV <i class="fa-solid fa-arrow-right"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="pdesigner-about__img cf_image">
-    <img src="{{ asset('assets/imgs/about/personal-photo-about.png') }}" alt="Author Image">
-  </div>
-</section>
-<!-- About section end -->
+            
+            <div class="pdesigner-about__img cf_image">
+  <img src="{{ asset('assets/imgs/about/personal-photo v4.png') }}" alt="Author Image">
+</div>
+
+          </section>
+          <!-- About section end -->
 
 
 
