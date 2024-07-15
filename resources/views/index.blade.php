@@ -569,6 +569,23 @@
                                 Talented Graphic Designer in Malappuram
                               </p>
 
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Freelance Web Designer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Web Designer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Freelance Web Developer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Web Developer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Freelance Graphic Designer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Graphic Designer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Koha Developer in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Koha in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Library Management in Malappuram </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Library Management in Kerala </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Digital Library in Kerala </a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Digital Library in Malappuram</a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Full Stack Developer in Malappuram</a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > Digital Marketer in Malappuram</a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > SEO Expert in Malappuram</a>
+                              <a href="https://salmanmp.me/" class="visually-hidden" > SEO Specialist in Malappuram</a>
+
                                  <!-- SEO Section End -->
 
 
