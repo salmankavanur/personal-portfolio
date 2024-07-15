@@ -531,28 +531,28 @@
                               <!-- SEO Section Start -->
 
                               <h1 class="visually-hidden"> Freelance Web Designer in Malappuram </h1>
-                              <h1 class="visually-hidden"> Freelance Web Designer in Kerala </h1>
-                              <h1 class="visually-hidden"> Freelance Web Designer in Perinthalmanna </h1>
-                              <h1 class="visually-hidden"> Freelance Web Designer in Manjeri </h1>
-                              <h1 class="visually-hidden"> Freelance Web Designer in India </h1>
+                              <h2 class="visually-hidden"> Freelance Web Designer in Kerala </h1>
+                              <h3 class="visually-hidden"> Freelance Web Designer in Perinthalmanna </h1>
+                              <h4 class="visually-hidden"> Freelance Web Designer in Manjeri </h1>
+                              <h5 class="visually-hidden"> Freelance Web Designer in India </h1>
                               <p class="visually-hidden">I am an expert and qualified web designer in Malappuram with having hugely experienced in creating interactive websites.
                                  For many years  I have developed the best and world-class websites for various leading software and e-commerce companies all over India.
                                  Not only my web-based designs are extraordinary but they are quite fully responsive too.</p>
 
                                  <h1 class="visually-hidden"> Freelance Digital Marketer in Malappuram </h1>
                               <h1 class="visually-hidden"> Freelance Digital Marketer in Kerala </h1>
-                              <h1 class="visually-hidden"> Freelance Digital Marketer in Perinthalmanna </h1>
-                              <h1 class="visually-hidden"> Freelance Digital Marketer in Manjeri </h1>
-                              <h1 class="visually-hidden"> Freelance Digital Marketer in India </h1>
+                              <h2 class="visually-hidden"> Freelance Digital Marketer in Perinthalmanna </h1>
+                              <h3 class="visually-hidden"> Freelance Digital Marketer in Manjeri </h1>
+                              <h4 class="visually-hidden"> Freelance Digital Marketer in India </h1>
                               <p class="visually-hidden">I am an expert and qualified digital marketer in Malappuram.
                                  Experienced Digital Marketer in Malappuram, Talented Digital Marketer in Malappuram, 
                                 Talented Digital Marketer in Malappuram
                               </p>
 
                               <h1 class="visually-hidden"> Freelance SEO Expert in Malappuram </h1>
-                              <h1 class="visually-hidden"> Freelance SEO Expert in Kerala </h1>
-                              <h1 class="visually-hidden"> Freelance SEO Expert in Perinthalmanna </h1>
-                              <h1 class="visually-hidden"> Freelance SEO Expert in Manjeri </h1>
+                              <h2 class="visually-hidden"> Freelance SEO Expert in Kerala </h1>
+                              <h3 class="visually-hidden"> Freelance SEO Expert in Perinthalmanna </h1>
+                              <h4 class="visually-hidden"> Freelance SEO Expert in Manjeri </h1>
                               <h1 class="visually-hidden"> Freelance SEO Expert in India </h1>
                               <p class="visually-hidden">I am an expert and qualified SEO Specialist in Malappuram.
                                  Experienced SEO Specialist in Malappuram, Talented SEO Specialist in Malappuram, 
@@ -560,10 +560,10 @@
                               </p>
 
                               <h1 class="visually-hidden"> Freelance Graphic Designer in Malappuram </h1>
-                              <h1 class="visually-hidden"> Freelance Graphic Designer in Kerala </h1>
-                              <h1 class="visually-hidden"> Freelance Graphic Designer in Perinthalmanna </h1>
-                              <h1 class="visually-hidden"> Freelance Graphic Designer in Manjeri </h1>
-                              <h1 class="visually-hidden"> Freelance Graphic Designer in India </h1>
+                              <h2 class="visually-hidden"> Freelance Graphic Designer in Kerala </h1>
+                              <h3 class="visually-hidden"> Freelance Graphic Designer in Perinthalmanna </h1>
+                              <h4 class="visually-hidden"> Freelance Graphic Designer in Manjeri </h1>
+                              <h5 class="visually-hidden"> Freelance Graphic Designer in India </h1>
                               <p class="visually-hidden">I am an expert and qualified Graphic Designer in Malappuram.
                                  Experienced Graphic Designer in Malappuram, Talented Graphic Designer in Malappuram, 
                                 Talented Graphic Designer in Malappuram
