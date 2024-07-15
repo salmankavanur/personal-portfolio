@@ -401,7 +401,7 @@
                       <div class="pdesigner-counter__item has_fade_anim" data-fade-from="right">
                         <div class="counter__item">
                           <div class="number">
-                            <h3 class="count wc-counter">5K+</h3>
+                            <h3 class="count wc-counter">300+</h3>
                           </div>
                           <div class="text">
                             <p>project <br>completed</p>
