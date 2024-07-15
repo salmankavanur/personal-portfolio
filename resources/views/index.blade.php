@@ -374,7 +374,7 @@
       <img src="{{ asset('assets/imgs/shape/8.png') }}" alt="Decorative Shape Image">
     </div>
     <div class="cf_image has_fade_anim hero-img" data-on-scroll="0" data-delay=".7" data-fade-offset="80" data-duration="3">
-      <img src="{{ asset('assets/imgs/hero/2_3.png') }}" alt="Salman MP - Best Digital Marketer in Malappuram">
+      <img src="{{ asset('assets/imgs/hero/2_3.webp') }}" alt="Salman MP - Freelance Web Designer in Malappuram">
     </div>
   </div>
 </section>
