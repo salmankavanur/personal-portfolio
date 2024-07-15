@@ -149,6 +149,7 @@
   <style> @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap'); </style>
     
   <!-- All CSS files -->
+  <link rel="stylesheet" href="{{ asset('assets/css/additional-styles.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
   <link rel="stylesheet" href="{{ asset('assets/css/swiper-bundle.min.css') }}">
@@ -1127,7 +1128,7 @@
 
 
 
-         <!-- Blog section start -->
+<!-- Blog section start -->
 <section class="pdesigner-blog__area" id="blog">
   <div class="container g-0 line pb-130">
       <div class="line-col-3">
@@ -1162,7 +1163,7 @@
                                   <h4 class="pdesigner-blog__title">10 VITAL COMPONENTS OF AN IDEAL COMPANY PROFILE DESIGN</h4>
                               </a>
                               <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/" class="pdesigner-blog__link" aria-label="Read more about 10 Vital Components of an Ideal Company Profile Design">
-                                  Read More <span><i class="fa-solid fa-arrow-right"></i></span>
+                                  <span class="visually-hidden">Read more about 10 Vital Components of an Ideal Company Profile Design</span> Read More <span><i class="fa-solid fa-arrow-right"></i></span>
                               </a>
                           </div>
                       </div>
@@ -1186,7 +1187,7 @@
                                   <h4 class="pdesigner-blog__title">8 Google SEO Tips for Page One Results</h4>
                               </a>
                               <a href="https://alifsolutions.in/8-google-seo-tips/" class="pdesigner-blog__link" aria-label="Read more about 8 Google SEO Tips for Page One Results">
-                                  Read More <span><i class="fa-solid fa-arrow-right"></i></span>
+                                  <span class="visually-hidden">Read more about 8 Google SEO Tips for Page One Results</span> Read More <span><i class="fa-solid fa-arrow-right"></i></span>
                               </a>
                           </div>
                       </div>
@@ -1210,7 +1211,7 @@
                                   <h4 class="pdesigner-blog__title">What Exactly is Digital Marketing?</h4>
                               </a>
                               <a href="https://alifsolutions.in/what-is-digital-marketing/" class="pdesigner-blog__link" aria-label="Read more about What Exactly is Digital Marketing?">
-                                  Read More <span><i class="fa-solid fa-arrow-right"></i></span>
+                                  <span class="visually-hidden">Read more about What Exactly is Digital Marketing?</span> Read More <span><i class="fa-solid fa-arrow-right"></i></span>
                               </a>
                           </div>
                       </div>
@@ -1221,6 +1222,7 @@
   </div>
 </section>
 <!-- Blog section end -->
+
 
 
 
