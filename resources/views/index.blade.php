@@ -1127,94 +1127,101 @@
 
 
 
-          <!-- Blog section start -->
-          <section class="pdesigner-blog__area" id="blog">
-            <div class="container g-0 line pb-130">
-              <div class="line-col-3">
-                <div></div>
-                <div></div>
-                <div></div>
-              </div>
-              <div class="row">
-                <div class="col-xxl-12">
-                  <div class="sec-title-wrapper">
-                    <div class="pb-20">
+         <!-- Blog section start -->
+<section class="pdesigner-blog__area" id="blog">
+  <div class="container g-0 line pb-130">
+      <div class="line-col-3">
+          <div></div>
+          <div></div>
+          <div></div>
+      </div>
+      <div class="row">
+          <div class="col-xxl-12">
+              <div class="sec-title-wrapper">
+                  <div class="pb-20">
                       <h2 class="sec-sub-title has_char_anim">Blog</h2>
-                    </div>
-                    <h3 class="sec-title has_text_reveal_anim">Recent Blog</h3>
                   </div>
-                </div>
+                  <h3 class="sec-title has_text_reveal_anim">Recent Blog</h3>
               </div>
-              <div class="row">
-                <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
-                  <article class="has_fade_anim" data-fade-from="left">
-                    <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="#"><img src="{{ asset('assets/imgs/blog/4-company-profile.jpg') }}" alt="Blog Thumbnail">
-</a>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
+              <article class="has_fade_anim" data-fade-from="left">
+                  <div class="pdesigner-blog__item pdesigner__blog-hover">
+                      <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/">
+                          <img src="{{ asset('assets/imgs/blog/4-company-profile.jpg') }}" alt="10 Vital Components of an Ideal Company Profile Design">
+                      </a>
                       <div class="pdesigner-blog__content">
-                        <div>
-                          <ul class="pdesigner-blog__meta">
-                            <li><a href="#">Branding</a></li>
-                            <li><a href="#">22 Feb 2022</a></li>
-                          </ul>
-                          <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/">
-                            <h4 class="pdesigner-blog__title">10 VITAL COMPONENTS OF AN IDEAL COMPANY PROFILE DESIGN</h4>
-                          </a>
-                          <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/" class="pdesigner-blog__link">Read More <span><i
-                                class="fa-solid fa-arrow-right"></i></span></a>
-                        </div>
+                          <div>
+                              <ul class="pdesigner-blog__meta">
+                                  <li><a href="#">Branding</a></li>
+                                  <li><a href="#">22 Feb 2022</a></li>
+                              </ul>
+                              <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/">
+                                  <h4 class="pdesigner-blog__title">10 VITAL COMPONENTS OF AN IDEAL COMPANY PROFILE DESIGN</h4>
+                              </a>
+                              <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/" class="pdesigner-blog__link" aria-label="Read more about 10 Vital Components of an Ideal Company Profile Design">
+                                  Read More <span><i class="fa-solid fa-arrow-right"></i></span>
+                              </a>
+                          </div>
                       </div>
-                    </div>
-                  </article>
-                </div>
+                  </div>
+              </article>
+          </div>
 
-                <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
-                  <article class="has_fade_anim" data-fade-from="left" data-delay="0.8">
-                    <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="#"><img src="{{ asset('assets/imgs/blog/8-SEO-Tips.jpg') }}" alt="Blog Thumbnail">
-</a>
+          <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
+              <article class="has_fade_anim" data-fade-from="left" data-delay="0.8">
+                  <div class="pdesigner-blog__item pdesigner__blog-hover">
+                      <a href="https://alifsolutions.in/8-google-seo-tips/">
+                          <img src="{{ asset('assets/imgs/blog/8-SEO-Tips.jpg') }}" alt="8 Google SEO Tips for Page One Results">
+                      </a>
                       <div class="pdesigner-blog__content">
-                        <div>
-                          <ul class="pdesigner-blog__meta">
-                            <li><a href="#">SEO</a></li>
-                            <li><a href="#">15 Feb 2022</a></li>
-                          </ul>
-                          <a href="https://alifsolutions.in/8-google-seo-tips/">
-                            <h4 class="pdesigner-blog__title">8 Google SEO Tips for Page One Results</h4>
-                          </a>
-                          <a href="https://alifsolutions.in/8-google-seo-tips/" class="pdesigner-blog__link">Read More <span><i
-                                class="fa-solid fa-arrow-right"></i></span></a>
-                        </div>
+                          <div>
+                              <ul class="pdesigner-blog__meta">
+                                  <li><a href="#">SEO</a></li>
+                                  <li><a href="#">15 Feb 2022</a></li>
+                              </ul>
+                              <a href="https://alifsolutions.in/8-google-seo-tips/">
+                                  <h4 class="pdesigner-blog__title">8 Google SEO Tips for Page One Results</h4>
+                              </a>
+                              <a href="https://alifsolutions.in/8-google-seo-tips/" class="pdesigner-blog__link" aria-label="Read more about 8 Google SEO Tips for Page One Results">
+                                  Read More <span><i class="fa-solid fa-arrow-right"></i></span>
+                              </a>
+                          </div>
                       </div>
-                    </div>
-                  </article>
-                </div>
+                  </div>
+              </article>
+          </div>
 
-                <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
-                  <article class="has_fade_anim" data-fade-from="left" data-delay="1.1">
-                    <div class="pdesigner-blog__item pdesigner__blog-hover">
-                      <a href="#"><img src="{{ asset('assets/imgs/blog/9-digital-marketing.jpg') }}" alt="Blog Thumbnail">
-</a>
+          <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
+              <article class="has_fade_anim" data-fade-from="left" data-delay="1.1">
+                  <div class="pdesigner-blog__item pdesigner__blog-hover">
+                      <a href="https://alifsolutions.in/what-is-digital-marketing/">
+                          <img src="{{ asset('assets/imgs/blog/9-digital-marketing.jpg') }}" alt="What Exactly is Digital Marketing?">
+                      </a>
                       <div class="pdesigner-blog__content">
-                        <div>
-                          <ul class="pdesigner-blog__meta">
-                            <li><a href="#">Digital Marketing</a></li>
-                            <li><a href="#">02 October 2020</a></li>
-                          </ul>
-                          <a href="https://alifsolutions.in/what-is-digital-marketing/">
-                            <h4 class="pdesigner-blog__title">What exactly is digital marketing?</h4>
-                          </a>
-                          <a href="https://alifsolutions.in/what-is-digital-marketing/" class="pdesigner-blog__link">Read More <span><i
-                                class="fa-solid fa-arrow-right"></i></span></a>
-                        </div>
+                          <div>
+                              <ul class="pdesigner-blog__meta">
+                                  <li><a href="#">Digital Marketing</a></li>
+                                  <li><a href="#">02 October 2020</a></li>
+                              </ul>
+                              <a href="https://alifsolutions.in/what-is-digital-marketing/">
+                                  <h4 class="pdesigner-blog__title">What Exactly is Digital Marketing?</h4>
+                              </a>
+                              <a href="https://alifsolutions.in/what-is-digital-marketing/" class="pdesigner-blog__link" aria-label="Read more about What Exactly is Digital Marketing?">
+                                  Read More <span><i class="fa-solid fa-arrow-right"></i></span>
+                              </a>
+                          </div>
                       </div>
-                    </div>
-                  </article>
-                </div>
-              </div>
-            </div>
-          </section>
-          <!-- Blog section end -->
+                  </div>
+              </article>
+          </div>
+      </div>
+  </div>
+</section>
+<!-- Blog section end -->
+
 
 
           <!-- Contact section start -->
