@@ -8,6 +8,14 @@
     <meta name="description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
     <title>Salman MP - Web Designer & Developer, SEO Specialist in Malappuram</title>
 
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "n7qijx2n1w");
+  </script>
+
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Salman MP - Web & Graphic Designer, SEO Specialist in Malappuram">
     <meta property="og:description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
