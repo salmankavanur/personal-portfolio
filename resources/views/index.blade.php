@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Salman MP is an experienced Web & Graphic Designer, SEO Specialist, and Digital Marketing Expert in Kerala, India. Discover expert web design, development, and digital marketing services in Malappuram and Manjeri.">
+    <meta name="description" content="Salman MP - Expert Web & Graphic Designer, SEO Specialist, and Digital Marketer in Kerala.
+     Offering top-notch web design and digital marketing services in Malappuram.">
     <title>Salman MP - Web Designer & Developer, SEO Specialist in Malappuram</title>
 
     <link rel="canonical" href="{{ url()->current() }}" />
@@ -574,10 +575,10 @@
                                                     <div class="developer-about__area">
                                                         <div class="developer-about__content">
 
-                                                            <!-- SEO Section Start -->
+                              <!-- SEO Section Start -->
 
-                                                            <h1 class="visually-hidden"> Freelance Web Designer in Malappuram </h1>
-                                                            <h2 class="visually-hidden"> Freelance Web Designer in Kerala </h1>
+                              <h3 class="visually-hidden"> Freelance Web Designer in Malappuram </h1>
+                              <h3 class="visually-hidden"> Freelance Web Designer in Kerala </h1>
                               <h3 class="visually-hidden"> Freelance Web Designer in Perinthalmanna </h1>
                               <h4 class="visually-hidden"> Freelance Web Designer in Manjeri </h1>
                               <h5 class="visually-hidden"> Freelance Web Designer in India </h1>
@@ -586,8 +587,8 @@
                                  Not only my web-based designs are extraordinary but they are quite fully responsive too.</p>
 
                                  <h1 class="visually-hidden"> Freelance Digital Marketer in Malappuram </h1>
-                              <h1 class="visually-hidden"> Freelance Digital Marketer in Kerala </h1>
-                              <h2 class="visually-hidden"> Freelance Digital Marketer in Perinthalmanna </h1>
+                              <h3 class="visually-hidden"> Freelance Digital Marketer in Kerala </h1>
+                              <h3 class="visually-hidden"> Freelance Digital Marketer in Perinthalmanna </h1>
                               <h3 class="visually-hidden"> Freelance Digital Marketer in Manjeri </h1>
                               <h4 class="visually-hidden"> Freelance Digital Marketer in India </h1>
                               <p class="visually-hidden">I am an expert and qualified digital marketer in Malappuram.
@@ -595,8 +596,8 @@
                                 Talented Digital Marketer in Malappuram
                               </p>
 
-                              <h1 class="visually-hidden"> Freelance SEO Expert in Malappuram </h1>
-                              <h2 class="visually-hidden"> Freelance SEO Expert in Kerala </h1>
+                              <h3 class="visually-hidden"> Freelance SEO Expert in Malappuram </h1>
+                              <h3 class="visually-hidden"> Freelance SEO Expert in Kerala </h1>
                               <h3 class="visually-hidden"> Freelance SEO Expert in Perinthalmanna </h1>
                               <h4 class="visually-hidden"> Freelance SEO Expert in Manjeri </h1>
                               <h1 class="visually-hidden"> Freelance SEO Expert in India </h1>
@@ -605,9 +606,9 @@
                                 Talented SEO Specialist in Malappuram
                               </p>
 
-                              <h1 class="visually-hidden"> Freelance Graphic Designer in Malappuram </h1>
-                              <h2 class="visually-hidden"> Freelance Graphic Designer in Kerala </h1>
-                              <h3 class="visually-hidden"> Freelance Graphic Designer in Perinthalmanna </h1>
+                              <h4 class="visually-hidden"> Freelance Graphic Designer in Malappuram </h1>
+                              <h4 class="visually-hidden"> Freelance Graphic Designer in Kerala </h1>
+                              <h4 class="visually-hidden"> Freelance Graphic Designer in Perinthalmanna </h1>
                               <h4 class="visually-hidden"> Freelance Graphic Designer in Manjeri </h1>
                               <h5 class="visually-hidden"> Freelance Graphic Designer in India </h1>
                               <p class="visually-hidden">I am an expert and qualified Graphic Designer in Malappuram.
