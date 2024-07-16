@@ -586,7 +586,7 @@
                                  For many years  I have developed the best and world-class websites for various leading software and e-commerce companies all over India.
                                  Not only my web-based designs are extraordinary but they are quite fully responsive too.</p>
 
-                                 <h1 class="visually-hidden"> Freelance Digital Marketer in Malappuram </h1>
+                                 <h4 class="visually-hidden"> Freelance Digital Marketer in Malappuram </h1>
                               <h3 class="visually-hidden"> Freelance Digital Marketer in Kerala </h1>
                               <h3 class="visually-hidden"> Freelance Digital Marketer in Perinthalmanna </h1>
                               <h3 class="visually-hidden"> Freelance Digital Marketer in Manjeri </h1>
@@ -600,7 +600,7 @@
                               <h3 class="visually-hidden"> Freelance SEO Expert in Kerala </h1>
                               <h3 class="visually-hidden"> Freelance SEO Expert in Perinthalmanna </h1>
                               <h4 class="visually-hidden"> Freelance SEO Expert in Manjeri </h1>
-                              <h1 class="visually-hidden"> Freelance SEO Expert in India </h1>
+                              <h3 class="visually-hidden"> Freelance SEO Expert in India </h1>
                               <p class="visually-hidden">I am an expert and qualified SEO Specialist in Malappuram.
                                  Experienced SEO Specialist in Malappuram, Talented SEO Specialist in Malappuram, 
                                 Talented SEO Specialist in Malappuram
@@ -638,7 +638,7 @@
                             <div class="elementor-widget-wrap elementor-element-populated">
                                   <div class="elementor-element elementor-element-18109cd elementor-widget elementor-widget-heading" data-id="18109cd" data-element_type="widget" data-widget_type="heading.default">
                               <div class="elementor-widget-container">
-                            <h1 class="elementor-heading-title elementor-size-default">Expert Web Designer in Kerala &amp; Malappuram</h1>		</div>
+                            <h4 class="elementor-heading-title elementor-size-default">Expert Web Designer in Kerala &amp; Malappuram</h1>		</div>
                               </div>
                               <div class="elementor-element elementor-element-9efb5df elementor-widget elementor-widget-text-editor" data-id="9efb5df" data-element_type="widget" data-widget_type="text-editor.default">
                               <div class="elementor-widget-container">
