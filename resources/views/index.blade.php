@@ -669,12 +669,12 @@
                                                   <div class="elementor-widget-container">
                                                       <div class="elementor-accordion">
                                                           <div class="elementor-accordion-item">
-                                                              <h5 id="elementor-tab-title-2431" class="elementor-tab-title elementor-active" data-tab="1" role="button" aria-controls="elementor-tab-content-2431" aria-expanded="true" tabindex="0">
+                                                              <h5 id="elementor-tab-title-2431" class="elementor-tab-title elementor-active" data-tab="1" role="button" aria-controls="elementor-tab-content-2431" aria-expanded="true">
                                                                   <span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Web Design Services</a>
+                                                                  <a class="elementor-accordion-title">Web Design Services</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2431" class="elementor-tab-content elementor-clearfix elementor-active" data-tab="1" role="region" aria-labelledby="elementor-tab-title-2431" style="display: block;">
                                                                   <p>Web Design Services</p>
@@ -686,7 +686,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Static Website</a>
+                                                                  <a class="elementor-accordion-title">Static Website</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2432" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-2432" style="display: none;">
                                                                   <p>As a professional static website designer in Malappuram, I create stunning, meaningful, and user-friendly websites. These websites are available at affordable prices and help establish your online presence. They feature relevant content with keywords to improve your ranking on search engines like Google and Yahoo. Static websites contain fixed content and are developed with HTML, displaying the same information to all visitors.</p>
@@ -698,7 +698,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Dynamic Website</a>
+                                                                  <a class="elementor-accordion-title">Dynamic Website</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2433" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-2433" style="display: none;">
                                                                   <p>As an experienced dynamic website developer in Kerala, I provide custom, creative, and professional dynamic websites that are user-friendly and feature the latest technologies like HTML5, CSS3, and Bootstrap. My services enable easy updates and management of your site, providing a scalable and search-engine-friendly solution.</p>
@@ -710,7 +710,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Corporate Website Design</a>
+                                                                  <a class="elementor-accordion-title">Corporate Website Design</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2434" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-2434">
                                                                   <p>Professional corporate website design services in Malappuram to narrate your business structure and services effectively to your audience. My services define the project scope and expectations, ensuring satisfying and stunning corporate websites that fit your business needs.</p>
@@ -722,7 +722,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">E-Commerce Website Development</a>
+                                                                  <a class="elementor-accordion-title">E-Commerce Website Development</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2435" class="elementor-tab-content elementor-clearfix" data-tab="5" role="region" aria-labelledby="elementor-tab-title-2435">
                                                                   <p>Customized e-commerce website design services in Malappuram using tools like WooCommerce, Magento, Shopify, Opencart, and more. I create high-quality, responsive e-commerce websites that are SEO-friendly with the best payment gateway integration to ensure the highest user experience and earnings for your online store.</p>
@@ -734,7 +734,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">CMS Website</a>
+                                                                  <a class="elementor-accordion-title">CMS Website</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2436" class="elementor-tab-content elementor-clearfix" data-tab="6" role="region" aria-labelledby="elementor-tab-title-2436">
                                                                   <p>Customized content management system (CMS) services that give you control over your website’s content, pages, structure, and more. My CMS design solutions in Malappuram allow business owners to easily update their site, ensuring a powerful and user-friendly web development tool.</p>
@@ -746,7 +746,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Web Application</a>
+                                                                  <a class="elementor-accordion-title">Web Application</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2437" class="elementor-tab-content elementor-clearfix" data-tab="7" role="region" aria-labelledby="elementor-tab-title-2437">
                                                                   <p>Professional web application development services to build high-quality, scalable, and robust web applications that fulfill the specific needs of your business. My web application solutions are designed with the latest technologies to ensure a seamless user experience.</p>
@@ -758,7 +758,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Landing Page Design</a>
+                                                                  <a class="elementor-accordion-title">Landing Page Design</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2438" class="elementor-tab-content elementor-clearfix" data-tab="8" role="region" aria-labelledby="elementor-tab-title-2438">
                                                                   <p>Professional landing page design services to enhance your marketing campaigns. My landing pages are designed to capture leads, drive conversions, and provide a seamless user experience that aligns with your business goals and marketing strategies.</p>
@@ -770,7 +770,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Website Redesign</a>
+                                                                  <a class="elementor-accordion-title">Website Redesign</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2439" class="elementor-tab-content elementor-clearfix" data-tab="9" role="region" aria-labelledby="elementor-tab-title-2439">
                                                                   <p>Comprehensive website redesign services to improve the performance, user experience, and visual appeal of your current website. My redesign services focus on creating a modern and functional website that meets your business objectives and enhances your online presence.</p>
@@ -782,7 +782,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Personal Website Design</a>
+                                                                  <a class="elementor-accordion-title">Personal Website Design</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2440" class="elementor-tab-content elementor-clearfix" data-tab="10" role="region" aria-labelledby="elementor-tab-title-2440">
                                                                   <p>Customized personal website design services to create a unique and professional online presence. My services include portfolio websites, blogs, and personal branding sites that highlight your skills, experiences, and achievements effectively.</p>
@@ -794,7 +794,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Blog Website Design</a>
+                                                                  <a class="elementor-accordion-title">Blog Website Design</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2441" class="elementor-tab-content elementor-clearfix" data-tab="11" role="region" aria-labelledby="elementor-tab-title-2441">
                                                                   <p>Professional blog website design services to create engaging and user-friendly blogs. My services include custom designs, easy-to-use content management systems, and SEO-friendly structures to help you share your ideas and connect with your audience.</p>
@@ -806,7 +806,7 @@
                                                                       <span class="elementor-accordion-icon-closed"><i class="fas fa-angle-down"></i></span>
                                                                       <span class="elementor-accordion-icon-opened"><i class="fas fa-angle-up"></i></span>
                                                                   </span>
-                                                                  <a class="elementor-accordion-title" tabindex="0">Custom Web Design</a>
+                                                                  <a class="elementor-accordion-title">Custom Web Design</a>
                                                               </h5>
                                                               <div id="elementor-tab-content-2442" class="elementor-tab-content elementor-clearfix" data-tab="12" role="region" aria-labelledby="elementor-tab-title-2442">
                                                                   <p>Professional custom web design services to create unique, engaging, and user-friendly websites tailored to your specific business needs. My services include custom designs, responsive layouts, and SEO-friendly structures to help you achieve your online goals.</p>
