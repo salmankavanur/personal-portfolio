@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Salman MP - Expert Web & Graphic Designer, SEO Specialist, and Digital Marketer in Kerala.
-     Offering top-notch web design and digital marketing services in Malappuram.">
+    <meta name="description" content="Salman MP - Expert Web Designer, SEO Specialist,
+     and Digital Marketer in Kerala. Offering top-notch web design and digital marketing services in Malappuram.">
+
     <title>Salman MP - Web Designer & Developer, SEO Specialist in Malappuram</title>
 
     <link rel="canonical" href="{{ url()->current() }}" />
