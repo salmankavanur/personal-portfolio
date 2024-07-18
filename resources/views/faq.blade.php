@@ -78,6 +78,7 @@
         header h1 {
             color: #333;
             font-size: 38px;
+            padding-top: 50px; 
         }
 
         section h2 {
