@@ -49,3 +49,8 @@ Route::get('index-original', function () {
 Route::get('maintanance-mode', function () {
     return view('maintanance-mode');
 })->name('maintanance-mode');
+
+
+use App\Http\Controllers\FAQController;
+
+Route::get('/faq', [FAQController::class, 'index']);
