@@ -8,7 +8,7 @@
     <meta name="description" content="Salman MP - Expert Web Designer, SEO Specialist,
      and Digital Marketer in Kerala.Offering top-notch web design and digital marketing services in Malappuram.">
 
-    <title>Salman MP - Web Designer & Developer, SEO Specialist in Malappuram</title>
+    <title>Freelance Web Designer in Malappuram, Kerala - Salman MP </title>
 
     <link rel="canonical" href="{{ url()->current() }}" />
 
@@ -190,7 +190,7 @@
                 "startDate": "2021",
                 "organization": {
                   "@type": "Organization",
-                  "name": "Current Organization"
+                  "name": "Akode Islamic Centre"
                 }
               }
             ]
@@ -282,64 +282,6 @@
         </svg>
     </div>
 
-
-    <!-- Switcher Area Start -->
-    <div class="switcher__area">
-        <div class="switcher__icon">
-            <button id="switcher_open" aria-label="switcher-open"><i class="fa-solid fa-gear"></i></button>
-            <button id="switcher_close" aria-label="switcher-close"><i class="fa-solid fa-xmark"></i></button>
-        </div>
-
-        <div class="switcher__items">
-            <div class="switcher__item">
-                <div class="switch__title-wrap">
-                    <p class="switcher__title">mode</p>
-                </div>
-                <div class="switcher__btn mode-type wc-col-2">
-                    <button class="active" data-mode="dark" aria-label="active">dark</button>
-                    <button data-mode="light" aria-label="light">light</button>
-                </div>
-            </div>
-
-            <div class="switcher__item">
-                <div class="switch__title-wrap">
-                    <p class="switcher__title">Language Support</p>
-                </div>
-                <div class="switcher__btn lang_dir wc-col-2">
-                    <button class="active" data-mode="ltr" aria-label="ltr">LTR</button>
-                    <button data-mode="rtl" aria-label="rtl">RTL</button>
-                </div>
-            </div>
-
-            <div class="switcher__item">
-                <div class="switch__title-wrap">
-                    <p class="switcher__title">Layout</p>
-                </div>
-                <div class="switcher__btn layout-type wc-col-2">
-                    <button class="active" data-mode="full-width" aria-label="full width">Full Width</button>
-                    <button data-mode="box-layout" aria-label="box-layout">Box Layout</button>
-                </div>
-            </div>
-
-            <div class="switcher__item">
-                <div class="switch__title-wrap">
-                    <p class="switcher__title">Cursor</p>
-                </div>
-                <div class="switcher__btn">
-                    <select name="cursor-style" id="cursor_style">
-                        <option value="1">default</option>
-                        <option selected value="2">animated</option>
-                    </select>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Switcher Area End -->
-
-
-    <!-- overlay switcher close  -->
-    <div class="overlay-switcher-close"></div>
-
     <!-- Header area start -->
     <header class="header__area-2">
         <div class="header__inner-2">
@@ -413,7 +355,7 @@
                 <span>Graphic Designer</span>
                 <span>Web Developer</span>
                 <span>SEO Specialist</span>
-                <span>Digital Marketing Expert</span>
+                <span>Digital Marketer</span>
               </span>
               <span id="typed"></span>
             </h1>
