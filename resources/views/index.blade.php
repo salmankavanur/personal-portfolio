@@ -8,7 +8,7 @@
     <meta name="description" content="Salman MP - Expert Web Designer, SEO Specialist,
      and Digital Marketer in Kerala.Offering top-notch web design and digital marketing services in Malappuram.">
 
-    <title>Freelance Web Designer in Malappuram, Kerala - Salman MP </title>
+    <title>Web Designer, SEO Specialist & Digital Marketer in Malappuram - Salman MP </title>
 
     <link rel="canonical" href="{{ url()->current() }}" />
 
