@@ -212,7 +212,7 @@
           <div class="header__inner">
             <div class="header__logo-3">
               <a href="index.html">
-                <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" class="show-dark" alt="Site Logo">
+                <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" class="show-dark" alt="Site Logo">
                 <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" class="show-light" alt="Site Logo">
               </a>
             </div>
