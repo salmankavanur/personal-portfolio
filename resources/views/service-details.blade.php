@@ -27,6 +27,10 @@
   <link rel="stylesheet" href="{{ asset('assets/css/master.css') }}">
   <link rel="stylesheet" href="{{ asset('style.css') }}">
 
+  <!-- Fav Icon -->
+  <link rel="icon" type="image/x-icon" href="https://salmanmp.me/assets/imgs/hero/favicon.png">
+
+
 </head>
 
 
@@ -35,19 +39,21 @@
   <!-- Preloader -->
   <div id="preloader">
     <div id="container" class="container-preloader">
-      <div class="animation-preloader">
-        <div class="spinner"></div>
-        <div class="txt-loading">
-          <span data-text="I" class="characters">I</span>
-          <span data-text="N" class="characters">N</span>
-          <span data-text="F" class="characters">F</span>
-          <span data-text="O" class="characters">O</span>
+        <div class="animation-preloader">
+            <div class="spinner"></div>
+            <div class="txt-loading">
+                <span data-text="S" class="characters">S</span>
+                <span data-text="A" class="characters">A</span>
+                <span data-text="L" class="characters">L</span>
+                <span data-text="M" class="characters">M</span>
+                <span data-text="A" class="characters">A</span>
+                <span data-text="N" class="characters">N</span>
+            </div>
         </div>
-      </div>
-      <div class="loader-section section-left"></div>
-      <div class="loader-section section-right"></div>
+        <div class="loader-section section-left"></div>
+        <div class="loader-section section-right"></div>
     </div>
-  </div>
+</div>
 
   <!-- Cursor Animation -->
   <div class="cursor1"></div>
@@ -122,8 +128,8 @@
       <div class="offcanvas__body">
         <div class="offcanvas__logo">
           <a href="index.html">
-            <img src="../assets/imgs/logo/site-logo-light.png" alt="Offcanvas Logo" class="show-dark">
-            <img src="../assets/imgs/logo/site-logo-dark.png" alt="Offcanvas Logo" class="show-light">
+            <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" alt="Offcanvas Logo" class="show-dark">
+            <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" alt="Offcanvas Logo" class="show-light">
           </a>
           <p>Create live segments and target the right people for messages based on their behaviors.</p>
         </div>
@@ -132,16 +138,16 @@
           <div class="offcanvas__menu-wrapper">
             <nav class="offcanvas__menu">
               <ul>
-                <li><a href="index.html">home</a></li>
-                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="{{ route('home') }}">home</a></li>
+                <li><a href="#">Portfolio</a></li>
                 <li><a href="#">Pages</a>
                   <ul>
-                    <li> <a href="index-light.html">home <span class="new">light</span></a></li>
-                    <li> <a href="portfolio-light.html">Portfolio <span class="new">light</span></a></li>
-                    <li><a href="blog-light.html">blog <span class="new">light</span></a></li>
+                    <li> <a href="{{ route('home') }}">home <span class="new">light</span></a></li>
+                    <li> <a href="#">Portfolio <span class="new">light</span></a></li>
+                    <li><a href="#">blog <span class="new">light</span></a></li>
                   </ul>
                 </li>
-                <li><a href="blog.html">Blog</a></li>
+                <li><a href="#">Blog</a></li>
               </ul>
             </nav>
           </div>
@@ -178,11 +184,13 @@
         <div class="offcanvas__media">
           <p class="offcanvas__title">Follow</p>
           <ul>
-            <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-            <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-            <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
+            
+            <li><a href="https://www.linkedin.com/in/salmanmp/"><i class="fa-brands fa-linkedin"></i></a></li>
+            <li><a href="https://www.instagram.com/salman_kavanur/"><i class="fa-brands fa-instagram"></i></a></li>
+            <li><a href="https://www.behance.net/salmanmp"><i class="fa-brands fa-behance"></i></a></li>
+            <li><a href="https://github.com/salmankavanur/"><i class="fa-brands fa-github"></i></a></li>
+            
+            
           </ul>
         </div>
       </div>
@@ -204,8 +212,8 @@
           <div class="header__inner">
             <div class="header__logo-3">
               <a href="index.html">
-                <img src="../assets/imgs/logo/site-logo-light.png" class="show-dark" alt="Site Logo">
-                <img src="../assets/imgs/logo/site-logo-dark.png" class="show-light" alt="Site Logo">
+                <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" class="show-dark" alt="Site Logo">
+                <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" class="show-light" alt="Site Logo">
               </a>
             </div>
             <div class="header__nav">
@@ -224,17 +232,17 @@
                   <li class="menu-item-has-children">
                     <a href="#">Pages</a>
                     <ul class="dp-menu">
-                      <li><a href="index.html">home dark</a></li>
+                      <li><a href="{{ route('home') }}">home dark</a></li>
                       <li><a href="index-light.html">home light</a></li>
-                      <li><a href="service-details.html">service details dark</a></li>
-                      <li><a href="service-details-light.html">service details light</a></li>
-                      <li><a href="blog.html">Blog dark</a></li>
-                      <li><a href="blog-light.html">Blog light</a></li>
-                      <li><a href="blog-details.html">Blog details dark</a></li>
-                      <li><a href="blog-details-light.html">Blog details light</a></li>
+                      <li><a href="#">service details dark</a></li>
+                      <li><a href="#">service details light</a></li>
+                      <li><a href="#">Blog dark</a></li>
+                      <li><a href="#">Blog light</a></li>
+                      <li><a href="#">Blog details dark</a></li>
+                      <li><a href="#">Blog details light</a></li>
                     </ul>
                   </li>
-                  <li><a href="blog.html">Blog</a></li>
+                  <li><a href="#">Blog</a></li>
                 </ul>
               </nav>
             </div>
