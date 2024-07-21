@@ -214,62 +214,70 @@
                     Consideration and <br> Approach
                   </h3>
                   <div class="cf_text dancer__classDetailHero-dis2">
-                    <p>Being designerly takes thinking, feeling, and acting like a
-                      designer. I’ve been thinking about and observing what it means to be designerly, and by using six
-                      such
-                      skills and behaviors</p>
+                    <p>Being a web designer takes thinking, feeling, and acting like a designer.
+                       I’ve been reflecting on what it means to be designerly, and by using six such skills and behaviors,
+                        I can achieve the best results in my projects.</p>
                   </div>
                 </div>
                 <div class="dancer__classDetailHero-items">
                   <div class="dancer__classDetailHero-item">
                     <div class="dancer__classDetailHero-left">
                       <h3 class="dancer__classDetailHero-list text-uppercase">
-                        01/ <span>Makeup</span>
+                        01/ <span>RESEARCH AND DISCOVERY</span>
                       </h3>
                     </div>
                     <div class="dancer__classDetailHero-right">
                       <div class="cf_text">
-                        <p>Never having been a sales representative, nor having ever played one on TV, I was curious
-                          about
-                          their typical workday. Adapting the first rule of design. User lockdown approach was to
-                          conduct
-                          video interviews.</p>
+                        <p>To start any project, I delve deep into research to understand the client’s needs, target audience, and industry trends.
+                           Adapting the first rule of design,
+                            my approach involves conducting comprehensive research and user interviews to
+                             gather insights and ensure the design aligns with the client’s vision and user expectations.</p>
                       </div>
                       <ul class="dancer__classDetailHero-servicelist list-plus">
-                        <li>API Development</li>
-                        <li>Front End Development</li>
-                        <li>WordPress</li>
-                        <li>JavaScript</li>
-                        <li>Cloud Migration</li>
-                        <li>Fluter Framework</li>
+                        <li>User Research</li>
+                        <li>Market Analysis</li>
+                        <li>Competitive Analysis</li>
                       </ul>
                     </div>
                   </div>
                   <div class="dancer__classDetailHero-item">
                     <div class="dancer__classDetailHero-left">
                       <h3 class="dancer__classDetailHero-list text-uppercase">
-                        02/ <span>Evaluation</span>
+                        02/ <span>PLANNING AND STRATEGY</span>
                       </h3>
                     </div>
                     <div class="dancer__classDetailHero-right cf_text">
-                      <p>Masked and socially distant, I walked a mile in their shoes through the dairy, pet food, and
-                        freezer aisles. This single visit uncovered many insights that had not come up in the video
-                        team.
+                      <p>With the insights gathered, I create a detailed plan and strategy for the project. This phase involves defining the project scope,
+                         setting goals, and creating a roadmap.
+                         I ensure that the plan is aligned with the client’s objectives and provides a clear direction for the project.
                       </p>
+
+                      <ul class="dancer__classDetailHero-servicelist list-plus">
+                        <li>Project Planning</li>
+                        <li>Goal Setting</li>
+                        <li>Strategy Development</li>
+                      </ul>
+
                     </div>
                   </div>
                   <div class="dancer__classDetailHero-item">
                     <div class="dancer__classDetailHero-left">
                       <h3 class="dancer__classDetailHero-list text-uppercase">
-                        03/ <span>Styling</span>
+                        03/ <span>WIREFRAMING AND PROTOTYPING</span>
                       </h3>
                     </div>
                     <div class="dancer__classDetailHero-right">
                       <div class="cf_text">
-                        <p>Masked and socially distant, I walked a mile in their shoes through the dairy, pet food, and
-                          freezer aisles. This single visit uncovered many insights that had not come up in the video
-                          team.
+                        <p>Before diving into the design, I create wireframes and prototypes to visualize the layout and functionality of the website.
+                           This step allows me to experiment with different structures and user flows, ensuring that the design is intuitive and user-friendly.
                         </p>
+
+                        <ul class="dancer__classDetailHero-servicelist list-plus">
+                          <li>Wireframing</li>
+                          <li>Prototyping</li>
+                          <li>User Experience (UX) Design</li>
+                        </ul>
+
                       </div>
                       <div class="dancer__classDetailHero-thumb1">
                         <img src="../assets/imgs/inner/dancer/detail-img.png" alt="img">
@@ -279,16 +287,49 @@
                   <div class="dancer__classDetailHero-item">
                     <div class="dancer__classDetailHero-left">
                       <h3 class="dancer__classDetailHero-list text-uppercase">
-                        04/ <span>Review</span>
+                        04/ <span>DESIGN AND STYLING</span>
                       </h3>
                     </div>
                     <div class="dancer__classDetailHero-right cf_text">
-                      <p>Masked and socially distant, I walked a mile in their shoes through the dairy, pet food, and
-                        freezer aisles. This single visit uncovered many insights that had not come up in the video
-                        interviews and online walkthroughs. I shared this with the team, spread across the world, and
-                        everyone could empathize with the sales representatives</p>
+                      <p>At this stage, I bring the project to life with visually appealing designs.
+                         Using tools like Adobe Creative Suite and Figma, I craft responsive and aesthetically pleasing designs that reflect the client’s brand identity.
+                         I focus on creating a seamless and engaging user experience across all devices.</p>
+
+                         <ul class="dancer__classDetailHero-servicelist list-plus">
+                          <li>Graphic Design</li>
+                          <li>Responsive Design</li>
+                          <li>Adobe Suite</li>
+                          <li>Figma</li>
+                        </ul>
+
                     </div>
                   </div>
+
+
+                  <div class="dancer__classDetailHero-item">
+                    <div class="dancer__classDetailHero-left">
+                      <h3 class="dancer__classDetailHero-list text-uppercase">
+                        05/ <span>DEVELOPMENT AND IMPLEMENTATION</span>
+                      </h3>
+                    </div>
+                    <div class="dancer__classDetailHero-right cf_text">
+                      <p>With the design finalized, I move on to the development phase. Using technologies such as HTML, CSS, JavaScript,
+                         and frameworks like Laravel and WordPress, I build the website, ensuring that it is fully functional, responsive,
+                          and optimized for performance and SEO.</p>
+
+                         <ul class="dancer__classDetailHero-servicelist list-plus">
+                          <li>Front-End Development</li>
+                          <li>HTML/CSS</li>
+                          <li>JavaScript</li>
+                          <li>WordPress</li>
+                          <li>Laravel</li>
+                          <li>SEO</li>
+                        </ul>
+
+                    </div>
+                  </div>
+
+
                 </div>
               </div>
             </div>
