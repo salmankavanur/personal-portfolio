@@ -131,7 +131,7 @@
             <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" alt="Offcanvas Logo" class="show-dark">
             <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" alt="Offcanvas Logo" class="show-light">
           </a>
-          <p>Create live segments and target the right people for messages based on their behaviors.</p>
+          <p>Freelance Web Designer based in Malappuram with Extensive Experience in SEO, Digital Marketing, and Media Strategies.</p>
         </div>
 
         <div class="offcanvas__menu-area">
@@ -211,7 +211,7 @@
         <header class="header__area pos-abs plr-50">
           <div class="header__inner">
             <div class="header__logo-3">
-              <a href="index.html">
+              <a href="{{ route('home') }}">
                 <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" class="show-dark" alt="Site Logo">
                 <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" class="show-light" alt="Site Logo">
               </a>
@@ -219,21 +219,21 @@
             <div class="header__nav">
               <nav class="main-menu">
                 <ul>
-                  <li><a href="index.html">home</a></li>
+                  <li><a href="{{ route('home') }}">home</a></li>
                   <li class="menu-item-has-children">
                     <a href="#">Portfolio</a>
                     <ul class="dp-menu">
-                      <li><a href="portfolio.html">Portfolio dark</a></li>
-                      <li><a href="portfolio-light.html">Portfolio light</a></li>
-                      <li><a href="portfolio-details.html">Portfolio details dark</a></li>
-                      <li><a href="portfolio-details-light.html">Portfolio details light</a></li>
+                      <li><a href="#">Portfolio dark</a></li>
+                      <li><a href="#">Portfolio light</a></li>
+                      <li><a href="#">Portfolio details dark</a></li>
+                      <li><a href="#">Portfolio details light</a></li>
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
                     <a href="#">Pages</a>
                     <ul class="dp-menu">
                       <li><a href="{{ route('home') }}">home dark</a></li>
-                      <li><a href="index-light.html">home light</a></li>
+                      <li><a href="#">home light</a></li>
                       <li><a href="#">service details dark</a></li>
                       <li><a href="#">service details light</a></li>
                       <li><a href="#">Blog dark</a></li>
@@ -262,12 +262,12 @@
           <section class="pt-190 pb-150">
             <div class="container">
               <div class="dancer__classDetailHero-wrapper">
-                <h1 class="dancer__classDetailHero-title text-uppercase has_text_reveal_anim" data-on-scroll="0">Penduma
+                <h1 class="dancer__classDetailHero-title text-uppercase has_text_reveal_anim" data-on-scroll="0">Web Designing
                 </h1>
                 <h2 class="dancer__classDetailHero-dis text-uppercase has_text_reveal_anim" data-on-scroll="0">
-                  Photography</h2>
+                  & Development</h2>
                 <div class="detail-thumb-anim cf_image mt-70 mb-60" style="height: 70vh;">
-                  <img src="../assets/imgs/inner/photographer/photo-1.png" alt="detailsthumb" data-speed="auto">
+                  <img src="{{ asset('assets/imgs/portfolio/web-design.jpg') }}" alt="Responsive Web Design & SEO" data-speed="auto">
                 </div>
                 <div class="dancer__classDetailHero-content mb-60">
                   <h3 class="dancer__classDetailHero-title2 text-uppercase has_text_reveal_anim mb-30">
