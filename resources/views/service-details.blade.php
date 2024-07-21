@@ -5,9 +5,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="INFO HTML5 Template">
+  <meta name="description" content="Salman MP - Freelance Web Designer & Developer in Malappuram.
+   Offering top-notch web design and digital marketing services in Malappuram.">
 
-  <title>Service Details</title>
+  <title>Freelance Web Designer & Developer in Malappuram - Salman MP </title>
+
+  <link rel="canonical" href="{{ url()->current() }}" />
 
   <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
 
