@@ -1158,7 +1158,7 @@
                                 <div class="row">
                                     <div class="col-xxl-12">
                                         <div class="expertise-element has_fade_anim">
-                                            <a href="{{ route('service-details') }}">
+                                            <a href="#">
                                                 <div class="pdesigner-service__item">
                                                     <h2 class="pdesigner-service__number">01</h2>
                                                     <h3 class="pdesigner-service__title">Web <br> Design</h3>
@@ -1174,7 +1174,7 @@
                                             </a>
                                         </div>
                                         <div class="expertise-element has_fade_anim">
-                                            <a href="{{ route('service-details') }}">
+                                            <a href="#">
                                                 <div class="pdesigner-service__item">
                                                     <h2 class="pdesigner-service__number">02</h2>
                                                     <h3 class="pdesigner-service__title">Media <br> Passion</h3>
@@ -1191,7 +1191,7 @@
                                             </a>
                                         </div>
                                         <div class="expertise-element has_fade_anim">
-                                            <a href="{{ route('service-details') }}">
+                                            <a href="#">
                                                 <div class="pdesigner-service__item">
                                                     <h2 class="pdesigner-service__number">03</h2>
                                                     <h3 class="pdesigner-service__title">Graphic <br> Design</h3>
@@ -1207,7 +1207,7 @@
                                             </a>
                                         </div>
                                         <div class="expertise-element has_fade_anim">
-                                            <a href="{{ route('service-details') }}">
+                                            <a href="#">
                                                 <div class="pdesigner-service__item">
                                                     <h2 class="pdesigner-service__number">04</h2>
                                                     <h3 class="pdesigner-service__title">Hosting & <br> Server Management</h3>
@@ -1221,7 +1221,7 @@
                                             </a>
                                         </div>
                                         <div class="expertise-element has_fade_anim">
-                                            <a href="{{ route('service-details') }}">
+                                            <a href="#">
                                                 <div class="pdesigner-service__item">
                                                     <h2 class="pdesigner-service__number">04</h2>
                                                     <h3 class="pdesigner-service__title">Library & <br> Digitalization</h3>
