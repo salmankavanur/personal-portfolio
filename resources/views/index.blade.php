@@ -1527,7 +1527,7 @@
                                                 </div>
                                                 <div>
                                                     <h4 class="pdesigner-contact__name">Phone</h4>
-                                                    <a href="tel:02251398203">+91 8129489071</a>
+                                                    <a href="tel:+918129489071">+91 8129489071</a>
                                                 </div>
                                             </div>
                                             <div class="pdesigner-contact__type">
@@ -1536,7 +1536,7 @@
                                                 </div>
                                                 <div>
                                                     <h4 class="pdesigner-contact__name">Email</h4>
-                                                    <a href="mailto:info@example.com">hello@salmanmp.me</a>
+                                                    <a href="mailto:hello@salmanmp.me">hello@salmanmp.me</a>
                                                 </div>
                                             </div>
                                             <div class="pdesigner-contact__type">
