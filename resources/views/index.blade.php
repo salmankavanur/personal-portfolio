@@ -423,8 +423,7 @@
                                 <div class="col-xxl-12">
                                     <div class="pdesigner-about__top-content">
                                         <div class="pb-30">
-                                            <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in
-                        Kerala, India
+                                            <h2 class="hero-title has_text_reveal_anim">Salman MP <br> Web & Graphic Designer Based in Kerala, India
                       </h2>
                                         </div>
 
