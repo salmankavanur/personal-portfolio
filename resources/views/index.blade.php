@@ -907,7 +907,7 @@
                                                     <h3 class="pdesigner-service__title">Web <br> Design</h3>
                                                     <p>Expert in creating responsive and user-centric designs with proficiency in various web design tools and technologies.</p>
                                                     <ul class="list-plus">
-                                                        <li>HTML5 | CSS3 | JavaScript</li>
+                                                        <li>HTML | CSS | JavaScript</li>
                                                         <li>WordPress | Elementor | WPBakery</li>
                                                         <li>PHP | Laravel</li>
                                                         <li>Bootstrap / SASS</li>
