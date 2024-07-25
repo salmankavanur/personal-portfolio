@@ -353,7 +353,6 @@
                 <span>Salman</span>
                 <span>Web Designer</span>
                 <span>Graphic Designer</span>
-                <span>Web Developer</span>
                 <span>SEO Specialist</span>
                 <span>Digital Marketer</span>
               </span>
