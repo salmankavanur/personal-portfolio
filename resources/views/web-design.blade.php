@@ -157,7 +157,7 @@
           <div class="header__inner">
             <div class="header__logo-3">
               <a href="{{ route('home') }}">
-                <img src="{{ asset('assets/imgs/logo/site-logo-light_salman.png') }}" class="show-dark" alt="Site Logo">
+                <img src="{{ asset('assets/imgs/logo/salman_logo.png') }}" class="show-dark" alt="Site Logo" style="padding: 5px">
                 <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" class="show-light" alt="Site Logo">
               </a>
             </div>
@@ -465,8 +465,6 @@
   <script src="{{ asset('assets/js/error-handling.js') }}"></script>
   <script src="{{ asset('assets/js/offcanvas.js') }}"></script>
   <script src="{{ asset('assets/js/wc-cursor.js') }}"></script>
-
-
 
 </body>
 
