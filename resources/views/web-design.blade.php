@@ -72,7 +72,7 @@
       <button class="offcanvas__close" data-bs-dismiss="offcanvas"><i class="fa-solid fa-xmark"></i></button>
       <div class="offcanvas__body">
         <div class="offcanvas__logo">
-          <a href="index.html">
+          <a href="{{ route('home') }}">
             <img src="{{ asset('assets/imgs/logo/site-logo-light.svg') }}" alt="Offcanvas Logo" class="show-dark">
             <img src="{{ asset('assets/imgs/logo/site-logo-dark.svg') }}" alt="Offcanvas Logo" class="show-light">
           </a>
@@ -98,7 +98,7 @@
           </div>
         </div>
         <div class="offcanvas__gallery">
-          <p class="offcanvas__title">gallery</p>
+          <p class="offcanvas__title">Portfolio</p>
           <div class="gallery__items">
             <div class="gallery__item">
               <a href="#"><img src="../assets/imgs/thumb/gallery.jpg" alt="gallery Image">
@@ -169,17 +169,20 @@
                     <a href="#">Portfolio</a>
                     <ul class="dp-menu">
                       <li><a href="#">Portfolios</a></li>
-                    
                       <li><a href="#">Web Designing</a></li>
+                      <li><a href="#">Graphic Designing</a></li>
                       
                     </ul>
                   </li>
                   <li class="menu-item-has-children">
-                    <a href="#">Pages</a>
+                    <a href="#">Services</a>
                     <ul class="dp-menu">
-                      <li><a href="{{ route('home') }}">Home</a></li>
-                      <li><a href="#">services</a></li>
-                      <li><a href="#">Blogs</a></li>
+                      <li><a href="#">Web Designing & Development</a></li>
+                      <li><a href="#">Graphic Designing</a></li>
+                      <li><a href="#">SEO</a></li>
+                      <li><a href="#">Digital Marketing</a></li>
+                      <li><a href="#">Photography/Videography</a></li>
+
                     </ul>
                   </li>
                   <li><a href="#">Blog</a></li>
@@ -372,9 +375,6 @@
                         </div>
 
                     </div>
-
-                    
-
                   </div>
 
 
