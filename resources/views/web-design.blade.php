@@ -5,12 +5,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Salman MP - Freelance Web Designer & Developer in Malappuram.
+  <meta name="description" content="Salman MP - Freelance Web Designer in Malappuram.
    Offering top-notch web design and digital marketing services in Malappuram.">
 
   <title>Freelance Web Designer & Developer in Malappuram - Salman MP </title>
 
-  <link rel="canonical" href="{{ url()->current() }}" />
+  <link rel="canonical" href="https://www.salmanmp.me/web-design" />
 
   <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
 
@@ -279,9 +279,6 @@
                         </ul>
 
                       </div>
-                      <div class="dancer__classDetailHero-thumb1">
-                        <img src="../assets/imgs/inner/dancer/detail-img.png" alt="img">
-                      </div>
                     </div>
                   </div>
                   <div class="dancer__classDetailHero-item">
@@ -327,6 +324,55 @@
                         </ul>
 
                     </div>
+                  </div>
+
+                  <div class="dancer__classDetailHero-item">
+                    <div class="dancer__classDetailHero-left">
+                      <h3 class="dancer__classDetailHero-list text-uppercase">
+                        06/ <span>TESTING AND REVIEW</span>
+                      </h3>
+                    </div>
+                    <div class="dancer__classDetailHero-right cf_text">
+                      <p>Before launching the website, I conduct thorough testing to identify and fix any issues.
+                         This includes cross-browser testing, mobile responsiveness, and performance optimization.
+                         Once the website passes all tests, I review it with the client to ensure it meets their expectations and make any necessary adjustments.</p>
+
+                         <ul class="dancer__classDetailHero-servicelist list-plus">
+                          <li>Quality Assurance</li>
+                          <li>Performance Testing</li>
+                          <li>Client Review</li>
+                        </ul>
+
+                    </div>
+                  </div>
+
+                  <div class="dancer__classDetailHero-item">
+                    <div class="dancer__classDetailHero-left">
+                      <h3 class="dancer__classDetailHero-list text-uppercase">
+                        07/ <span>LAUNCH AND SUPPORT</span>
+                      </h3>
+                    </div>
+                    <div class="dancer__classDetailHero-right cf_text">
+                      <p>
+                        
+                        After the final approval, I launch the website and monitor its performance.
+                         I provide ongoing support and maintenance to ensure the website remains up-to-date and runs smoothly.
+                         I also offer training and resources to help clients manage their websites effectively.
+
+                      </p>
+
+                         <ul class="dancer__classDetailHero-servicelist list-plus">
+                          <li>Website Launch</li>
+                          <li>Maintenance</li>
+                          <li>Client Support</li>
+                        </ul>
+
+                    </div>
+
+                    <div class="dancer__classDetailHero-thumb1">
+                      <img src="{{ asset('assets/imgs/portfolio/8-web-design.jpg') }}" alt="img">
+                    </div>
+
                   </div>
 
 
