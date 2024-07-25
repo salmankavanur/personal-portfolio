@@ -367,11 +367,13 @@
                           <li>Client Support</li>
                         </ul>
 
+                        <div class="dancer__classDetailHero-thumb1">
+                          <img src="{{ asset('assets/imgs/portfolio/8-web-design.jpg') }}" alt="img">
+                        </div>
+
                     </div>
 
-                    <div class="dancer__classDetailHero-thumb1">
-                      <img src="{{ asset('assets/imgs/portfolio/8-web-design.jpg') }}" alt="img">
-                    </div>
+                    
 
                   </div>
 
