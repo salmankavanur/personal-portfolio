@@ -18,6 +18,11 @@ Route::get('/', function () {
 })->name('home');
 
 
+Route::get('web-design', function () {
+    return view('web-design');
+})->name('web-design');
+
+
 Route::get('portfolio', function () {
     return view('portfolio');
 })->name('portfolio');
