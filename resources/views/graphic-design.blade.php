@@ -394,8 +394,7 @@
                         <tr>
                           <td data-label="Expertise">ID Card Design</td>
                           <td data-label="Description">Designing personalized and professional ID cards for organizations
-                             with a data merge method for ID card/certificate design,
-                             leveraging my extensive experience in data merge.</td>
+                             with a data merge method.</td>
                         </tr>
 
                         <tr>
