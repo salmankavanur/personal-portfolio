@@ -7,7 +7,7 @@
     <meta name="keywords" content="freelance web designer in Malappuram, graphic designer in Malappuram, web design Malappuram, Salman MP, social media design, poster design, print design, flyer design, brochure design, WordPress, Laravel, responsive design, Adobe Illustrator, Photoshop, InDesign">
     <title>Freelance Web and Graphic Designer in Malappuram | Salman MP</title>
 
-  <link rel="canonical" href="https://www.salmanmp.me/web-design" />
+  <link rel="canonical" href="https://www.salmanmp.me/graphic-design" />
 
   <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
 
