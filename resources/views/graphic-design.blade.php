@@ -395,6 +395,12 @@
                           <td data-label="Expertise">ID Card Design</td>
                           <td data-label="Description">Designing personalized and professional ID cards for organizations.</td>
                         </tr>
+
+                        <tr>
+                          <td>Book Layout and Design</td>
+                          <td>Designing and formatting books for print and digital publication.</td>
+                      </tr>
+                      
                       </tbody>
                     </table>
                   </div>
