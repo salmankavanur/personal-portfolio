@@ -399,7 +399,7 @@
 
                         <tr>
                           <td data-label="Expertise">Book Layout and Design</td>
-                          <td data-label="Description">Designing and formatting books for print and digital publication.</td>
+                          <td data-label="Description">Layout and cover design to publish your books in an outstanding structure.</td>
                       </tr>
 
                       </tbody>
