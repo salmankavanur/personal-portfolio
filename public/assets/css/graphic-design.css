@@ -1,0 +1,61 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* Light text color */
+}
+
+.graphic-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #ffffff; /* Light text color */
+}
+
+/* Table Styling */
+.expertise-table {
+    width: 90%;
+    margin: 20px auto; /* Center the table */
+    border-collapse: collapse;
+}
+
+.expertise-table th,
+.expertise-table td {
+    border: 1px solid #333; /* Dark border color */
+    padding: 12px 15px;
+    text-align: left;
+}
+
+.expertise-table th {
+    background-color: #333; /* Dark header background */
+    color: #ffffff; /* Light text color */
+    font-weight: bold;
+}
+
+.expertise-table tr:nth-child(even) {
+    background-color: #1e1e1e; /* Slightly lighter dark background */
+}
+
+.expertise-table tr:hover {
+    background-color: #333; /* Hover color */
+}
+
+.expertise-table th,
+.expertise-table td {
+    text-align: left;
+    padding: 8px;
+}
+
+.expertise-table td {
+    vertical-align: top;
+    color: #ffffff; /* Light text color */
+}

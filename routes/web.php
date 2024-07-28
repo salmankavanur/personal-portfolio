@@ -22,6 +22,11 @@ Route::get('web-design', function () {
     return view('web-design');
 })->name('web-design');
 
+Route::get('graphic-design', function () {
+    return view('graphic-design');
+})->name('graphic-design');
+
+
 
 Route::get('portfolio', function () {
     return view('portfolio');
