@@ -1,6 +1,6 @@
 /* General Styling */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'poppins', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,9 +23,9 @@ h2 {
 
 /* Table Styling */
 .expertise-table {
-    width: 90%;
-    margin: 20px auto; /* Center the table */
+    width: 100%;
     border-collapse: collapse;
+    margin: 20px 0;
 }
 
 .expertise-table th,
@@ -58,4 +58,64 @@ h2 {
 .expertise-table td {
     vertical-align: top;
     color: #ffffff; /* Light text color */
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .expertise-table th, .expertise-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .expertise-table th {
+        text-align: center;
+    }
+
+    .expertise-table td {
+        text-align: left;
+        padding-left: 50%;
+        position: relative;
+    }
+
+    .expertise-table td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 50%;
+        padding-left: 15px;
+        font-weight: bold;
+        text-align: left;
+    }
+}
+
+/* Announcement Styling */
+.announcement {
+    background-color: #FFD700; /* Yellow background */
+    color: #333; /* Dark text color */
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 300; /* Light font weight */
+}
+
+.announcement-icon {
+    font-size: 2em;
+    margin-right: 10px;
+    background-color: #333; /* Dark background for icon */
+    color: #FFD700; /* Yellow color for icon */
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.announcement-text {
+    flex: 1;
+    font-weight: 500; /* Light font weight */
 }

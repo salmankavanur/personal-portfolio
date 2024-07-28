@@ -368,37 +368,45 @@
                       </thead>
                       <tbody>
                         <tr>
-                          <td>Social Media Design</td>
-                          <td>Creating engaging and visually appealing content for social media platforms.</td>
+                          <td data-label="Expertise">Social Media Design</td>
+                          <td data-label="Description">Creating engaging and visually appealing content for social media platforms.</td>
                         </tr>
                         <tr>
-                          <td>Poster Design</td>
-                          <td>Designing eye-catching posters for various events and promotions.</td>
+                          <td data-label="Expertise">Poster Design</td>
+                          <td data-label="Description">Designing eye-catching posters for various events and promotions.</td>
                         </tr>
                         <tr>
-                          <td>Print Design</td>
-                          <td>Specializing in print materials such as brochures, flyers, and business cards.</td>
+                          <td data-label="Expertise">Print Design</td>
+                          <td data-label="Description">Specializing in print materials such as brochures, flyers, and business cards.</td>
                         </tr>
                         <tr>
-                          <td>Flyer Design</td>
-                          <td>Crafting informative and attractive flyers for marketing and promotional purposes.</td>
+                          <td data-label="Expertise">Flyer Design</td>
+                          <td data-label="Description">Crafting informative and attractive flyers for marketing and promotional purposes.</td>
                         </tr>
                         <tr>
-                          <td>Brochure Design</td>
-                          <td>Designing professional brochures to showcase products or services.</td>
+                          <td data-label="Expertise">Brochure Design</td>
+                          <td data-label="Description">Designing professional brochures to showcase products or services.</td>
                         </tr>
                         <tr>
-                          <td>LinkedIn/YouTube/Facebook Cover Art Design</td>
-                          <td>Creating custom cover art for social media profiles to enhance brand identity.</td>
+                          <td data-label="Expertise">LinkedIn/YouTube/Facebook Cover Art Design</td>
+                          <td data-label="Description">Creating custom cover art for social media profiles to enhance brand identity.</td>
                         </tr>
                         <tr>
-                          <td>ID Card Design</td>
-                          <td>Designing personalized and professional ID cards for organizations.</td>
+                          <td data-label="Expertise">ID Card Design</td>
+                          <td data-label="Description">Designing personalized and professional ID cards for organizations.</td>
                         </tr>
                       </tbody>
                     </table>
                   </div>
+                  <div class="announcement">
+                    <div class="announcement-icon">🔔</div>
+                    <div class="announcement-text">
+                      I can provide print materials such as Brochure, ID Cards, etc with Premium and Professional Quality. Feel free to contact me.
+                    </div>
+                  </div>
                 </section>
+                
+                
                 
                 <!-- Additional Content Ends here -->
                 
