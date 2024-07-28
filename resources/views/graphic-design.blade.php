@@ -400,15 +400,16 @@
                           <td>Book Layout and Design</td>
                           <td>Designing and formatting books for print and digital publication.</td>
                       </tr>
-                      
+
                       </tbody>
                     </table>
                   </div>
                   <div class="announcement">
                     <div class="announcement-icon">🔔</div>
                     <div class="announcement-text">
-                      I can provide print materials such as Brochure, ID Cards, etc with Premium and Professional Quality. Feel free to contact me.
-                    </div>
+                      can provide print materials such as brochures, ID cards, etc., with premium and professional quality.
+                       My experience in data merge ID card/certificate design ensures fast delivery using professional methods.
+                        For any kind of design work, feel free to contact me  </div>
                   </div>
                 </section>
                 
