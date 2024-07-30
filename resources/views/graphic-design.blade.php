@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Salman MP is a professional web and graphic designer in Malappuram offering services in web design, graphic design, and more.">
-    <meta name="keywords" content="freelance web designer in Malappuram, graphic designer in Malappuram, web design Malappuram, Salman MP, social media design, poster design, print design, flyer design, brochure design, WordPress, Laravel, responsive design, Adobe Illustrator, Photoshop, InDesign">
-    <title>Freelance Web and Graphic Designer in Malappuram | Salman MP</title>
+    <meta name="description" content="Salman MP is a professional graphic designer in Malappuram offering services in graphic design, and more.">
+    <meta name="keywords" content="freelance graphic designer in Malappuram, offering social media design, poster design, print design, flyer design, brochure design, WordPress, Laravel, responsive design, Adobe Illustrator, Photoshop, InDesign">
+    <title>Freelance Graphic Designer in Malappuram, Kerala | Salman MP</title>
 
   <link rel="canonical" href="https://www.salmanmp.me/graphic-design" />
 
