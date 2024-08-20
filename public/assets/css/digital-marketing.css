@@ -1,0 +1,143 @@
+/* General Styling */
+
+.digital-marketing-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.digital-marketing-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #ffd700; /* Yellow color for heading */
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.text-column {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.text-column p {
+    text-align: justify;
+}
+
+.image-column {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-column img {
+    max-width: 100%;
+    border-radius: 10px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+.why-choose-me, .my-expertise, .proven-results, .get-started {
+    margin-bottom: 40px;
+}
+
+.why-choose-me h3, .my-expertise h3, .proven-results h3, .get-started h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    background-color: #ffd700;
+    color: black;
+    padding: 10px;
+}
+
+.why-choose-me p, .my-expertise p {
+    text-align: justify;
+    font-size: 16px;
+    text-align: center;
+}
+
+.expertise-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.expertise-column {
+    flex: 1;
+    margin-right: 20px;
+    
+}
+
+.expertise-column p {
+    text-align: justify;
+    
+}
+
+.services-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding-top: 20px;
+    align-items: center;
+}
+
+.services-list li {
+    display: flex;
+    flex-direction: column;
+}
+
+.service-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    background-color: white;
+    color: black;
+}
+
+.service-description {
+    text-align: justify;
+}
+
+.services-list li::before {
+    content: "•";
+    color: #ffd700; /* Yellow bullet points */
+    font-weight: bold;
+    display: inline-block;
+    width: 1.5em;
+    margin-left: -1.5em;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 768px) {
+    .content {
+        flex-direction: column;
+    }
+
+    .text-column {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .services-list {
+        grid-template-columns: 1fr;
+    }
+
+    .services-list li {
+        text-align: left;
+    }
+}

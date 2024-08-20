@@ -26,6 +26,10 @@ Route::get('graphic-design', function () {
     return view('graphic-design');
 })->name('graphic-design');
 
+Route::get('digital-marketing', function () {
+    return view('digital-marketing');
+})->name('digital-marketing');
+
 
 
 Route::get('portfolio', function () {
