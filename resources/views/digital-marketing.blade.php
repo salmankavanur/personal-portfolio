@@ -10,6 +10,31 @@
 
   <title>Freelance Digital Marketer in Malappuram, Kerala - Salman MP </title>
 
+  {{-- SEO Tags --}}
+
+  <meta property="og:title" content="Freelance Digital Marketer in Malappuram, Kerala | Salman MP">
+    <meta property="og:description"
+        content="Salman MP is a professional Digital Marketer in Malappuram offering services in Search Engine Optimization, Social Media Marketing and more.">
+    <meta property="og:image" content="{{ asset('assets/imgs/media/graphic-desigener-in-malappuram.webp') }}">
+    <meta property="og:url" content="https://www.salmanmp.me/digital-marketing">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Freelance Digital Marketing Services",
+  "provider": {
+    "@type": "Organization",
+    "name": "Salman MP"
+  },
+  "areaServed": "Malappuram, Kerala"
+}
+</script>
+
+{{-- SEO Tags --}}
+
   <link rel="canonical" href="https://www.salmanmp.me/web-design" />
 
   <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
