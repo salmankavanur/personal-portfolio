@@ -245,10 +245,12 @@
         <h2>Digital Marketing Services</h2>
         <div class="content">
             <div class="text-column">
-                <p class="text-column p"><b>Salman MP here,</b> your dedicated Digital Marketing Strategist based in Malappuram, Kerala, India. With years of hands-on experience in digital marketing, including expertise in social media marketing and search engine optimization (SEO), 
-                  I specialize in crafting tailored digital marketing solutions designed to drive your business forward.
-                  In today's digital landscape, having a proficient Digital Marketing Strategist is crucial for enhancing online visibility, driving organic traffic, and maximizing conversions.</p>
-            </div>
+                <p class="text-column p"><b>Salman MP here</b> , your trusted Digital Marketing Strategist based in Malappuram, Kerala, India.
+                   With over 5 years of extensive experience in the dynamic field of digital marketing,
+                    I bring a wealth of knowledge in <strong>SEO (Search Engine Optimization)</strong>, <strong>social media marketing</strong>,
+                     and <strong>content marketing</strong>. My expertise lies in crafting customized digital marketing strategies that are designed to boost
+                      your online presence, enhance brand visibility, and drive high-quality traffic to your business. In today's competitive digital landscape,
+                   it is essential to partner with a <strong>skilled digital marketing strategist</strong> to achieve sustainable growth and maximize ROI.   </div>
             <div class="image-column">
                 <img src="{{ asset('assets/imgs/media/digital-marketing.webp') }}" alt="Digital Marketing Expert in Malappuram" class="animated-image">
             </div>
@@ -256,23 +258,28 @@
 
         <div class="why-choose-me">
             <h3>Why Choose Me?</h3>
-            <p>As the most sought-after Digital Marketing Strategist in Malappuram, Kerala, I offer a comprehensive range of services:</p>
+            <p>As a leading Digital Marketing Strategist in Malappuram, Kerala,
+               I offer a comprehensive suite of services tailored to meet the unique needs of your business. Here’s how I can help you:</p>
             <ul class="services-list">
                 
                     <span class="service-title">Search Engine Optimization (SEO):</span>
-                    <span class="service-description">Boost your website’s visibility on search engines like Google with proven SEO strategies.</span>
+                    <span class="service-description">Enhance your website's visibility on Google and other major search engines
+                       through proven SEO strategies that drive organic traffic and improve your search engine rankings.</span>
                 
                 
                     <span class="service-title">Search Engine Marketing (SEM):</span>
-                    <span class="service-description">Maximize your online advertising campaigns for higher ROI.</span>
+                    <span class="service-description"> Maximize the effectiveness of your paid online advertising campaigns
+                       with strategic SEM techniques that deliver high returns on investment.</span>
                 
                 
                     <span class="service-title">Social Media Management:</span>
-                    <span class="service-description">Enhance your brand’s presence on platforms like Facebook, Instagram, Twitter, and LinkedIn.</span>
+                    <span class="service-description"> Strengthen your brand’s online presence by engaging with your audience
+                       on platforms like Facebook, Instagram, Twitter, and LinkedIn, building a loyal community.</span>
                
                
                     <span class="service-title">Content Marketing:</span>
-                    <span class="service-description">Create and distribute valuable, relevant, and consistent content to attract and retain a clearly defined audience.</span>
+                    <span class="service-description">Create and distribute valuable, relevant,
+                       and consistent content to attract and retain a clearly defined audience, ultimately driving profitable customer actions.</span>
                
             </ul>
         </div>
@@ -322,16 +329,137 @@
 
         <div class="proven-results">
             <h3>Proven Results</h3>
-            <p>Transparent communication and a results-driven approach are the hallmarks of my service. By leveraging cutting-edge tools and techniques, I ensure your business achieves optimal online visibility and growth.</p>
+            <p>My commitment to transparent communication and a results-oriented approach ensures that your business benefits
+               from cutting-edge digital marketing strategies.
+               By employing the latest tools and techniques, I help you achieve measurable growth and sustained online visibility.</p>
         </div>
 
 
         <div class="get-started">
             <h3>Get Started Today</h3>
-            <p>Ready to elevate your online presence? Let’s work together to create a digital marketing strategy that delivers measurable results. Contact me today to discuss how we can achieve your business goals.</p>
+            <p>Let's collaborate to craft a digital marketing strategy that aligns with your business goals and delivers quantifiable results.
+               <a href="#contact">Contact me today</a> to discuss how we can take your online presence to the next level.</p>
         </div>
     </div>
 
+
+
+    <section id="services" class="services-section">
+      <div class="container">
+          <h2 class="section-title">Area of Expertise</h2>
+          <div class="services-grid">
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/responsive-web-design.svg') }}" class="svg-object"></object>
+                </div>
+                  <h3 class="service-title">Web Designing</h3>
+                  <p class="service-description">Crafting responsive and visually appealing websites tailored to your business needs.</p>
+              </div>
+  
+              {{-- <div class="service-item">
+                  <div class="service-icon">
+                      <img src="{{ asset('assets/imgs/logo/logo-10.png') }}" alt="Graphic Designing">
+                  </div>
+                  <h3 class="service-title">Graphic Designing</h3>
+                  <p class="service-description">Creating captivating designs for print and digital platforms, including brochures, flyers, and more.</p>
+              </div> --}}
+
+              <div class="service-item">
+
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/graphic-design.svg') }}" class="svg-object"></object>
+                </div>
+                <h3 class="service-title">Graphic Designing</h3>
+                <p class="service-description">Creating captivating designs for print and digital platforms, including brochures, flyers, and more.</p>
+            </div>
+  
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/videography.svg') }}" class="svg-object"></object>
+                </div>
+                  <h3 class="service-title">Videography & Photography</h3>
+                  <p class="service-description">Professional video and photography services with aerial drone capabilities for stunning visuals.</p>
+              </div>
+  
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/editing_grading.svg') }}" class="svg-object"></object>
+                </div>
+                  <h3 class="service-title">Video Editing & Grading</h3>
+                  <p class="service-description">Creating dynamic motion graphics to bring your brand to life with engaging visual storytelling.</p>
+              </div>
+  
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/seo.svg') }}" class="svg-object"></object>
+                </div>
+                  <h3 class="service-title">Search Engine Optimization</h3>
+                  <p class="service-description">Optimizing your website to rank higher in search engines and attract more organic traffic.</p>
+              </div>
+  
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/wikipedia_2.svg') }}" class="svg-object"></object>
+                </div>
+                  <h3 class="service-title">Wikipedia Profile Management</h3>
+                  <p class="service-description">Managing and maintaining your Wikipedia profile to ensure accurate and reliable information.</p>
+              </div>
+  
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/social-media.svg') }}" class="svg-object"></object>
+                </div>
+                  <h3 class="service-title">Social Media Management</h3>
+                  <p class="service-description">Building and engaging your audience on social media platforms with strategic content and campaigns.</p>
+              </div>
+
+              <div class="service-item">
+                <div class="service-icon icon-svg">
+                  <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/library.svg') }}" class="svg-object"></object>
+                </div>
+                <h3 class="service-title">Koha Library Management</h3>
+                <p class="service-description">Koha is a leading and best reliable Library managment software.
+                   I can help you to make your library smart and digital</p>
+            </div>
+
+            <div class="service-item">
+              <div class="service-icon icon-svg">
+                <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/hosting.svg') }}" class="svg-object"></object>
+              </div>
+              <h3 class="service-title">Hosting & Server Management</h3>
+              <p class="service-description">Providing reliable hosting and server management for smooth, uninterrupted operations.</p>
+          </div>
+
+          <div class="service-item">
+            <div class="service-icon icon-svg">
+              <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/streaming.svg') }}" class="svg-object"></object>
+            </div>
+            <h3 class="service-title">Live Streaming & Broadcasting </h3>
+            <p class="service-description">High-quality live streaming and broadcasting for events simultaneously in various social platforms.
+            </p>
+        </div>
+
+        <div class="service-item">
+          <div class="service-icon icon-svg">
+            <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/media.svg') }}" class="svg-object"></object>
+          </div>
+          <h3 class="service-title"> Media Consultancy </h3>
+          <p class="service-description">Providing expert advice and strategies in media production, distribution, and marketing to maximize your media presence and engagement.</p>
+      </div>
+
+      <div class="service-item">
+        <div class="service-icon icon-svg">
+          <object type="image/svg+xml" data="{{ asset('assets/imgs/icons/services/it.svg') }}" class="svg-object"></object>
+        </div>
+        <h3 class="service-title"> IT Administration </h3>
+        <p class="service-description">Delivering advices and giving Consultancy for any type of technical support to keep your systems secure and operational.</p>
+    </div>
+
+
+          </div>
+      </div>
+  </section>
+  
     <!-- ------------------>
         <!-- <div class="services-list">
             <h3>Our Services</h3>

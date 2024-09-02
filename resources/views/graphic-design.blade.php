@@ -37,9 +37,6 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
 
-    <!-- Fav Icon -->
-    <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
-
     <!-- All CSS files -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
