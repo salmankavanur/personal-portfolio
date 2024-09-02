@@ -45,13 +45,25 @@
     margin-bottom: 40px;
 }
 
-.why-choose-me h3, .my-expertise h3, .proven-results h3, .get-started h3 {
+/* .why-choose-me h3, .my-expertise h3, .proven-results h3, .get-started h3 {
     font-size: 2em;
     margin-bottom: 20px;
     background-color: #ffd700;
     color: black;
     padding: 10px;
+} */
+
+.why-choose-me h3, .my-expertise h3, .proven-results h3, .get-started h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #ffd700;
+    padding: 10px;
+    border: 2px solid #ffd700; /* Stroke with #ffd700 color */
+    border-radius: 50px; /* Maximum curve for border radius */
+    background-color: transparent; /* Remove background color */
+    text-align: center; /* Optional: Center-align text */
 }
+
 
 .why-choose-me p, .my-expertise p {
     text-align: justify;
