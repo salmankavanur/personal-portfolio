@@ -4,7 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
   <meta name="description" content="Salman MP - Freelance Web Designer in Malappuram.
    Offering top-notch web design and digital marketing services in Malappuram.">
 
@@ -38,9 +39,6 @@
   <link rel="canonical" href="https://www.salmanmp.me/web-design" />
 
   <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
-
-  <!-- Fav Icon -->
- <link rel="icon" type="image/x-icon" href="{{ asset('assets/imgs/logo/favicon.png') }}">
 
   <!-- All CSS files -->
   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
