@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:#FFCC00;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFCC00;}
-	.st2{opacity:0.5;fill:none;stroke:#BFC6DD;stroke-width:5;stroke-miterlimit:10;enable-background:new    ;}
+	.st2{fill:none;stroke:#FFCC00;stroke-width:5;stroke-miterlimit:10;}
 </style>
 <path class="st0" d="M400,66.7c61.5,0,111,0,151.3,2.9L436.6,241.7H280.1l116.7-175H400z"/>
 <path class="st0" d="M115.5,115.5c41.7-41.7,105.2-47.8,221-48.7L220,241.7H70.1C75.1,182.9,86.9,144.1,115.5,115.5z"/>
