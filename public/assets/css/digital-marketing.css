@@ -104,16 +104,16 @@
     flex-direction: column;
 }
 
-.service-title {
+/* .service-title {
     font-weight: bold;
     margin-bottom: 5px;
     /* background-color: white; */
-    color: black;
-}
+    /* color: black;
+} */
 
-.service-description {
+/* .service-description {
     text-align: justify;
-}
+} */ */
 
 .services-list li::before {
     content: "•";
@@ -153,6 +153,7 @@
         text-align: left;
     }
 }
+
 
 
 /* Additional Styles */
@@ -225,6 +226,7 @@
 
 .service-title {
     font-size: 1.5em;
+    font-weight: 500;
     margin-bottom: 15px;
     color: #ffcc00; /* Highlight color for titles */
     text-align: left;
@@ -236,4 +238,26 @@
     line-height: 1.6;
     color: #ccc; /* Light gray for descriptions */
     padding-right: 55px;
+    text-align: justify;
+}
+
+.expertise-list {
+    text-align: left;
+    width: 650px;
+}
+
+.expertise-title {
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: black; /* Highlight color for titles */
+    text-align: left;
+    background-color: #fff;
+}
+
+.expertise-description {
+    line-height: 1.6;
+    color: #ccc; /* Light gray for descriptions */
+    padding-right: 55px;
+    text-align: left;
+    padding-left: 10px;
 }

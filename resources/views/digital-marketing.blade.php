@@ -298,18 +298,20 @@
                   I specialize in crafting tailored digital marketing solutions designed to drive your business forward.
                   In today's digital landscape, having a proficient Digital Marketing Strategist is crucial for enhancing online visibility, driving organic traffic, and maximizing conversions. With a passion for staying ahead of industry trends, I’m committed to delivering results that exceed your expectations. My areas of expertise include:</p>
 
-                  <br>
-            <span class="service-title">SEO and SEM:</span>
-            <span class="service-description">Driving targeted traffic to your website.</span> <br>
+            <br>     
+            <div class="expertise-list">
+            <span class="expertise-title">SEO and SEM</span>
+            <span class="expertise-description">Driving targeted traffic to your website.</span> <br>
 
-            <span class="service-title">Social Media Marketing:</span>
-            <span class="service-description">Engaging your audience and building brand loyalty.</span> <br>
+            <span class="expertise-title">Social Media Marketing</span>
+            <span class="expertise-description">Engaging your audience and building brand loyalty.</span> <br>
 
-            <span class="service-title">Content Marketing:</span>
-            <span class="service-description">Crafting compelling content that converts.</span> <br>
+            <span class="expertise-title">Content Marketing</span>
+            <span class="expertise-description">Crafting compelling content that converts.</span> <br>
 
-            <span class="service-title">Data Analytics:</span>
-            <span class="service-description">Using insights to optimize your marketing strategies.</span> <br>
+            <span class="expertise-title">Data Analytics</span>
+            <span class="expertise-description">Using insights to optimize your marketing strategies.</span>
+            </div> <br>
 
             </div>
             <div class="developer-about__img">
