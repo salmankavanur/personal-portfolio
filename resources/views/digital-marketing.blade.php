@@ -254,6 +254,7 @@
             <div class="image-column">
                 {{-- <img src="{{ asset('assets/imgs/media/digital-marketing.webp') }}" alt="Digital Marketing Expert in Malappuram" class="animated-image"> --}}
                 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/3dd0a686-cbb1-4d10-ac60-aabca601dcf0/Vko93FvwjV.json"  speed="1" style="width: 300px; height: 300px" loop autoplay direction="1" mode="normal"></lottie-player>
+                <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="{{ asset('assets/svg/marketing.json') }}"  speed="1" style="width: 300px; height: 300px" loop autoplay direction="1" mode="normal"></lottie-player>
               </div>
         </div>
 
