@@ -252,8 +252,9 @@
                       your online presence, enhance brand visibility, and drive high-quality traffic to your business. In today's competitive digital landscape,
                    it is essential to partner with a <strong>skilled digital marketing strategist</strong> to achieve sustainable growth and maximize ROI.   </div>
             <div class="image-column">
-                <img src="{{ asset('assets/imgs/media/digital-marketing.webp') }}" alt="Digital Marketing Expert in Malappuram" class="animated-image">
-            </div>
+                {{-- <img src="{{ asset('assets/imgs/media/digital-marketing.webp') }}" alt="Digital Marketing Expert in Malappuram" class="animated-image"> --}}
+                <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/3dd0a686-cbb1-4d10-ac60-aabca601dcf0/Vko93FvwjV.json"  speed="1" style="width: 300px; height: 300px" loop autoplay direction="1" mode="normal"></lottie-player>
+              </div>
         </div>
 
         <div class="why-choose-me">
