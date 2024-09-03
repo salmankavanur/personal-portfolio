@@ -227,10 +227,13 @@
     font-size: 1.5em;
     margin-bottom: 15px;
     color: #ffcc00; /* Highlight color for titles */
+    text-align: left;
+    padding-left: 55px;
 }
 
 .service-description {
     font-size: 1em;
     line-height: 1.6;
     color: #ccc; /* Light gray for descriptions */
+    padding-right: 55px;
 }
