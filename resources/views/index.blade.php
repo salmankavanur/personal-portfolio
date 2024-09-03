@@ -915,10 +915,29 @@
                                                 </div>
                                             </a>
                                         </div>
+
+                                        <div class="expertise-element has_fade_anim">
+                                            <a href="./digital-marketing">
+                                                <div class="pdesigner-service__item">
+                                                    <h2 class="pdesigner-service__number">02</h2>
+                                                    <h3 class="pdesigner-service__title">Digital <br> Marketing</h3>
+                                                    <p>As a leading Digital Marketing Strategist in Malappuram, Kerala,
+                                                         I offer a comprehensive suite of services tailored to meet the unique needs of your business. </p>
+                                                    <ul class="list-plus">
+                                                        <li>Search Engine Optimization</li>
+                                                        <li>Social Media Marketing</li>
+                                                        <li>Content Marketing</li>
+                                                        <li>Data Analytics</li>
+
+                                                    </ul>
+                                                </div>
+                                            </a>
+                                        </div>
+
                                         <div class="expertise-element has_fade_anim">
                                             <a href="#">
                                                 <div class="pdesigner-service__item">
-                                                    <h2 class="pdesigner-service__number">02</h2>
+                                                    <h2 class="pdesigner-service__number">03</h2>
                                                     <h3 class="pdesigner-service__title">Media <br> Passion</h3>
                                                     <p>In the captivating world of media, I'm not just a designer – I'm a visual treater. From drone photo/videography to seamless editing and color grading, I bring visuals to life.</p>
                                                     <ul class="list-plus">
@@ -935,7 +954,7 @@
                                         <div class="expertise-element has_fade_anim">
                                             <a href="./graphic-design">
                                                 <div class="pdesigner-service__item">
-                                                    <h2 class="pdesigner-service__number">03</h2>
+                                                    <h2 class="pdesigner-service__number">04</h2>
                                                     <h3 class="pdesigner-service__title">Graphic <br> Design</h3>
                                                     <p>Specializing in creating visually compelling designs for various media, ensuring brand consistency and engagement.</p>
                                                     <ul class="list-plus">
@@ -951,7 +970,7 @@
                                         <div class="expertise-element has_fade_anim">
                                             <a href="#">
                                                 <div class="pdesigner-service__item">
-                                                    <h2 class="pdesigner-service__number">04</h2>
+                                                    <h2 class="pdesigner-service__number">05</h2>
                                                     <h3 class="pdesigner-service__title">Hosting & <br> Server Management</h3>
                                                     <p>Well-experienced in hosting and server management to ensure smooth and reliable web operations.</p>
                                                     <ul class="list-plus">
@@ -965,7 +984,7 @@
                                         <div class="expertise-element has_fade_anim">
                                             <a href="#">
                                                 <div class="pdesigner-service__item">
-                                                    <h2 class="pdesigner-service__number">04</h2>
+                                                    <h2 class="pdesigner-service__number">06</h2>
                                                     <h3 class="pdesigner-service__title">Library & <br> Digitalization</h3>
                                                     <p>Proficient in library digitalization using Koha, ensuring efficient management and accessibility of digital resources.</p>
                                                     <ul class="list-plus">
