@@ -262,23 +262,23 @@
                I offer a comprehensive suite of services tailored to meet the unique needs of your business. Here’s how I can help you:</p>
             <ul class="services-list">
                 
-                    <span class="service-title">Search Engine Optimization (SEO):</span>
-                    <span class="service-description">Enhance your website's visibility on Google and other major search engines
+                    <span class="speciality-title">Search Engine Optimization (SEO):</span>
+                    <span class="speciality-description">Enhance your website's visibility on Google and other major search engines
                        through proven SEO strategies that drive organic traffic and improve your search engine rankings.</span>
                 
                 
-                    <span class="service-title">Search Engine Marketing (SEM):</span>
-                    <span class="service-description"> Maximize the effectiveness of your paid online advertising campaigns
+                    <span class="speciality-title">Search Engine Marketing (SEM):</span>
+                    <span class="speciality-description"> Maximize the effectiveness of your paid online advertising campaigns
                        with strategic SEM techniques that deliver high returns on investment.</span>
                 
                 
-                    <span class="service-title">Social Media Management:</span>
-                    <span class="service-description"> Strengthen your brand’s online presence by engaging with your audience
+                    <span class="speciality-title">Social Media Management:</span>
+                    <span class="speciality-description"> Strengthen your brand’s online presence by engaging with your audience
                        on platforms like Facebook, Instagram, Twitter, and LinkedIn, building a loyal community.</span>
                
                
-                    <span class="service-title">Content Marketing:</span>
-                    <span class="service-description">Create and distribute valuable, relevant,
+                    <span class="speciality-title">Content Marketing:</span>
+                    <span class="speciality-description">Create and distribute valuable, relevant,
                        and consistent content to attract and retain a clearly defined audience, ultimately driving profitable customer actions.</span>
                
             </ul>

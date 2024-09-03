@@ -222,9 +222,21 @@
     margin-bottom: 20px;
 }
 
-
-
 .service-title {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #ffcc00; /* Highlight color for titles */
+}
+
+.service-description {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #ccc; /* Light gray for descriptions */
+}
+
+/* NEW STYLES */
+
+.speciality-title {
     font-size: 1.5em;
     font-weight: 500;
     margin-bottom: 15px;
@@ -233,7 +245,7 @@
     padding-left: 55px;
 }
 
-.service-description {
+.speciality-description {
     font-size: 1em;
     line-height: 1.6;
     color: #ccc; /* Light gray for descriptions */
