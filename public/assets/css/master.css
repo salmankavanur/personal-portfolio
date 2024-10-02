@@ -1,10 +1,12 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
 
-  Theme Name: Axtra - Digital Agency HTML5 Template
-  Author: Crowdyflow
-  Support: habib.crowdyflow@gmail.com
-  Description: BUILDY – is a  Constructor HTML5 template that comes with high-quality 3 Pre build Home Pages and many built-in awesome inner pages  which are perfect for any creative agencies, designers, digital agencies, freelancers, developers, designers, marketing, startup, blog and portfolio.
+  Theme Name: Personal Portfolio Template by Salman MP
+  Author: Salman MP
+  Support: hello@salmanmp.me
+  Description: Personal Portfolio Template by Salman MP – is a  Constructor HTML5 template that comes with high-quality 3 Pre build Home Pages
+   and many built-in awesome inner pages  which are perfect for any creative agencies, designers, digital agencies, freelancers, developers, designers,
+    marketing, startup, blog and portfolio.
   Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -7384,7 +7386,7 @@ section {
   z-index: 100;
 }
 .container-preloader .animation-preloader .spinner {
-  animation: spinner 1s infinite linear;
+  animation: spinner 0.55s infinite linear;
   border-radius: 50%;
   height: 9em;
   width: 9em;
@@ -7420,7 +7422,7 @@ section {
 .container-preloader .animation-preloader .txt-loading .characters:before {
   color: var(--primary);
   content: attr(data-text);
-  animation: characters 4s infinite;
+  animation: characters 1.5s infinite;
   left: 0;
   top: 0;
   opacity: 0;
@@ -7461,7 +7463,7 @@ section {
 
 .loaded .animation-preloader {
   opacity: 0;
-  transition: 0.3s ease-out;
+  transition: 0.1s ease-out;
 }
 .loaded .loader-section.section-left {
   transform: translateX(-101%);
