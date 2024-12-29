@@ -366,7 +366,7 @@
             </h2>
                                         </div>
                                         <div class="cf_btn has_fade_anim" data-fade-from="top" data-delay="1" data-ease="bounce">
-                                            <a href="https://www.behance.net/salmanmp" class="btn-hover-mask" data-text="View My Works">View My Works</a>
+                                            <a href="https://creative.salmanmp.me/portfolio/" class="btn-hover-mask" data-text="View My Works">View My Works</a>
                                         </div>
                                     </div>
                                 </div>
@@ -868,7 +868,7 @@
                             <div class="row">
                                 <div class="col-xxl-12">
                                     <div class="cf_btn wc-btn has_fade_anim" data-fade-from="top" data-ease="bounce">
-                                        <a href="https://www.behance.net/salmanmp" class="btn-hover-mask">Load more works <i
+                                        <a href="https://creative.salmanmp.me/portfolio/" class="btn-hover-mask">Load more works <i
                         class="fa-solid fa-arrow-right"></i></a>
                                     </div>
                                 </div>
