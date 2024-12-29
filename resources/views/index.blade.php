@@ -1186,7 +1186,7 @@
                                 <div class="col-xx-l-4 col-xl-4 col-lg-4 col-md-4">
                                     <article class="has_fade_anim" data-fade-from="left">
                                         <div class="pdesigner-blog__item pdesigner__blog-hover">
-                                            <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/">
+                                            <a href="https://creative.salmanmp.me/blogs/">
                                                 <img src="{{ asset('assets/imgs/blog/4-company-profile.jpg') }}" alt="10 Vital Components of an Ideal Company Profile Design">
                                             </a>
                                             <div class="pdesigner-blog__content">
@@ -1195,10 +1195,10 @@
                                                         <li><a href="#">Branding</a></li>
                                                         <li><a href="#">22 Feb 2022</a></li>
                                                     </ul>
-                                                    <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/">
+                                                    <a href="https://creative.salmanmp.me/blogs/">
                                                         <h4 class="pdesigner-blog__title">10 VITAL COMPONENTS OF AN IDEAL COMPANY PROFILE DESIGN</h4>
                                                     </a>
-                                                    <a href="https://alifsolutions.in/10-vital-components-of-an-ideal-company-profile-design/" class="pdesigner-blog__link" aria-label="Read more about 10 Vital Components of an Ideal Company Profile Design">
+                                                    <a href="https://creative.salmanmp.me/blogs/" class="pdesigner-blog__link" aria-label="Read more about 10 Vital Components of an Ideal Company Profile Design">
                                                         <span class="visually-hidden">Read more about 10 Vital Components of an Ideal Company Profile Design</span> Read More <span><i class="fa-solid fa-arrow-right"></i></span>
                                                     </a>
                                                 </div>
